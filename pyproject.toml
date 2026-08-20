@@ -1,0 +1,30 @@
+[project]
+name = "wealth-pilot"
+version = "0.1.0"
+description = "An agentic AI wealth-advisory pilot demonstrating reliable single-agent, memory/RAG, and multi-agent system design"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pydantic>=2.6",
+    "numpy>=1.26",
+    "rank_bm25>=0.2.2",
+    "langgraph>=0.2",
+    "langgraph-checkpoint-sqlite>=1.0",
+    "httpx>=0.27",
+]
+
+[project.optional-dependencies]
+observability = ["langfuse>=2.0"]
+mcp = ["mcp>=1.2,<2.0"]
+dev = ["pytest>=8.0"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

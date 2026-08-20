@@ -1,0 +1,11 @@
+pydantic>=2.6
+numpy>=1.26
+rank_bm25>=0.2.2
+langgraph>=0.2
+langgraph-checkpoint-sqlite>=1.0
+httpx>=0.27
+pytest>=8.0
+
+# optional, only needed for real providers / real tracing / MCP server
+mcp>=1.2,<2.0
+langfuse>=2.0

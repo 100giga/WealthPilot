@@ -1,0 +1,18 @@
+[
+  {
+    "query": "What is the expense ratio of the NIFTY 50 index fund?",
+    "expected_doc_ids": ["nifty_index_fund_2026"]
+  },
+  {
+    "query": "How often must a moderate-risk client re-verify KYC, and can it be done online?",
+    "expected_doc_ids": ["kyc_reverification_policy_2026"]
+  },
+  {
+    "query": "What is the exit load on the gold ETF, fund code INV-2026-0417?",
+    "expected_doc_ids": ["gold_etf_2026"]
+  },
+  {
+    "query": "What risk category is the NIFTY 50 index fund on the riskometer?",
+    "expected_doc_ids": ["nifty_index_fund_2026"]
+  }
+]
