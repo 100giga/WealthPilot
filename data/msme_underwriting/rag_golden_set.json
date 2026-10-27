@@ -1,0 +1,62 @@
+[
+  {
+    "query": "What minimum DSCR does a term loan need for approval under CP-MSME-2026-03?",
+    "expected_doc_ids": ["credit_policy_msme_2026"]
+  },
+  {
+    "query": "What was the minimum promoter bureau score for an application dated January 2025?",
+    "expected_doc_ids": ["credit_policy_msme_2024_superseded"]
+  },
+  {
+    "query": "When does FRD_GST_BANK_MISMATCH trigger and who reviews it?",
+    "expected_doc_ids": ["credit_policy_msme_2026"]
+  },
+  {
+    "query": "Why are cash credit limits tested on ISCR instead of DSCR, and what is the 20% turnover cap?",
+    "expected_doc_ids": ["credit_policy_msme_2026"]
+  },
+  {
+    "query": "Above what loan amount is Credit Committee approval required?",
+    "expected_doc_ids": ["credit_policy_msme_2026"]
+  },
+  {
+    "query": "What are the turnover and investment limits for a small enterprise after April 2025?",
+    "expected_doc_ids": ["msme_classification_note"]
+  },
+  {
+    "query": "What is the maximum loan amount eligible for CGTMSE guarantee cover?",
+    "expected_doc_ids": ["cgtmse_scheme_note"]
+  },
+  {
+    "query": "What is the loan range for the Mudra Kishore and Tarun Plus categories?",
+    "expected_doc_ids": ["pmmy_mudra_product_note"]
+  },
+  {
+    "query": "How often must a high-risk customer complete re-KYC?",
+    "expected_doc_ids": ["kyc_aml_policy_msme"]
+  },
+  {
+    "query": "What should happen when a promoter is a fuzzy name match on the sanctions list but the date of birth differs?",
+    "expected_doc_ids": ["kyc_aml_policy_msme"]
+  },
+  {
+    "query": "Is tobacco manufacturing financed, and what extra DSCR applies to construction contractors?",
+    "expected_doc_ids": ["sector_risk_appetite_2026"]
+  },
+  {
+    "query": "What interest rate applies to a WP4 grade borrower in a high-risk sector?",
+    "expected_doc_ids": ["pricing_grid_2026", "sector_risk_appetite_2026"]
+  },
+  {
+    "query": "What loan-to-value is allowed against a residential property mortgage?",
+    "expected_doc_ids": ["collateral_and_security_guidelines"]
+  },
+  {
+    "query": "Can an AI agent finally reject an application flagged for human review?",
+    "expected_doc_ids": ["fair_practices_and_grievance"]
+  },
+  {
+    "query": "Which beneficial owners must be identified for an LLP borrower?",
+    "expected_doc_ids": ["kyc_aml_policy_msme"]
+  }
+]

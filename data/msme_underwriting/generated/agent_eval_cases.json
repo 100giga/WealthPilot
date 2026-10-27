@@ -1,0 +1,555 @@
+[
+  {
+    "application_id": "LA-00049",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "APPROVE",
+    "expected_reason_codes": [],
+    "expected_conditions": [],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP2"
+  },
+  {
+    "application_id": "LA-00499",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "APPROVE",
+    "expected_reason_codes": [],
+    "expected_conditions": [],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP1"
+  },
+  {
+    "application_id": "LA-00085",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "APPROVE",
+    "expected_reason_codes": [],
+    "expected_conditions": [],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP1"
+  },
+  {
+    "application_id": "LA-00250",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "APPROVE",
+    "expected_reason_codes": [],
+    "expected_conditions": [],
+    "expected_human_review": false,
+    "expected_risk_grade": "WP6"
+  },
+  {
+    "application_id": "LA-00129",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "APPROVE",
+    "expected_reason_codes": [],
+    "expected_conditions": [],
+    "expected_human_review": false,
+    "expected_risk_grade": "WP1"
+  },
+  {
+    "application_id": "LA-00249",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "APPROVE",
+    "expected_reason_codes": [],
+    "expected_conditions": [],
+    "expected_human_review": false,
+    "expected_risk_grade": "WP1"
+  },
+  {
+    "application_id": "LA-00341",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "APPROVE",
+    "expected_reason_codes": [],
+    "expected_conditions": [],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP1"
+  },
+  {
+    "application_id": "LA-00245",
+    "policy_id": "CP-MSME-2026-03",
+    "expected_recommendation": "APPROVE",
+    "expected_reason_codes": [],
+    "expected_conditions": [],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP2"
+  },
+  {
+    "application_id": "LA-00234",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "APPROVE",
+    "expected_reason_codes": [],
+    "expected_conditions": [],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP1"
+  },
+  {
+    "application_id": "LA-00411",
+    "policy_id": "CP-MSME-2026-03",
+    "expected_recommendation": "APPROVE",
+    "expected_reason_codes": [],
+    "expected_conditions": [],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP2"
+  },
+  {
+    "application_id": "LA-00458",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "APPROVE",
+    "expected_reason_codes": [],
+    "expected_conditions": [],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP3"
+  },
+  {
+    "application_id": "LA-00293",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "APPROVE",
+    "expected_reason_codes": [],
+    "expected_conditions": [],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP2"
+  },
+  {
+    "application_id": "LA-00438",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "APPROVE_WITH_CONDITIONS",
+    "expected_reason_codes": [],
+    "expected_conditions": [
+      "CND_AMOUNT_REDUCED_FOR_DSCR"
+    ],
+    "expected_human_review": false,
+    "expected_risk_grade": "WP5"
+  },
+  {
+    "application_id": "LA-00110",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "APPROVE_WITH_CONDITIONS",
+    "expected_reason_codes": [],
+    "expected_conditions": [
+      "CND_LIQUIDITY_MONITORING"
+    ],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP1"
+  },
+  {
+    "application_id": "LA-00038",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "APPROVE_WITH_CONDITIONS",
+    "expected_reason_codes": [],
+    "expected_conditions": [
+      "CND_ISCR_MARGINAL",
+      "CND_PROMOTER_EQUITY_INFUSION",
+      "CND_LIQUIDITY_MONITORING",
+      "CND_BOUNCE_MONITORING",
+      "CND_RECENT_DELINQUENCY_EXPLANATION",
+      "CND_HIGH_RISK_GRADE"
+    ],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP7"
+  },
+  {
+    "application_id": "LA-00444",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "APPROVE_WITH_CONDITIONS",
+    "expected_reason_codes": [],
+    "expected_conditions": [
+      "CND_UDYAM_CATEGORY_UPDATE"
+    ],
+    "expected_human_review": false,
+    "expected_risk_grade": "WP2"
+  },
+  {
+    "application_id": "LA-00300",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "APPROVE_WITH_CONDITIONS",
+    "expected_reason_codes": [],
+    "expected_conditions": [
+      "CND_LIQUIDITY_MONITORING"
+    ],
+    "expected_human_review": false,
+    "expected_risk_grade": "WP3"
+  },
+  {
+    "application_id": "LA-00378",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "APPROVE_WITH_CONDITIONS",
+    "expected_reason_codes": [],
+    "expected_conditions": [
+      "CND_NEW_TO_CREDIT_GUARANTOR"
+    ],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP2"
+  },
+  {
+    "application_id": "LA-00062",
+    "policy_id": "CP-MSME-2026-03",
+    "expected_recommendation": "APPROVE_WITH_CONDITIONS",
+    "expected_reason_codes": [],
+    "expected_conditions": [
+      "CND_ISCR_MARGINAL",
+      "CND_LIQUIDITY_MONITORING"
+    ],
+    "expected_human_review": false,
+    "expected_risk_grade": "WP5"
+  },
+  {
+    "application_id": "LA-00107",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "APPROVE_WITH_CONDITIONS",
+    "expected_reason_codes": [],
+    "expected_conditions": [
+      "CND_ISCR_MARGINAL",
+      "CND_LIQUIDITY_MONITORING"
+    ],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP4"
+  },
+  {
+    "application_id": "LA-00149",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "APPROVE_WITH_CONDITIONS",
+    "expected_reason_codes": [],
+    "expected_conditions": [
+      "CND_LIQUIDITY_MONITORING"
+    ],
+    "expected_human_review": false,
+    "expected_risk_grade": "WP2"
+  },
+  {
+    "application_id": "LA-00143",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "APPROVE_WITH_CONDITIONS",
+    "expected_reason_codes": [],
+    "expected_conditions": [
+      "CND_ISCR_MARGINAL"
+    ],
+    "expected_human_review": false,
+    "expected_risk_grade": "WP5"
+  },
+  {
+    "application_id": "LA-00078",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "APPROVE_WITH_CONDITIONS",
+    "expected_reason_codes": [],
+    "expected_conditions": [
+      "CND_NEW_TO_CREDIT_GUARANTOR",
+      "CND_UDYAM_CATEGORY_UPDATE"
+    ],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP4"
+  },
+  {
+    "application_id": "LA-00132",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "APPROVE_WITH_CONDITIONS",
+    "expected_reason_codes": [],
+    "expected_conditions": [
+      "CND_AMOUNT_REDUCED_FOR_DSCR"
+    ],
+    "expected_human_review": false,
+    "expected_risk_grade": "WP5"
+  },
+  {
+    "application_id": "LA-00292",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "REFER",
+    "expected_reason_codes": [
+      "CMP_PEP_ENHANCED_DUE_DILIGENCE",
+      "CMP_KYC_EXPIRED"
+    ],
+    "expected_conditions": [
+      "CND_UDYAM_CATEGORY_UPDATE"
+    ],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP3"
+  },
+  {
+    "application_id": "LA-00100",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "REFER",
+    "expected_reason_codes": [
+      "FRD_GST_BANK_MISMATCH",
+      "FIN_ISCR_BELOW_FLOOR",
+      "FIN_LEVERAGE_EXCESSIVE",
+      "BNK_EXCESSIVE_BOUNCES",
+      "BUR_CMR_HIGH_RISK",
+      "RSK_SCORE_BELOW_CUTOFF"
+    ],
+    "expected_conditions": [
+      "CND_LIQUIDITY_MONITORING",
+      "CND_HIGH_RECENT_ENQUIRIES",
+      "CND_RECENT_DELINQUENCY_EXPLANATION"
+    ],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP8"
+  },
+  {
+    "application_id": "LA-00373",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "REFER",
+    "expected_reason_codes": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH",
+      "CMP_BENEFICIAL_OWNER_UNDISCLOSED"
+    ],
+    "expected_conditions": [
+      "CND_NEW_TO_CREDIT_GUARANTOR",
+      "CND_LIQUIDITY_MONITORING"
+    ],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP3"
+  },
+  {
+    "application_id": "LA-00358",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "REFER",
+    "expected_reason_codes": [
+      "CMP_KYC_EXPIRED",
+      "FIN_ISCR_BELOW_FLOOR"
+    ],
+    "expected_conditions": [],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP4"
+  },
+  {
+    "application_id": "LA-00498",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "REFER",
+    "expected_reason_codes": [
+      "FRD_GST_BANK_MISMATCH"
+    ],
+    "expected_conditions": [],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP2"
+  },
+  {
+    "application_id": "LA-00256",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "REFER",
+    "expected_reason_codes": [
+      "CMP_PEP_ENHANCED_DUE_DILIGENCE",
+      "CMP_KYC_EXPIRED"
+    ],
+    "expected_conditions": [],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP2"
+  },
+  {
+    "application_id": "LA-00205",
+    "policy_id": "CP-MSME-2026-03",
+    "expected_recommendation": "REFER",
+    "expected_reason_codes": [
+      "CMP_RELATED_PARTY_LENDING"
+    ],
+    "expected_conditions": [
+      "CND_AMOUNT_REDUCED_FOR_DSCR"
+    ],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP5"
+  },
+  {
+    "application_id": "LA-00274",
+    "policy_id": "CP-MSME-2026-03",
+    "expected_recommendation": "REFER",
+    "expected_reason_codes": [
+      "CMP_KYC_EXPIRED"
+    ],
+    "expected_conditions": [],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP1"
+  },
+  {
+    "application_id": "LA-00006",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "REFER",
+    "expected_reason_codes": [
+      "CMP_KYC_EXPIRED"
+    ],
+    "expected_conditions": [
+      "CND_NEW_TO_CREDIT_GUARANTOR",
+      "CND_UDYAM_CATEGORY_UPDATE",
+      "CND_LIQUIDITY_MONITORING"
+    ],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP2"
+  },
+  {
+    "application_id": "LA-00448",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "REFER",
+    "expected_reason_codes": [
+      "CMP_KYC_EXPIRED",
+      "FIN_DSCR_BELOW_FLOOR"
+    ],
+    "expected_conditions": [],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP6"
+  },
+  {
+    "application_id": "LA-00299",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "REFER",
+    "expected_reason_codes": [
+      "CMP_PEP_ENHANCED_DUE_DILIGENCE",
+      "CMP_KYC_EXPIRED",
+      "CMP_BENEFICIAL_OWNER_UNDISCLOSED",
+      "FIN_DSCR_BELOW_FLOOR"
+    ],
+    "expected_conditions": [
+      "CND_HIGH_RISK_GRADE"
+    ],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP7"
+  },
+  {
+    "application_id": "LA-00135",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "REFER",
+    "expected_reason_codes": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH",
+      "FIN_ISCR_BELOW_FLOOR"
+    ],
+    "expected_conditions": [
+      "CND_RECENT_DELINQUENCY_EXPLANATION",
+      "CND_HIGH_RISK_GRADE"
+    ],
+    "expected_human_review": true,
+    "expected_risk_grade": "WP7"
+  },
+  {
+    "application_id": "LA-00016",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "REJECT",
+    "expected_reason_codes": [
+      "FIN_DSCR_BELOW_FLOOR"
+    ],
+    "expected_conditions": [],
+    "expected_human_review": false,
+    "expected_risk_grade": "WP5"
+  },
+  {
+    "application_id": "LA-00217",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "REJECT",
+    "expected_reason_codes": [
+      "FIN_DSCR_BELOW_FLOOR"
+    ],
+    "expected_conditions": [],
+    "expected_human_review": false,
+    "expected_risk_grade": "WP5"
+  },
+  {
+    "application_id": "LA-00303",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "REJECT",
+    "expected_reason_codes": [
+      "KO_PROMOTER_SCORE_BELOW_MIN",
+      "FIN_ISCR_BELOW_FLOOR",
+      "FIN_LIQUIDITY_INADEQUATE",
+      "BNK_EXCESSIVE_BOUNCES",
+      "RSK_SCORE_BELOW_CUTOFF"
+    ],
+    "expected_conditions": [],
+    "expected_human_review": false,
+    "expected_risk_grade": "WP8"
+  },
+  {
+    "application_id": "LA-00386",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "REJECT",
+    "expected_reason_codes": [
+      "KO_VINTAGE_BELOW_MIN"
+    ],
+    "expected_conditions": [],
+    "expected_human_review": false,
+    "expected_risk_grade": "WP3"
+  },
+  {
+    "application_id": "LA-00007",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "REJECT",
+    "expected_reason_codes": [
+      "FIN_LIQUIDITY_INADEQUATE"
+    ],
+    "expected_conditions": [],
+    "expected_human_review": false,
+    "expected_risk_grade": "WP3"
+  },
+  {
+    "application_id": "LA-00111",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "REJECT",
+    "expected_reason_codes": [
+      "KO_VINTAGE_BELOW_MIN",
+      "FIN_DSCR_BELOW_FLOOR"
+    ],
+    "expected_conditions": [],
+    "expected_human_review": false,
+    "expected_risk_grade": "WP6"
+  },
+  {
+    "application_id": "LA-00077",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "REJECT",
+    "expected_reason_codes": [
+      "CMP_SANCTIONS_MATCH",
+      "KO_VINTAGE_BELOW_MIN"
+    ],
+    "expected_conditions": [],
+    "expected_human_review": false,
+    "expected_risk_grade": "WP4"
+  },
+  {
+    "application_id": "LA-00315",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "REJECT",
+    "expected_reason_codes": [
+      "FIN_DSCR_BELOW_FLOOR"
+    ],
+    "expected_conditions": [],
+    "expected_human_review": false,
+    "expected_risk_grade": "WP6"
+  },
+  {
+    "application_id": "LA-00185",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "REJECT",
+    "expected_reason_codes": [
+      "KO_VINTAGE_BELOW_MIN",
+      "BNK_EXCESSIVE_BOUNCES"
+    ],
+    "expected_conditions": [],
+    "expected_human_review": false,
+    "expected_risk_grade": "WP5"
+  },
+  {
+    "application_id": "LA-00488",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "REJECT",
+    "expected_reason_codes": [
+      "FIN_DSCR_BELOW_FLOOR"
+    ],
+    "expected_conditions": [],
+    "expected_human_review": false,
+    "expected_risk_grade": "WP5"
+  },
+  {
+    "application_id": "LA-00073",
+    "policy_id": "CP-MSME-2026-03",
+    "expected_recommendation": "REJECT",
+    "expected_reason_codes": [
+      "KO_NEGATIVE_LIST_SECTOR"
+    ],
+    "expected_conditions": [],
+    "expected_human_review": false,
+    "expected_risk_grade": "WP4"
+  },
+  {
+    "application_id": "LA-00461",
+    "policy_id": "CP-MSME-2024-01",
+    "expected_recommendation": "REJECT",
+    "expected_reason_codes": [
+      "FIN_DSCR_BELOW_FLOOR"
+    ],
+    "expected_conditions": [],
+    "expected_human_review": false,
+    "expected_risk_grade": "WP5"
+  }
+]

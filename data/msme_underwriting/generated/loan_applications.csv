@@ -1,0 +1,501 @@
+application_id,applicant_id,application_date,product,mudra_category,purpose,requested_amount,requested_tenure_months,collateral_type,collateral_value,cgtmse_requested,channel,account_aggregator_consent_id,relationship_manager
+LA-00001,MSME-00001,2025-02-09,PMMY Mudra,Tarun Plus,working_capital,1980000,60,none_cgtmse,0,True,dsa,AA-df22dd729e1e,RM-002
+LA-00002,MSME-00002,2024-11-05,Equipment Finance,,vehicle_purchase,44790000,60,none_cgtmse,0,True,digital_aa,AA-c35cdc2e5a55,RM-006
+LA-00003,MSME-00003,2026-01-21,Cash Credit,,working_capital,3470000,12,hypothecation_machinery,5930000,False,branch,AA-aec5e106828e,RM-039
+LA-00004,MSME-00004,2025-08-16,Equipment Finance,,capex_machinery,12970000,36,none_cgtmse,0,True,digital_aa,AA-edd1be4f6604,RM-032
+LA-00005,MSME-00005,2026-07-28,PMMY Mudra,Tarun Plus,working_capital,1020000,36,none_cgtmse,0,True,branch,,RM-021
+LA-00006,MSME-00006,2024-12-25,Cash Credit,,working_capital,4930000,12,none_cgtmse,0,True,dsa,AA-2018e1d6d891,RM-013
+LA-00007,MSME-00007,2025-02-26,Cash Credit,,working_capital,3140000,12,residential_property,2520000,False,branch,AA-6db4c7df9d6e,RM-011
+LA-00008,MSME-00008,2025-02-25,Cash Credit,,working_capital,158730000,12,hypothecation_stock_debtors,114340000,False,branch,AA-fa3c45bd053e,RM-003
+LA-00009,MSME-00009,2025-07-23,Equipment Finance,,capex_machinery,5480000,48,none_cgtmse,0,True,digital_aa,AA-999f15dafdd9,RM-032
+LA-00010,MSME-00010,2025-03-22,PMMY Mudra,Kishore,working_capital,210000,36,none_cgtmse,0,True,branch,,RM-019
+LA-00011,MSME-00011,2026-03-30,PMMY Mudra,Kishore,working_capital,280000,48,none_cgtmse,0,True,digital_aa,AA-76c3175f4ac7,RM-009
+LA-00012,MSME-00012,2025-07-24,TReDS Invoice Discounting,,working_capital,60530000,3,fd_lien,84580000,False,dsa,AA-732d94a95eb9,RM-025
+LA-00013,MSME-00013,2026-06-14,PMMY Mudra,Tarun,working_capital,970000,60,none_cgtmse,0,True,dsa,AA-27d260aaa2da,RM-039
+LA-00014,MSME-00014,2025-09-29,Equipment Finance,,capex_machinery,10120000,36,hypothecation_machinery,17270000,False,branch,,RM-031
+LA-00015,MSME-00015,2025-09-14,PMMY Mudra,Tarun Plus,working_capital,1110000,48,none_cgtmse,0,True,digital_aa,AA-c2daf1fe7277,RM-010
+LA-00016,MSME-00016,2024-08-05,Equipment Finance,,capex_machinery,333310000,36,hypothecation_stock_debtors,248460000,False,digital_aa,AA-cf6e39126037,RM-003
+LA-00017,MSME-00017,2025-07-30,Cash Credit,,working_capital,157770000,12,fd_lien,184070000,False,digital_aa,,RM-001
+LA-00018,MSME-00018,2024-08-01,Equipment Finance,,capex_machinery,2810000,60,none_cgtmse,0,True,dsa,AA-142a2af43cb5,RM-015
+LA-00019,MSME-00019,2025-05-15,PMMY Mudra,Tarun Plus,working_capital,1710000,48,none_cgtmse,0,True,dsa,AA-de2b5bee673d,RM-014
+LA-00020,MSME-00020,2024-11-01,TReDS Invoice Discounting,,working_capital,5040000,3,hypothecation_stock_debtors,10140000,False,dsa,AA-b68aa2f617d9,RM-019
+LA-00021,MSME-00021,2025-08-09,Cash Credit,,working_capital,124580000,12,none_cgtmse,0,False,branch,,RM-019
+LA-00022,MSME-00022,2025-07-04,Cash Credit,,working_capital,1490000,12,hypothecation_stock_debtors,2220000,False,ocen_marketplace,,RM-036
+LA-00023,MSME-00023,2024-12-20,Equipment Finance,,capex_machinery,470000,36,none_cgtmse,0,True,dsa,,RM-016
+LA-00024,MSME-00024,2024-09-17,Equipment Finance,,capex_machinery,454550000,60,hypothecation_machinery,534820000,False,branch,,RM-017
+LA-00025,MSME-00025,2025-08-06,Cash Credit,,working_capital,7700000,12,none_cgtmse,0,True,branch,,RM-037
+LA-00026,MSME-00026,2025-03-17,PMMY Mudra,Kishore,working_capital,370000,48,none_cgtmse,0,True,dsa,,RM-015
+LA-00027,MSME-00027,2024-08-28,Equipment Finance,,capex_machinery,43240000,36,hypothecation_stock_debtors,55580000,False,dsa,AA-003d41469a15,RM-008
+LA-00028,MSME-00028,2026-07-02,Term Loan,,capex_expansion,40710000,48,none_cgtmse,0,True,ocen_marketplace,AA-de580707fa83,RM-028
+LA-00029,MSME-00029,2025-08-24,Equipment Finance,,capex_machinery,790000,60,residential_property,1580000,False,branch,AA-4debc302719e,RM-033
+LA-00030,MSME-00030,2025-04-19,Cash Credit,,working_capital,19120000,12,fd_lien,24020000,False,dsa,,RM-006
+LA-00031,MSME-00031,2026-05-02,Cash Credit,,working_capital,225830000,12,hypothecation_machinery,488620000,False,branch,,RM-019
+LA-00032,MSME-00032,2024-11-28,Equipment Finance,,capex_machinery,495430000,36,none_cgtmse,0,False,branch,AA-5ce82341713e,RM-031
+LA-00033,MSME-00033,2025-03-25,TReDS Invoice Discounting,,working_capital,75250000,3,residential_property,69570000,False,dsa,AA-908efb95f374,RM-033
+LA-00034,MSME-00034,2024-09-10,Term Loan,,capex_expansion,54420000,84,none_cgtmse,0,True,dsa,,RM-007
+LA-00035,MSME-00035,2025-05-09,Cash Credit,,working_capital,15630000,12,hypothecation_machinery,17850000,False,branch,,RM-023
+LA-00036,MSME-00036,2025-10-26,PMMY Mudra,Kishore,working_capital,160000,36,none_cgtmse,0,True,digital_aa,,RM-010
+LA-00037,MSME-00037,2025-09-08,Cash Credit,,working_capital,14770000,12,none_cgtmse,0,True,ocen_marketplace,AA-9b583f0d974e,RM-018
+LA-00038,MSME-00038,2026-03-12,Cash Credit,,working_capital,296590000,12,hypothecation_stock_debtors,313630000,False,branch,AA-8d437dc42402,RM-012
+LA-00039,MSME-00039,2025-12-14,Cash Credit,,working_capital,16770000,12,commercial_property,17350000,False,dsa,AA-141e1df1c882,RM-031
+LA-00040,MSME-00040,2026-06-09,Cash Credit,,working_capital,251540000,12,residential_property,268150000,False,branch,,RM-001
+LA-00041,MSME-00041,2025-02-14,Equipment Finance,,capex_machinery,240000,36,none_cgtmse,0,True,digital_aa,AA-c376aca36651,RM-035
+LA-00042,MSME-00042,2024-11-29,PMMY Mudra,Kishore,working_capital,330000,36,none_cgtmse,0,True,branch,AA-7c38e779cc7c,RM-040
+LA-00043,MSME-00043,2025-11-05,Equipment Finance,,capex_machinery,36170000,60,none_cgtmse,0,True,branch,AA-555a761861a8,RM-012
+LA-00044,MSME-00044,2026-05-01,Term Loan,,capex_expansion,390000,72,commercial_property,430000,False,digital_aa,AA-0c215b1893fb,RM-010
+LA-00045,MSME-00045,2026-01-09,Equipment Finance,,capex_machinery,477370000,60,none_cgtmse,0,False,branch,AA-df52ca3c1da3,RM-024
+LA-00046,MSME-00046,2026-09-11,PMMY Mudra,Tarun,capex_machinery,690000,48,none_cgtmse,0,True,ocen_marketplace,AA-5465371fa8ce,RM-004
+LA-00047,MSME-00047,2024-07-18,Cash Credit,,working_capital,3620000,12,commercial_property,4050000,False,digital_aa,AA-89b256018e54,RM-026
+LA-00048,MSME-00048,2025-01-13,PMMY Mudra,Kishore,working_capital,370000,36,none_cgtmse,0,True,branch,AA-fe45ea95e0b5,RM-015
+LA-00049,MSME-00049,2025-11-28,Equipment Finance,,capex_machinery,10200000,36,hypothecation_machinery,9080000,False,branch,,RM-022
+LA-00050,MSME-00050,2026-07-16,PMMY Mudra,Tarun Plus,working_capital,1970000,36,none_cgtmse,0,True,digital_aa,AA-60c8c3e8c194,RM-035
+LA-00051,MSME-00051,2025-08-16,Equipment Finance,,capex_machinery,40090000,48,none_cgtmse,0,True,digital_aa,AA-0571a193a436,RM-031
+LA-00052,MSME-00052,2025-12-03,Term Loan,,capex_expansion,585090000,60,none_cgtmse,0,False,branch,AA-2b49f694ebf3,RM-003
+LA-00053,MSME-00053,2024-07-26,Cash Credit,,working_capital,450000,12,residential_property,710000,False,branch,AA-bd526e511ad5,RM-012
+LA-00054,MSME-00054,2025-02-19,Cash Credit,,working_capital,11260000,12,none_cgtmse,0,True,digital_aa,AA-1f989e66f44d,RM-029
+LA-00055,MSME-00055,2024-07-14,Cash Credit,,working_capital,18210000,12,none_cgtmse,0,True,dsa,,RM-018
+LA-00056,MSME-00056,2024-10-12,Equipment Finance,,capex_machinery,488520000,60,fd_lien,579350000,False,dsa,AA-f516824e6e78,RM-017
+LA-00057,MSME-00057,2024-10-24,TReDS Invoice Discounting,,working_capital,11650000,3,hypothecation_stock_debtors,12180000,False,digital_aa,AA-3a172b5d1bac,RM-011
+LA-00058,MSME-00058,2025-03-12,Equipment Finance,,capex_machinery,47820000,36,none_cgtmse,0,True,digital_aa,AA-c6369ad783c2,RM-008
+LA-00059,MSME-00059,2025-05-08,Term Loan,,capex_expansion,4020000,60,hypothecation_stock_debtors,5090000,False,branch,,RM-028
+LA-00060,MSME-00060,2025-11-29,Cash Credit,,working_capital,13390000,12,hypothecation_stock_debtors,25970000,False,branch,,RM-033
+LA-00061,MSME-00061,2026-01-04,TReDS Invoice Discounting,,working_capital,18290000,3,commercial_property,30500000,False,branch,AA-3c652e297023,RM-028
+LA-00062,MSME-00062,2026-08-19,Cash Credit,,working_capital,15740000,12,residential_property,23270000,False,digital_aa,AA-408c16503156,RM-016
+LA-00063,MSME-00063,2025-05-24,Equipment Finance,,capex_machinery,260000,48,residential_property,560000,False,dsa,,RM-015
+LA-00064,MSME-00064,2024-12-17,Cash Credit,,working_capital,24410000,12,hypothecation_stock_debtors,48710000,False,dsa,,RM-011
+LA-00065,MSME-00065,2024-11-18,Cash Credit,,working_capital,11800000,12,hypothecation_stock_debtors,16450000,False,digital_aa,,RM-026
+LA-00066,MSME-00066,2024-12-07,Equipment Finance,,capex_machinery,103210000,48,hypothecation_stock_debtors,109590000,False,digital_aa,AA-b58b5da1e28b,RM-036
+LA-00067,MSME-00067,2026-06-27,PMMY Mudra,Tarun,working_capital,510000,48,none_cgtmse,0,True,dsa,,RM-039
+LA-00068,MSME-00068,2024-11-03,Cash Credit,,working_capital,205490000,12,residential_property,433840000,False,branch,AA-4356ac7a4350,RM-014
+LA-00069,MSME-00069,2025-09-01,Term Loan,,capex_expansion,2110000,72,none_cgtmse,0,True,branch,,RM-031
+LA-00070,MSME-00070,2026-02-09,PMMY Mudra,Tarun Plus,working_capital,1110000,48,none_cgtmse,0,True,branch,,RM-033
+LA-00071,MSME-00071,2025-06-07,Term Loan,,capex_expansion,33440000,72,hypothecation_stock_debtors,68550000,False,ocen_marketplace,,RM-026
+LA-00072,MSME-00072,2025-03-29,Cash Credit,,working_capital,1140000,12,hypothecation_machinery,1100000,False,digital_aa,AA-85ac42661001,RM-015
+LA-00073,MSME-00073,2026-05-23,Cash Credit,,working_capital,5700000,12,residential_property,12090000,False,digital_aa,,RM-016
+LA-00074,MSME-00074,2026-07-08,Cash Credit,,working_capital,27070000,12,commercial_property,28790000,False,dsa,,RM-029
+LA-00075,MSME-00075,2026-09-03,Term Loan,,capex_expansion,8380000,72,residential_property,11720000,False,branch,AA-621a3847ca82,RM-001
+LA-00076,MSME-00076,2025-01-02,PMMY Mudra,Tarun Plus,capex_machinery,1430000,36,none_cgtmse,0,True,digital_aa,AA-c3ceab644610,RM-032
+LA-00077,MSME-00077,2024-11-09,PMMY Mudra,Tarun,working_capital,620000,36,none_cgtmse,0,True,branch,,RM-001
+LA-00078,MSME-00078,2024-10-28,TReDS Invoice Discounting,,working_capital,78560000,3,residential_property,123400000,False,branch,AA-124ed1c249e1,RM-032
+LA-00079,MSME-00079,2025-10-01,PMMY Mudra,Tarun Plus,capex_expansion,1050000,36,none_cgtmse,0,True,branch,,RM-028
+LA-00080,MSME-00080,2025-06-23,TReDS Invoice Discounting,,working_capital,40130000,3,hypothecation_stock_debtors,31170000,False,dsa,AA-0af17a4dfb11,RM-036
+LA-00081,MSME-00081,2025-09-13,Term Loan,,refinance,170000,72,residential_property,210000,False,digital_aa,AA-b644cc0fcd3d,RM-012
+LA-00082,MSME-00082,2025-03-13,Equipment Finance,,capex_machinery,2510000,48,none_cgtmse,0,True,digital_aa,AA-2f29a311af15,RM-018
+LA-00083,MSME-00083,2025-10-25,PMMY Mudra,Tarun,capex_machinery,670000,36,none_cgtmse,0,True,branch,AA-1b3b600de91e,RM-034
+LA-00084,MSME-00084,2024-10-17,PMMY Mudra,Kishore,vehicle_purchase,490000,60,none_cgtmse,0,True,branch,AA-370b056a3b7e,RM-004
+LA-00085,MSME-00085,2025-12-31,Cash Credit,,working_capital,15620000,12,commercial_property,31320000,False,dsa,,RM-018
+LA-00086,MSME-00086,2026-03-11,Cash Credit,,working_capital,19470000,12,none_cgtmse,0,True,branch,AA-9f63829a906e,RM-017
+LA-00087,MSME-00087,2025-10-28,Cash Credit,,working_capital,16780000,12,none_cgtmse,0,True,branch,AA-ee480dcd1a1f,RM-031
+LA-00088,MSME-00088,2025-09-06,Equipment Finance,,capex_machinery,20560000,60,none_cgtmse,0,True,digital_aa,,RM-036
+LA-00089,MSME-00089,2026-02-27,TReDS Invoice Discounting,,working_capital,24130000,3,hypothecation_stock_debtors,28570000,False,branch,AA-8b4f8ea36a54,RM-028
+LA-00090,MSME-00090,2026-07-21,Equipment Finance,,capex_machinery,23160000,36,commercial_property,28110000,False,digital_aa,AA-7f956fb8694c,RM-035
+LA-00091,MSME-00091,2025-04-27,Cash Credit,,working_capital,193130000,12,commercial_property,315840000,False,digital_aa,AA-749338551dbd,RM-033
+LA-00092,MSME-00092,2025-01-27,Cash Credit,,working_capital,51530000,12,residential_property,87990000,False,dsa,AA-abc988b2e34e,RM-032
+LA-00093,MSME-00093,2026-05-09,Cash Credit,,working_capital,4230000,12,commercial_property,5790000,False,digital_aa,AA-71bfc792aede,RM-040
+LA-00094,MSME-00094,2025-07-16,Cash Credit,,working_capital,449480000,12,commercial_property,407920000,False,dsa,AA-a2abbd86d89b,RM-011
+LA-00095,MSME-00095,2025-07-29,PMMY Mudra,Tarun,capex_expansion,890000,36,none_cgtmse,0,True,branch,AA-a70ed05361ad,RM-022
+LA-00096,MSME-00096,2024-08-14,PMMY Mudra,Tarun Plus,capex_machinery,1130000,48,none_cgtmse,0,True,branch,,RM-026
+LA-00097,MSME-00097,2026-05-22,Equipment Finance,,capex_machinery,2230000,60,none_cgtmse,0,True,digital_aa,AA-4d256167bcef,RM-018
+LA-00098,MSME-00098,2026-04-02,Term Loan,,capex_expansion,4000000,48,residential_property,8280000,False,ocen_marketplace,AA-716febdb8314,RM-015
+LA-00099,MSME-00099,2026-09-30,Cash Credit,,working_capital,1230000,12,none_cgtmse,0,True,dsa,,RM-005
+LA-00100,MSME-00100,2025-04-19,Cash Credit,,working_capital,68940000,12,none_cgtmse,0,True,digital_aa,,RM-031
+LA-00101,MSME-00101,2025-08-27,Equipment Finance,,capex_machinery,42830000,60,none_cgtmse,0,True,dsa,,RM-017
+LA-00102,MSME-00102,2025-08-26,Cash Credit,,working_capital,552500000,12,none_cgtmse,0,False,branch,AA-8e81201fd6cf,RM-010
+LA-00103,MSME-00103,2024-11-18,Term Loan,,capex_expansion,57350000,72,hypothecation_stock_debtors,102440000,False,branch,AA-76c704a0d46c,RM-004
+LA-00104,MSME-00104,2025-06-22,Term Loan,,capex_expansion,54760000,84,fd_lien,89220000,False,dsa,AA-3d996b2dd5f0,RM-004
+LA-00105,MSME-00105,2024-10-29,Cash Credit,,working_capital,328370000,12,fd_lien,371410000,False,branch,,RM-014
+LA-00106,MSME-00106,2024-12-05,TReDS Invoice Discounting,,working_capital,9120000,3,hypothecation_stock_debtors,16680000,False,branch,AA-92d873d30d00,RM-029
+LA-00107,MSME-00107,2025-01-06,Cash Credit,,working_capital,31970000,12,none_cgtmse,0,True,digital_aa,,RM-032
+LA-00108,MSME-00108,2025-07-16,PMMY Mudra,Tarun,capex_machinery,530000,60,none_cgtmse,0,True,digital_aa,AA-d5a752a046d9,RM-035
+LA-00109,MSME-00109,2024-11-21,Cash Credit,,working_capital,1950000,12,hypothecation_stock_debtors,2540000,False,branch,AA-bcba65c0695c,RM-013
+LA-00110,MSME-00110,2024-12-25,Cash Credit,,working_capital,61500000,12,none_cgtmse,0,True,digital_aa,AA-9acc2ca6d481,RM-022
+LA-00111,MSME-00111,2026-01-07,PMMY Mudra,Tarun,working_capital,570000,48,none_cgtmse,0,True,digital_aa,AA-c6fa4a4185af,RM-026
+LA-00112,MSME-00112,2026-03-04,Term Loan,,capex_expansion,4360000,48,none_cgtmse,0,True,branch,,RM-029
+LA-00113,MSME-00113,2025-02-18,Cash Credit,,working_capital,1290000,12,hypothecation_stock_debtors,2680000,False,branch,AA-52aac3abc434,RM-023
+LA-00114,MSME-00114,2026-01-03,Cash Credit,,working_capital,391880000,12,none_cgtmse,0,False,branch,AA-59889cad871a,RM-016
+LA-00115,MSME-00115,2025-01-18,Term Loan,,capex_expansion,90340000,72,none_cgtmse,0,True,branch,,RM-040
+LA-00116,MSME-00116,2025-10-17,Cash Credit,,working_capital,3380000,12,commercial_property,5610000,False,digital_aa,AA-c3c6f13416a1,RM-040
+LA-00117,MSME-00117,2026-02-22,Cash Credit,,working_capital,13010000,12,none_cgtmse,0,True,branch,,RM-040
+LA-00118,MSME-00118,2026-09-19,Cash Credit,,working_capital,5640000,12,commercial_property,9090000,False,dsa,,RM-017
+LA-00119,MSME-00119,2026-07-21,PMMY Mudra,Kishore,capex_machinery,70000,36,none_cgtmse,0,True,branch,AA-01cf46ca8e94,RM-040
+LA-00120,MSME-00120,2026-09-17,Equipment Finance,,capex_machinery,78150000,36,none_cgtmse,0,True,digital_aa,AA-5da8e98b2ebd,RM-011
+LA-00121,MSME-00121,2025-05-28,PMMY Mudra,Tarun Plus,working_capital,1620000,60,none_cgtmse,0,True,ocen_marketplace,AA-9bce54f53a2d,RM-002
+LA-00122,MSME-00122,2025-10-25,Cash Credit,,working_capital,293550000,12,none_cgtmse,0,False,ocen_marketplace,AA-4d4e243823b1,RM-029
+LA-00123,MSME-00123,2025-01-22,Term Loan,,capex_expansion,3790000,60,none_cgtmse,0,True,dsa,,RM-020
+LA-00124,MSME-00124,2026-03-06,Term Loan,,capex_expansion,27500000,60,residential_property,52870000,False,digital_aa,AA-c905d4029607,RM-020
+LA-00125,MSME-00125,2026-06-24,Term Loan,,refinance,71290000,72,commercial_property,48340000,False,branch,AA-f0b3e84ba185,RM-036
+LA-00126,MSME-00126,2026-05-31,Equipment Finance,,capex_machinery,1930000,60,none_cgtmse,0,True,dsa,,RM-021
+LA-00127,MSME-00127,2025-11-06,Equipment Finance,,capex_machinery,2340000,36,residential_property,4160000,False,branch,AA-878d7b5a3d52,RM-018
+LA-00128,MSME-00128,2026-04-12,Equipment Finance,,capex_machinery,3230000,48,hypothecation_stock_debtors,2610000,False,dsa,,RM-017
+LA-00129,MSME-00129,2025-03-21,PMMY Mudra,Kishore,capex_machinery,300000,60,none_cgtmse,0,True,dsa,AA-d118f6a8657e,RM-023
+LA-00130,MSME-00130,2025-05-15,Term Loan,,capex_expansion,63490000,60,hypothecation_machinery,138590000,False,branch,,RM-014
+LA-00131,MSME-00131,2025-10-15,Cash Credit,,working_capital,25560000,12,none_cgtmse,0,True,branch,,RM-006
+LA-00132,MSME-00132,2025-01-04,Equipment Finance,,capex_machinery,8620000,60,commercial_property,16460000,False,branch,,RM-017
+LA-00133,MSME-00133,2026-06-30,PMMY Mudra,Tarun Plus,capex_machinery,1940000,48,none_cgtmse,0,True,dsa,,RM-020
+LA-00134,MSME-00134,2024-07-15,Cash Credit,,working_capital,4620000,12,hypothecation_stock_debtors,10070000,False,dsa,,RM-024
+LA-00135,MSME-00135,2026-01-03,TReDS Invoice Discounting,,working_capital,75800000,3,none_cgtmse,0,True,branch,AA-62eeea4f436b,RM-034
+LA-00136,MSME-00136,2025-08-21,Cash Credit,,working_capital,732370000,12,hypothecation_stock_debtors,543050000,False,digital_aa,AA-e05cc706c6f5,RM-032
+LA-00137,MSME-00137,2026-05-05,Term Loan,,capex_expansion,760000,48,fd_lien,960000,False,ocen_marketplace,,RM-019
+LA-00138,MSME-00138,2025-01-22,PMMY Mudra,Tarun,working_capital,1000000,60,none_cgtmse,0,True,dsa,AA-f7566e5e5a10,RM-036
+LA-00139,MSME-00139,2026-08-10,Term Loan,,refinance,315020000,60,none_cgtmse,0,False,dsa,,RM-002
+LA-00140,MSME-00140,2024-11-10,Cash Credit,,working_capital,210000,12,none_cgtmse,0,True,digital_aa,AA-137245197f2e,RM-035
+LA-00141,MSME-00141,2026-01-28,Equipment Finance,,capex_machinery,5120000,36,hypothecation_stock_debtors,10470000,False,branch,,RM-015
+LA-00142,MSME-00142,2026-06-19,Cash Credit,,working_capital,1410000,12,hypothecation_stock_debtors,1580000,False,digital_aa,AA-61e1152c0594,RM-038
+LA-00143,MSME-00143,2025-10-05,Cash Credit,,working_capital,6750000,12,residential_property,5610000,False,digital_aa,,RM-007
+LA-00144,MSME-00144,2025-03-13,PMMY Mudra,Tarun Plus,refinance,1630000,48,none_cgtmse,0,True,digital_aa,AA-53f9591d897f,RM-037
+LA-00145,MSME-00145,2026-05-19,PMMY Mudra,Kishore,working_capital,490000,48,none_cgtmse,0,True,branch,AA-15b25cb18c4a,RM-001
+LA-00146,MSME-00146,2025-02-23,Equipment Finance,,capex_machinery,4120000,36,none_cgtmse,0,True,branch,AA-29b2d1e90071,RM-003
+LA-00147,MSME-00147,2025-02-16,Equipment Finance,,capex_machinery,3080000,48,none_cgtmse,0,True,branch,,RM-035
+LA-00148,MSME-00148,2026-09-01,Cash Credit,,working_capital,3640000,12,residential_property,2990000,False,digital_aa,AA-32f4f17f61c1,RM-037
+LA-00149,MSME-00149,2025-10-31,Cash Credit,,working_capital,1710000,12,residential_property,1980000,False,ocen_marketplace,AA-3e3140f270a2,RM-030
+LA-00150,MSME-00150,2025-07-30,Equipment Finance,,capex_machinery,64920000,36,none_cgtmse,0,True,branch,,RM-029
+LA-00151,MSME-00151,2026-01-21,Equipment Finance,,capex_machinery,2720000,60,hypothecation_stock_debtors,4200000,False,digital_aa,AA-f7c68e2f5e9e,RM-011
+LA-00152,MSME-00152,2024-11-03,PMMY Mudra,Kishore,capex_expansion,120000,48,none_cgtmse,0,True,dsa,,RM-010
+LA-00153,MSME-00153,2025-10-24,Term Loan,,capex_expansion,32710000,48,hypothecation_stock_debtors,58150000,False,digital_aa,,RM-016
+LA-00154,MSME-00154,2026-09-30,Cash Credit,,working_capital,4750000,12,commercial_property,9610000,False,branch,AA-d10df1e1624c,RM-025
+LA-00155,MSME-00155,2025-04-11,Cash Credit,,working_capital,480000,12,residential_property,700000,False,digital_aa,AA-511cfb2eeebb,RM-034
+LA-00156,MSME-00156,2024-09-10,PMMY Mudra,Kishore,capex_expansion,90000,48,none_cgtmse,0,True,digital_aa,,RM-019
+LA-00157,MSME-00157,2025-08-25,Cash Credit,,working_capital,11740000,12,residential_property,19130000,False,digital_aa,AA-5b7bf9212a44,RM-016
+LA-00158,MSME-00158,2026-01-08,PMMY Mudra,Kishore,working_capital,290000,60,none_cgtmse,0,True,branch,AA-6c9fc9357dfd,RM-026
+LA-00159,MSME-00159,2024-09-28,PMMY Mudra,Kishore,working_capital,210000,60,none_cgtmse,0,True,digital_aa,AA-b242b27ab8ae,RM-013
+LA-00160,MSME-00160,2026-05-30,PMMY Mudra,Tarun,capex_machinery,600000,60,none_cgtmse,0,True,dsa,AA-fa41d085a777,RM-039
+LA-00161,MSME-00161,2025-03-07,Equipment Finance,,capex_machinery,2500000,60,none_cgtmse,0,True,branch,AA-a6992c86229e,RM-025
+LA-00162,MSME-00162,2025-02-12,PMMY Mudra,Kishore,capex_expansion,160000,48,none_cgtmse,0,True,branch,AA-1270ebf6bcd3,RM-003
+LA-00163,MSME-00163,2024-10-01,Cash Credit,,working_capital,3620000,12,hypothecation_stock_debtors,4740000,False,ocen_marketplace,,RM-026
+LA-00164,MSME-00164,2024-08-20,Equipment Finance,,capex_machinery,15000000,48,residential_property,24620000,False,branch,,RM-020
+LA-00165,MSME-00165,2025-05-20,Cash Credit,,working_capital,2400000,12,fd_lien,3070000,False,dsa,AA-53b4526d55df,RM-008
+LA-00166,MSME-00166,2025-06-05,PMMY Mudra,Kishore,capex_machinery,350000,48,none_cgtmse,0,True,dsa,AA-be9d6fa762cd,RM-024
+LA-00167,MSME-00167,2025-07-30,Cash Credit,,working_capital,7260000,12,none_cgtmse,0,True,digital_aa,,RM-040
+LA-00168,MSME-00168,2024-12-23,Cash Credit,,working_capital,35270000,12,commercial_property,54190000,False,digital_aa,AA-42ceb700547e,RM-011
+LA-00169,MSME-00169,2026-04-28,Cash Credit,,working_capital,9100000,12,hypothecation_machinery,17830000,False,branch,AA-344bca7b6180,RM-029
+LA-00170,MSME-00170,2024-07-21,Cash Credit,,working_capital,16110000,12,none_cgtmse,0,True,branch,AA-8d78fd31b971,RM-032
+LA-00171,MSME-00171,2024-09-02,TReDS Invoice Discounting,,working_capital,146010000,3,none_cgtmse,0,False,dsa,,RM-003
+LA-00172,MSME-00172,2024-11-08,Cash Credit,,working_capital,14970000,12,hypothecation_machinery,32530000,False,digital_aa,AA-1c534c2ef8c5,RM-031
+LA-00173,MSME-00173,2025-01-12,PMMY Mudra,Tarun Plus,working_capital,1040000,48,none_cgtmse,0,True,branch,,RM-025
+LA-00174,MSME-00174,2024-10-18,Term Loan,,capex_expansion,1330000,72,residential_property,1980000,False,branch,,RM-036
+LA-00175,MSME-00175,2026-09-11,TReDS Invoice Discounting,,working_capital,145000000,3,residential_property,117350000,False,branch,AA-e1930d51b1f6,RM-026
+LA-00176,MSME-00176,2024-12-02,Term Loan,,capex_expansion,1460000,48,commercial_property,1960000,False,dsa,AA-80341d57fdaf,RM-033
+LA-00177,MSME-00177,2026-06-13,Cash Credit,,working_capital,7600000,12,hypothecation_stock_debtors,9780000,False,branch,AA-971d45fa3e1c,RM-024
+LA-00178,MSME-00178,2025-07-27,PMMY Mudra,Kishore,working_capital,420000,60,none_cgtmse,0,True,dsa,,RM-001
+LA-00179,MSME-00179,2026-08-23,Equipment Finance,,capex_machinery,6800000,48,none_cgtmse,0,True,dsa,,RM-015
+LA-00180,MSME-00180,2024-07-31,Cash Credit,,working_capital,33240000,12,residential_property,25680000,False,branch,,RM-038
+LA-00181,MSME-00181,2025-10-03,Cash Credit,,working_capital,7040000,12,fd_lien,4940000,False,dsa,,RM-023
+LA-00182,MSME-00182,2025-09-15,PMMY Mudra,Kishore,capex_machinery,260000,60,none_cgtmse,0,True,branch,AA-a934b99175b9,RM-032
+LA-00183,MSME-00183,2026-02-16,Term Loan,,capex_expansion,220000,60,none_cgtmse,0,True,branch,,RM-011
+LA-00184,MSME-00184,2024-08-10,PMMY Mudra,Tarun Plus,working_capital,1080000,48,none_cgtmse,0,True,branch,,RM-021
+LA-00185,MSME-00185,2024-11-19,Cash Credit,,working_capital,7070000,12,residential_property,10920000,False,branch,,RM-003
+LA-00186,MSME-00186,2025-10-08,Equipment Finance,,capex_machinery,203720000,48,none_cgtmse,0,False,branch,,RM-009
+LA-00187,MSME-00187,2025-06-15,Cash Credit,,working_capital,79440000,12,none_cgtmse,0,True,digital_aa,AA-fde0def65189,RM-031
+LA-00188,MSME-00188,2025-10-11,Cash Credit,,working_capital,6360000,12,none_cgtmse,0,True,branch,AA-192c7eebb028,RM-033
+LA-00189,MSME-00189,2026-08-27,Cash Credit,,working_capital,64680000,12,none_cgtmse,0,True,digital_aa,,RM-001
+LA-00190,MSME-00190,2025-08-07,Equipment Finance,,vehicle_purchase,28990000,60,residential_property,61100000,False,dsa,AA-53e54b103391,RM-007
+LA-00191,MSME-00191,2025-03-22,Cash Credit,,working_capital,9980000,12,hypothecation_machinery,18100000,False,digital_aa,AA-13c1e3eebe3d,RM-032
+LA-00192,MSME-00192,2026-05-20,Cash Credit,,working_capital,2830000,12,none_cgtmse,0,True,dsa,AA-0b37f15a84b3,RM-017
+LA-00193,MSME-00193,2025-06-01,Cash Credit,,working_capital,296320000,12,none_cgtmse,0,False,branch,AA-926660a65770,RM-024
+LA-00194,MSME-00194,2025-05-30,Equipment Finance,,vehicle_purchase,440000,36,none_cgtmse,0,True,ocen_marketplace,AA-d46cccec5f54,RM-034
+LA-00195,MSME-00195,2024-10-15,Cash Credit,,working_capital,18200000,12,none_cgtmse,0,True,branch,AA-4923e273c53b,RM-036
+LA-00196,MSME-00196,2026-09-27,Term Loan,,capex_expansion,18340000,84,none_cgtmse,0,True,digital_aa,AA-2bea3290da8a,RM-001
+LA-00197,MSME-00197,2024-12-26,Cash Credit,,working_capital,75340000,12,commercial_property,150360000,False,ocen_marketplace,,RM-039
+LA-00198,MSME-00198,2025-09-25,Term Loan,,capex_expansion,2030000,60,residential_property,3120000,False,branch,,RM-019
+LA-00199,MSME-00199,2025-07-04,TReDS Invoice Discounting,,working_capital,8330000,3,hypothecation_stock_debtors,9350000,False,branch,,RM-022
+LA-00200,MSME-00200,2025-04-09,Equipment Finance,,capex_machinery,107460000,36,none_cgtmse,0,False,branch,AA-cb4ee23b60e3,RM-020
+LA-00201,MSME-00201,2025-12-21,Term Loan,,refinance,221920000,72,none_cgtmse,0,False,branch,AA-32eebf1e171f,RM-034
+LA-00202,MSME-00202,2026-06-04,Cash Credit,,working_capital,413160000,12,hypothecation_stock_debtors,835770000,False,branch,,RM-032
+LA-00203,MSME-00203,2025-11-23,Equipment Finance,,capex_machinery,360000,36,none_cgtmse,0,True,digital_aa,AA-7a9ba45e4c7d,RM-032
+LA-00204,MSME-00204,2026-08-07,Cash Credit,,working_capital,400000,12,hypothecation_machinery,710000,False,digital_aa,AA-964f856702c2,RM-031
+LA-00205,MSME-00205,2026-06-21,Equipment Finance,,capex_machinery,4150000,36,commercial_property,5280000,False,dsa,AA-f35f165eeff8,RM-013
+LA-00206,MSME-00206,2024-07-08,Cash Credit,,working_capital,44000000,12,residential_property,51150000,False,dsa,,RM-010
+LA-00207,MSME-00207,2025-03-20,Cash Credit,,working_capital,4190000,12,residential_property,7560000,False,digital_aa,AA-d1e1cd51cb55,RM-027
+LA-00208,MSME-00208,2026-04-02,Equipment Finance,,capex_machinery,127290000,48,hypothecation_machinery,165140000,False,branch,AA-e4721f7e784b,RM-019
+LA-00209,MSME-00209,2025-03-10,PMMY Mudra,Tarun Plus,working_capital,1050000,60,none_cgtmse,0,True,dsa,,RM-008
+LA-00210,MSME-00210,2025-02-26,Equipment Finance,,capex_machinery,69390000,60,none_cgtmse,0,True,branch,,RM-024
+LA-00211,MSME-00211,2026-08-13,Cash Credit,,working_capital,2710000,12,none_cgtmse,0,True,branch,AA-c8c9d6397ea3,RM-003
+LA-00212,MSME-00212,2024-07-03,PMMY Mudra,Tarun Plus,capex_expansion,1960000,60,none_cgtmse,0,True,branch,,RM-030
+LA-00213,MSME-00213,2026-05-27,Term Loan,,capex_expansion,14640000,84,residential_property,20030000,False,branch,,RM-030
+LA-00214,MSME-00214,2026-06-14,PMMY Mudra,Kishore,working_capital,450000,48,none_cgtmse,0,True,ocen_marketplace,,RM-008
+LA-00215,MSME-00215,2025-06-05,Cash Credit,,working_capital,8000000,12,commercial_property,6230000,False,branch,AA-457f630829a7,RM-029
+LA-00216,MSME-00216,2025-11-08,Equipment Finance,,capex_machinery,7170000,36,none_cgtmse,0,True,branch,AA-e56577df3c95,RM-018
+LA-00217,MSME-00217,2024-12-18,PMMY Mudra,Kishore,working_capital,220000,36,none_cgtmse,0,True,digital_aa,AA-4cab94808eca,RM-031
+LA-00218,MSME-00218,2026-03-26,Cash Credit,,working_capital,131150000,12,hypothecation_machinery,131730000,False,branch,AA-3740e0bfc7b1,RM-017
+LA-00219,MSME-00219,2025-07-31,PMMY Mudra,Kishore,capex_machinery,410000,48,none_cgtmse,0,True,digital_aa,AA-4515ccf7ae48,RM-038
+LA-00220,MSME-00220,2024-07-13,Cash Credit,,working_capital,3140000,12,hypothecation_machinery,3160000,False,branch,AA-5f2f8b6647b8,RM-037
+LA-00221,MSME-00221,2025-01-10,TReDS Invoice Discounting,,working_capital,23490000,3,hypothecation_stock_debtors,26470000,False,branch,AA-094c9e1478db,RM-024
+LA-00222,MSME-00222,2025-01-09,Cash Credit,,working_capital,270000,12,commercial_property,510000,False,branch,,RM-015
+LA-00223,MSME-00223,2024-09-26,Cash Credit,,working_capital,555200000,12,residential_property,745460000,False,dsa,,RM-031
+LA-00224,MSME-00224,2026-04-28,Cash Credit,,working_capital,4350000,12,none_cgtmse,0,True,branch,AA-f58e28b3d278,RM-031
+LA-00225,MSME-00225,2025-05-28,Cash Credit,,working_capital,19410000,12,none_cgtmse,0,True,ocen_marketplace,AA-c4fb79691446,RM-026
+LA-00226,MSME-00226,2024-10-11,Term Loan,,refinance,24850000,48,hypothecation_machinery,49630000,False,digital_aa,AA-6b3e54c278dc,RM-007
+LA-00227,MSME-00227,2024-10-27,Term Loan,,refinance,28900000,48,residential_property,33780000,False,branch,,RM-037
+LA-00228,MSME-00228,2026-09-14,Cash Credit,,working_capital,6290000,12,hypothecation_machinery,4730000,False,dsa,AA-1af201e369c2,RM-021
+LA-00229,MSME-00229,2026-02-17,Cash Credit,,working_capital,1100040000,12,none_cgtmse,0,False,branch,AA-455fda0e32eb,RM-021
+LA-00230,MSME-00230,2024-11-29,Equipment Finance,,capex_machinery,63210000,60,none_cgtmse,0,True,dsa,,RM-033
+LA-00231,MSME-00231,2026-04-22,PMMY Mudra,Tarun Plus,working_capital,1800000,36,none_cgtmse,0,True,dsa,AA-b50fdd58df29,RM-011
+LA-00232,MSME-00232,2025-03-21,PMMY Mudra,Tarun,working_capital,800000,36,none_cgtmse,0,True,branch,,RM-026
+LA-00233,MSME-00233,2026-01-24,Equipment Finance,,capex_machinery,16420000,48,none_cgtmse,0,True,dsa,AA-4e68c87ddc6e,RM-020
+LA-00234,MSME-00234,2025-01-21,Term Loan,,refinance,46970000,48,residential_property,64620000,False,branch,,RM-033
+LA-00235,MSME-00235,2026-05-03,Equipment Finance,,capex_machinery,75320000,48,hypothecation_stock_debtors,91640000,False,dsa,AA-bc08dfb3e354,RM-035
+LA-00236,MSME-00236,2026-03-18,Cash Credit,,working_capital,524070000,12,residential_property,840650000,False,digital_aa,,RM-029
+LA-00237,MSME-00237,2025-07-06,Cash Credit,,working_capital,1490000,12,none_cgtmse,0,True,branch,AA-b84586834eb1,RM-027
+LA-00238,MSME-00238,2025-12-22,Equipment Finance,,vehicle_purchase,350000,36,residential_property,550000,False,digital_aa,AA-79bde721b805,RM-023
+LA-00239,MSME-00239,2025-02-06,PMMY Mudra,Tarun,working_capital,630000,36,none_cgtmse,0,True,branch,,RM-006
+LA-00240,MSME-00240,2026-07-27,Cash Credit,,working_capital,2050000,12,none_cgtmse,0,True,branch,AA-dd9aab715376,RM-034
+LA-00241,MSME-00241,2024-12-27,Equipment Finance,,capex_machinery,2990000,60,none_cgtmse,0,True,branch,,RM-014
+LA-00242,MSME-00242,2025-08-14,Cash Credit,,working_capital,3050000,12,commercial_property,5560000,False,branch,AA-41eac2a00093,RM-001
+LA-00243,MSME-00243,2024-12-07,PMMY Mudra,Kishore,working_capital,270000,60,none_cgtmse,0,True,ocen_marketplace,,RM-029
+LA-00244,MSME-00244,2025-09-27,Cash Credit,,working_capital,10420000,12,commercial_property,8420000,False,digital_aa,AA-5cdfd9c2f772,RM-003
+LA-00245,MSME-00245,2026-05-01,Cash Credit,,working_capital,443830000,12,residential_property,333710000,False,dsa,,RM-032
+LA-00246,MSME-00246,2025-10-06,Equipment Finance,,capex_machinery,11360000,48,none_cgtmse,0,True,branch,,RM-027
+LA-00247,MSME-00247,2025-11-02,Cash Credit,,working_capital,2630000,12,commercial_property,4100000,False,dsa,,RM-033
+LA-00248,MSME-00248,2026-09-28,Cash Credit,,working_capital,630000,12,hypothecation_stock_debtors,1380000,False,branch,AA-3a09dd8a08b7,RM-024
+LA-00249,MSME-00249,2025-02-03,Cash Credit,,working_capital,400000,12,hypothecation_stock_debtors,250000,False,branch,,RM-003
+LA-00250,MSME-00250,2025-11-02,PMMY Mudra,Kishore,working_capital,410000,48,none_cgtmse,0,True,digital_aa,,RM-031
+LA-00251,MSME-00251,2025-01-08,Cash Credit,,working_capital,3480000,12,hypothecation_stock_debtors,7420000,False,branch,,RM-032
+LA-00252,MSME-00252,2025-08-05,Cash Credit,,working_capital,170000,12,commercial_property,300000,False,dsa,,RM-002
+LA-00253,MSME-00253,2025-12-31,Term Loan,,capex_expansion,250000,60,none_cgtmse,0,True,ocen_marketplace,,RM-021
+LA-00254,MSME-00254,2026-07-15,Term Loan,,capex_expansion,180000,60,none_cgtmse,0,True,branch,,RM-013
+LA-00255,MSME-00255,2025-12-30,TReDS Invoice Discounting,,working_capital,3030000,3,hypothecation_machinery,6590000,False,digital_aa,AA-616ca7c0b9ea,RM-003
+LA-00256,MSME-00256,2024-08-02,Cash Credit,,working_capital,250000,12,hypothecation_stock_debtors,310000,False,digital_aa,AA-de85fb7227fa,RM-003
+LA-00257,MSME-00257,2024-12-05,PMMY Mudra,Kishore,working_capital,450000,60,none_cgtmse,0,True,branch,AA-2ac52607aa84,RM-026
+LA-00258,MSME-00258,2024-10-03,Term Loan,,capex_expansion,129810000,72,none_cgtmse,0,False,ocen_marketplace,AA-8c277820fdcd,RM-026
+LA-00259,MSME-00259,2026-01-01,Term Loan,,capex_expansion,1460000,60,hypothecation_stock_debtors,1650000,False,branch,AA-e8d6b338aed3,RM-018
+LA-00260,MSME-00260,2025-02-19,Cash Credit,,working_capital,2470000,12,hypothecation_stock_debtors,4340000,False,branch,AA-22cc491ae149,RM-006
+LA-00261,MSME-00261,2026-01-31,Cash Credit,,working_capital,13060000,12,fd_lien,13980000,False,digital_aa,AA-d8728ff3654b,RM-025
+LA-00262,MSME-00262,2025-12-15,Equipment Finance,,capex_machinery,490340000,60,commercial_property,975400000,False,branch,,RM-003
+LA-00263,MSME-00263,2024-07-12,TReDS Invoice Discounting,,working_capital,7820000,3,commercial_property,14220000,False,branch,,RM-017
+LA-00264,MSME-00264,2024-08-12,Term Loan,,refinance,350000,60,none_cgtmse,0,True,dsa,,RM-012
+LA-00265,MSME-00265,2026-04-20,Equipment Finance,,capex_machinery,140000,48,none_cgtmse,0,True,dsa,AA-d0e5d06001d2,RM-009
+LA-00266,MSME-00266,2024-12-23,Equipment Finance,,capex_machinery,5610000,48,hypothecation_stock_debtors,5350000,False,dsa,AA-3057b769a284,RM-025
+LA-00267,MSME-00267,2026-07-25,Term Loan,,capex_expansion,34080000,84,none_cgtmse,0,True,digital_aa,,RM-018
+LA-00268,MSME-00268,2025-12-17,Cash Credit,,working_capital,7430000,12,none_cgtmse,0,True,dsa,,RM-040
+LA-00269,MSME-00269,2026-09-11,Cash Credit,,working_capital,7870000,12,hypothecation_machinery,10490000,False,digital_aa,AA-5bcce1a62846,RM-034
+LA-00270,MSME-00270,2026-01-12,Cash Credit,,working_capital,270000,12,none_cgtmse,0,True,branch,AA-b30f57b4a0ab,RM-031
+LA-00271,MSME-00271,2024-12-15,Equipment Finance,,capex_machinery,14410000,60,residential_property,25610000,False,digital_aa,AA-93b579ae0333,RM-021
+LA-00272,MSME-00272,2025-09-16,Cash Credit,,working_capital,321970000,12,residential_property,250490000,False,branch,AA-d56b2da0ae6d,RM-019
+LA-00273,MSME-00273,2026-03-26,Cash Credit,,working_capital,12720000,12,commercial_property,24640000,False,branch,AA-a3699d168cc7,RM-007
+LA-00274,MSME-00274,2026-05-07,Cash Credit,,working_capital,37550000,12,hypothecation_machinery,67480000,False,branch,AA-df1ea7e6a6d5,RM-018
+LA-00275,MSME-00275,2025-10-13,Term Loan,,capex_expansion,14230000,72,hypothecation_stock_debtors,29770000,False,digital_aa,,RM-024
+LA-00276,MSME-00276,2025-07-27,TReDS Invoice Discounting,,working_capital,2870000,3,residential_property,2730000,False,branch,,RM-002
+LA-00277,MSME-00277,2025-11-22,Cash Credit,,working_capital,3320000,12,none_cgtmse,0,True,dsa,,RM-007
+LA-00278,MSME-00278,2024-12-28,PMMY Mudra,Kishore,working_capital,480000,60,none_cgtmse,0,True,branch,AA-b648aaa5e093,RM-022
+LA-00279,MSME-00279,2026-06-26,Cash Credit,,working_capital,20060000,12,hypothecation_machinery,37820000,False,branch,AA-07f1a8390508,RM-021
+LA-00280,MSME-00280,2025-05-29,Term Loan,,capex_expansion,41140000,84,commercial_property,53440000,False,dsa,,RM-003
+LA-00281,MSME-00281,2025-12-08,Cash Credit,,working_capital,109530000,12,none_cgtmse,0,False,branch,,RM-035
+LA-00282,MSME-00282,2025-05-07,PMMY Mudra,Tarun,capex_expansion,690000,60,none_cgtmse,0,True,branch,,RM-003
+LA-00283,MSME-00283,2025-04-14,PMMY Mudra,Kishore,refinance,220000,48,none_cgtmse,0,True,ocen_marketplace,,RM-031
+LA-00284,MSME-00284,2026-08-29,Cash Credit,,working_capital,3640000,12,none_cgtmse,0,True,branch,AA-7657d60ed62e,RM-035
+LA-00285,MSME-00285,2025-03-13,PMMY Mudra,Tarun Plus,working_capital,1440000,48,none_cgtmse,0,True,dsa,,RM-014
+LA-00286,MSME-00286,2025-01-18,Equipment Finance,,capex_machinery,6730000,60,residential_property,7980000,False,branch,,RM-039
+LA-00287,MSME-00287,2026-04-21,Cash Credit,,working_capital,61970000,12,residential_property,134560000,False,digital_aa,AA-301348b58384,RM-022
+LA-00288,MSME-00288,2025-04-21,Equipment Finance,,capex_machinery,330310000,48,residential_property,656940000,False,ocen_marketplace,,RM-001
+LA-00289,MSME-00289,2026-03-26,Term Loan,,capex_expansion,563760000,72,fd_lien,423650000,False,digital_aa,AA-d21bbeca82ee,RM-008
+LA-00290,MSME-00290,2026-07-21,PMMY Mudra,Shishu,capex_machinery,50000,60,none_cgtmse,0,True,digital_aa,AA-1d4ca9f63915,RM-016
+LA-00291,MSME-00291,2024-12-01,Cash Credit,,working_capital,8230000,12,hypothecation_stock_debtors,13450000,False,digital_aa,AA-6830c8501fca,RM-022
+LA-00292,MSME-00292,2025-07-20,Term Loan,,refinance,260000,84,residential_property,300000,False,digital_aa,AA-1bb5983d7ef8,RM-016
+LA-00293,MSME-00293,2025-02-18,Cash Credit,,working_capital,44190000,12,commercial_property,59790000,False,branch,,RM-022
+LA-00294,MSME-00294,2026-09-04,PMMY Mudra,Tarun Plus,working_capital,1500000,48,none_cgtmse,0,True,digital_aa,AA-37a3eb3f5933,RM-036
+LA-00295,MSME-00295,2024-07-09,Cash Credit,,working_capital,18540000,12,none_cgtmse,0,True,dsa,,RM-015
+LA-00296,MSME-00296,2025-03-04,Equipment Finance,,capex_machinery,36590000,48,none_cgtmse,0,True,branch,,RM-031
+LA-00297,MSME-00297,2026-01-15,PMMY Mudra,Tarun Plus,working_capital,1690000,36,none_cgtmse,0,True,branch,AA-37710bffa8d1,RM-028
+LA-00298,MSME-00298,2025-11-15,Cash Credit,,working_capital,5370000,12,commercial_property,7370000,False,branch,,RM-023
+LA-00299,MSME-00299,2025-02-22,Term Loan,,capex_expansion,2830000,60,residential_property,3410000,False,digital_aa,AA-b23123e15e59,RM-017
+LA-00300,MSME-00300,2024-09-27,Cash Credit,,working_capital,5730000,12,hypothecation_stock_debtors,8960000,False,digital_aa,,RM-038
+LA-00301,MSME-00301,2025-07-16,PMMY Mudra,Tarun Plus,capex_machinery,1740000,48,none_cgtmse,0,True,branch,,RM-017
+LA-00302,MSME-00302,2026-01-26,Cash Credit,,working_capital,2920000,12,none_cgtmse,0,True,digital_aa,AA-530f1ca35fe9,RM-001
+LA-00303,MSME-00303,2025-04-30,TReDS Invoice Discounting,,working_capital,85670000,3,none_cgtmse,0,True,branch,AA-1920a13b4062,RM-039
+LA-00304,MSME-00304,2026-02-03,Equipment Finance,,capex_machinery,6690000,60,residential_property,7160000,False,digital_aa,,RM-009
+LA-00305,MSME-00305,2025-04-05,Equipment Finance,,capex_machinery,128060000,60,commercial_property,255700000,False,digital_aa,AA-229ea952c86f,RM-016
+LA-00306,MSME-00306,2026-01-16,Equipment Finance,,capex_machinery,2120000,36,hypothecation_stock_debtors,1380000,False,dsa,AA-5c1ceee09726,RM-003
+LA-00307,MSME-00307,2024-10-08,Equipment Finance,,capex_machinery,420000,36,residential_property,890000,False,digital_aa,AA-ef5b199d4d98,RM-033
+LA-00308,MSME-00308,2025-07-15,Term Loan,,capex_expansion,34990000,48,residential_property,55000000,False,digital_aa,,RM-032
+LA-00309,MSME-00309,2024-09-19,PMMY Mudra,Tarun,capex_machinery,750000,48,none_cgtmse,0,True,digital_aa,,RM-017
+LA-00310,MSME-00310,2026-02-09,Equipment Finance,,capex_machinery,570540000,60,none_cgtmse,0,False,branch,AA-5707e98604d6,RM-016
+LA-00311,MSME-00311,2026-08-21,Cash Credit,,working_capital,73370000,12,residential_property,138950000,False,branch,AA-8e6c53d7d5a2,RM-026
+LA-00312,MSME-00312,2026-07-25,Equipment Finance,,capex_machinery,5660000,48,hypothecation_stock_debtors,10640000,False,digital_aa,AA-b6634084e9e1,RM-007
+LA-00313,MSME-00313,2026-05-11,Cash Credit,,working_capital,1830000,12,hypothecation_machinery,1510000,False,digital_aa,AA-943c70c9aa2d,RM-017
+LA-00314,MSME-00314,2025-03-01,Cash Credit,,working_capital,360000,12,none_cgtmse,0,True,digital_aa,AA-f85c147e7037,RM-003
+LA-00315,MSME-00315,2025-10-29,Equipment Finance,,capex_machinery,120000,36,residential_property,240000,False,digital_aa,AA-1b3840a1b302,RM-026
+LA-00316,MSME-00316,2026-09-04,Cash Credit,,working_capital,7940000,12,hypothecation_machinery,5230000,False,digital_aa,AA-712d757ce626,RM-012
+LA-00317,MSME-00317,2024-11-27,Cash Credit,,working_capital,1510000,12,residential_property,3090000,False,digital_aa,,RM-032
+LA-00318,MSME-00318,2024-12-13,Equipment Finance,,capex_machinery,2980000,60,none_cgtmse,0,True,dsa,AA-d367d2e7c062,RM-008
+LA-00319,MSME-00319,2025-11-07,Cash Credit,,working_capital,7830000,12,commercial_property,5000000,False,branch,,RM-034
+LA-00320,MSME-00320,2025-09-21,PMMY Mudra,Kishore,capex_machinery,210000,48,none_cgtmse,0,True,dsa,,RM-021
+LA-00321,MSME-00321,2026-02-03,PMMY Mudra,Kishore,capex_machinery,360000,48,none_cgtmse,0,True,branch,AA-4d68065c5f0e,RM-033
+LA-00322,MSME-00322,2025-12-27,PMMY Mudra,Tarun Plus,working_capital,1380000,60,none_cgtmse,0,True,branch,AA-d6293454b758,RM-023
+LA-00323,MSME-00323,2025-02-21,PMMY Mudra,Tarun,capex_machinery,830000,60,none_cgtmse,0,True,dsa,AA-59e7e108b0dd,RM-038
+LA-00324,MSME-00324,2025-04-25,PMMY Mudra,Tarun Plus,working_capital,1950000,60,none_cgtmse,0,True,branch,,RM-026
+LA-00325,MSME-00325,2025-07-27,Cash Credit,,working_capital,117420000,12,residential_property,160250000,False,branch,,RM-009
+LA-00326,MSME-00326,2026-09-28,TReDS Invoice Discounting,,working_capital,184080000,3,hypothecation_machinery,137080000,False,branch,AA-e8354e829941,RM-026
+LA-00327,MSME-00327,2024-11-23,Equipment Finance,,capex_machinery,48690000,36,none_cgtmse,0,True,digital_aa,AA-8087ac89f104,RM-038
+LA-00328,MSME-00328,2025-08-04,Cash Credit,,working_capital,27550000,12,commercial_property,38980000,False,branch,,RM-026
+LA-00329,MSME-00329,2026-06-07,PMMY Mudra,Tarun Plus,working_capital,1300000,48,none_cgtmse,0,True,branch,,RM-034
+LA-00330,MSME-00330,2026-07-07,Term Loan,,capex_expansion,32250000,72,none_cgtmse,0,True,digital_aa,AA-3d5a3f86ca1b,RM-007
+LA-00331,MSME-00331,2025-02-03,Cash Credit,,working_capital,19190000,12,residential_property,21640000,False,branch,,RM-027
+LA-00332,MSME-00332,2024-08-24,Cash Credit,,working_capital,720000,12,hypothecation_stock_debtors,1000000,False,digital_aa,AA-fd5850c4cc67,RM-018
+LA-00333,MSME-00333,2025-04-29,Term Loan,,capex_expansion,28590000,72,fd_lien,32040000,False,branch,,RM-012
+LA-00334,MSME-00334,2025-05-03,Equipment Finance,,capex_machinery,57880000,36,none_cgtmse,0,True,branch,,RM-020
+LA-00335,MSME-00335,2026-02-20,Term Loan,,capex_expansion,278510000,48,commercial_property,237070000,False,digital_aa,AA-55d6fab43b9b,RM-033
+LA-00336,MSME-00336,2025-12-11,PMMY Mudra,Kishore,working_capital,500000,36,none_cgtmse,0,True,branch,AA-25779530a208,RM-033
+LA-00337,MSME-00337,2025-07-09,PMMY Mudra,Kishore,working_capital,180000,60,none_cgtmse,0,True,dsa,,RM-033
+LA-00338,MSME-00338,2025-02-01,PMMY Mudra,Tarun Plus,working_capital,1640000,36,none_cgtmse,0,True,branch,AA-27a8dc0c0af8,RM-019
+LA-00339,MSME-00339,2024-12-25,Cash Credit,,working_capital,4010000,12,hypothecation_stock_debtors,6260000,False,dsa,AA-2bf6c4f6a810,RM-027
+LA-00340,MSME-00340,2025-10-05,PMMY Mudra,Tarun Plus,working_capital,1470000,36,none_cgtmse,0,True,branch,,RM-027
+LA-00341,MSME-00341,2025-11-01,Cash Credit,,working_capital,14260000,12,hypothecation_stock_debtors,10050000,False,dsa,,RM-010
+LA-00342,MSME-00342,2025-11-25,Term Loan,,refinance,81150000,84,commercial_property,103400000,False,branch,AA-f213692eb67f,RM-014
+LA-00343,MSME-00343,2025-05-21,Cash Credit,,working_capital,2040000,12,commercial_property,4250000,False,branch,,RM-033
+LA-00344,MSME-00344,2026-03-27,Equipment Finance,,capex_machinery,9460000,36,fd_lien,16960000,False,ocen_marketplace,,RM-013
+LA-00345,MSME-00345,2026-08-05,Cash Credit,,working_capital,2100000,12,none_cgtmse,0,True,digital_aa,AA-e55f835603ee,RM-013
+LA-00346,MSME-00346,2025-05-26,PMMY Mudra,Tarun Plus,working_capital,1700000,36,none_cgtmse,0,True,ocen_marketplace,,RM-003
+LA-00347,MSME-00347,2025-07-01,Equipment Finance,,capex_machinery,250580000,60,none_cgtmse,0,False,digital_aa,AA-ababf7b4c61c,RM-027
+LA-00348,MSME-00348,2025-12-22,Cash Credit,,working_capital,790000,12,commercial_property,1250000,False,branch,,RM-029
+LA-00349,MSME-00349,2025-04-12,Equipment Finance,,capex_machinery,32100000,48,commercial_property,44770000,False,dsa,AA-538e53bcadeb,RM-012
+LA-00350,MSME-00350,2024-08-29,Cash Credit,,working_capital,117660000,12,none_cgtmse,0,False,digital_aa,,RM-038
+LA-00351,MSME-00351,2025-08-28,Cash Credit,,working_capital,31810000,12,commercial_property,45110000,False,branch,,RM-011
+LA-00352,MSME-00352,2026-05-09,PMMY Mudra,Kishore,capex_expansion,240000,60,none_cgtmse,0,True,branch,AA-9c2669572412,RM-009
+LA-00353,MSME-00353,2025-02-01,PMMY Mudra,Kishore,capex_expansion,320000,48,none_cgtmse,0,True,digital_aa,,RM-006
+LA-00354,MSME-00354,2024-12-04,TReDS Invoice Discounting,,working_capital,155570000,3,none_cgtmse,0,False,ocen_marketplace,,RM-039
+LA-00355,MSME-00355,2025-11-23,Term Loan,,capex_expansion,360000,60,commercial_property,400000,False,branch,,RM-029
+LA-00356,MSME-00356,2025-02-15,Cash Credit,,working_capital,5710000,12,none_cgtmse,0,True,dsa,,RM-003
+LA-00357,MSME-00357,2026-05-15,Equipment Finance,,capex_machinery,2440000,36,hypothecation_machinery,1720000,False,branch,AA-dd0972c5a841,RM-040
+LA-00358,MSME-00358,2025-12-08,Cash Credit,,working_capital,24780000,12,none_cgtmse,0,True,branch,AA-665414bb5cd7,RM-020
+LA-00359,MSME-00359,2024-07-16,PMMY Mudra,Tarun,vehicle_purchase,930000,36,none_cgtmse,0,True,dsa,AA-0df897092691,RM-004
+LA-00360,MSME-00360,2026-02-26,PMMY Mudra,Tarun,refinance,810000,36,none_cgtmse,0,True,branch,AA-f741b448d50d,RM-018
+LA-00361,MSME-00361,2025-10-28,Cash Credit,,working_capital,2450000,12,none_cgtmse,0,True,digital_aa,AA-eba2b9885d03,RM-010
+LA-00362,MSME-00362,2025-04-19,Cash Credit,,working_capital,4540000,12,none_cgtmse,0,True,ocen_marketplace,,RM-002
+LA-00363,MSME-00363,2024-11-30,Cash Credit,,working_capital,2190000,12,commercial_property,1560000,False,dsa,,RM-024
+LA-00364,MSME-00364,2026-06-04,Term Loan,,capex_expansion,39800000,72,residential_property,44380000,False,digital_aa,AA-8729aca5558e,RM-025
+LA-00365,MSME-00365,2024-11-16,Term Loan,,capex_expansion,4360000,60,commercial_property,9210000,False,digital_aa,,RM-024
+LA-00366,MSME-00366,2024-12-05,Cash Credit,,working_capital,51020000,12,hypothecation_stock_debtors,85390000,False,ocen_marketplace,,RM-026
+LA-00367,MSME-00367,2026-06-28,Equipment Finance,,capex_machinery,66880000,60,none_cgtmse,0,True,digital_aa,AA-65d94500a713,RM-018
+LA-00368,MSME-00368,2024-12-04,Cash Credit,,working_capital,3950000,12,hypothecation_machinery,3190000,False,dsa,AA-a2b64fcded1b,RM-010
+LA-00369,MSME-00369,2024-07-26,Term Loan,,refinance,22850000,60,commercial_property,17230000,False,ocen_marketplace,AA-887c70c41d5a,RM-037
+LA-00370,MSME-00370,2026-05-23,Cash Credit,,working_capital,2300000,12,residential_property,3150000,False,branch,AA-57093ff87f66,RM-018
+LA-00371,MSME-00371,2025-10-24,Equipment Finance,,capex_machinery,330000,36,hypothecation_stock_debtors,450000,False,branch,AA-0e9f05a2ed48,RM-024
+LA-00372,MSME-00372,2024-10-27,Term Loan,,capex_expansion,287540000,84,commercial_property,438270000,False,dsa,AA-fc2fbfaf2631,RM-031
+LA-00373,MSME-00373,2025-08-15,Cash Credit,,working_capital,250000,12,commercial_property,550000,False,branch,AA-849fe4a1e3c7,RM-034
+LA-00374,MSME-00374,2025-05-12,Equipment Finance,,capex_machinery,400000,60,hypothecation_machinery,340000,False,dsa,AA-06e00dc5dbf3,RM-005
+LA-00375,MSME-00375,2026-07-20,Cash Credit,,working_capital,240000,12,commercial_property,380000,False,digital_aa,,RM-027
+LA-00376,MSME-00376,2026-07-30,Cash Credit,,working_capital,327640000,12,residential_property,654340000,False,branch,,RM-018
+LA-00377,MSME-00377,2025-03-06,Cash Credit,,working_capital,23420000,12,residential_property,19160000,False,ocen_marketplace,AA-865789e27efb,RM-017
+LA-00378,MSME-00378,2024-10-15,Term Loan,,refinance,153080000,72,none_cgtmse,0,False,dsa,AA-a01b586dadf8,RM-034
+LA-00379,MSME-00379,2026-05-11,TReDS Invoice Discounting,,working_capital,31420000,3,commercial_property,34090000,False,digital_aa,AA-b7c3a7a1753e,RM-014
+LA-00380,MSME-00380,2025-09-03,Term Loan,,refinance,90000,72,hypothecation_stock_debtors,190000,False,dsa,AA-67b77473db1a,RM-004
+LA-00381,MSME-00381,2026-06-10,Cash Credit,,working_capital,1010000,12,hypothecation_machinery,2160000,False,branch,AA-4d99e89b28a9,RM-014
+LA-00382,MSME-00382,2026-07-14,Cash Credit,,working_capital,117520000,12,residential_property,75110000,False,dsa,AA-37597e150d51,RM-024
+LA-00383,MSME-00383,2026-08-04,Cash Credit,,working_capital,2890000,12,residential_property,5280000,False,branch,,RM-039
+LA-00384,MSME-00384,2024-10-10,Equipment Finance,,capex_machinery,70740000,36,none_cgtmse,0,True,digital_aa,,RM-037
+LA-00385,MSME-00385,2025-07-08,Equipment Finance,,capex_machinery,44580000,48,none_cgtmse,0,True,branch,AA-c460a70c76f0,RM-015
+LA-00386,MSME-00386,2025-08-05,Equipment Finance,,capex_machinery,2510000,36,residential_property,5210000,False,dsa,,RM-023
+LA-00387,MSME-00387,2025-02-25,Cash Credit,,working_capital,844740000,12,commercial_property,1174250000,False,dsa,AA-2603c8d753bb,RM-017
+LA-00388,MSME-00388,2026-02-23,Term Loan,,capex_expansion,100280000,72,none_cgtmse,0,False,branch,,RM-009
+LA-00389,MSME-00389,2025-02-04,Cash Credit,,working_capital,16980000,12,none_cgtmse,0,True,branch,AA-54d38065576a,RM-011
+LA-00390,MSME-00390,2026-03-15,Cash Credit,,working_capital,8060000,12,residential_property,8920000,False,dsa,,RM-021
+LA-00391,MSME-00391,2026-01-29,Cash Credit,,working_capital,370000,12,hypothecation_stock_debtors,490000,False,branch,AA-f4c676280ccc,RM-035
+LA-00392,MSME-00392,2025-10-31,Cash Credit,,working_capital,299760000,12,none_cgtmse,0,False,digital_aa,AA-1dd0c3c2530e,RM-028
+LA-00393,MSME-00393,2026-06-14,Equipment Finance,,capex_machinery,22230000,60,none_cgtmse,0,True,dsa,,RM-011
+LA-00394,MSME-00394,2024-09-07,PMMY Mudra,Tarun Plus,working_capital,1240000,60,none_cgtmse,0,True,branch,,RM-032
+LA-00395,MSME-00395,2024-11-11,Equipment Finance,,capex_machinery,111200000,60,hypothecation_stock_debtors,188800000,False,digital_aa,,RM-012
+LA-00396,MSME-00396,2025-08-14,Equipment Finance,,capex_machinery,177800000,48,fd_lien,110690000,False,digital_aa,AA-f738d97a66b6,RM-016
+LA-00397,MSME-00397,2025-09-26,Cash Credit,,working_capital,2380000,12,hypothecation_stock_debtors,2600000,False,branch,AA-870e82c4e8af,RM-015
+LA-00398,MSME-00398,2025-09-29,Equipment Finance,,capex_machinery,19880000,36,residential_property,24780000,False,digital_aa,AA-3e3293127ff8,RM-031
+LA-00399,MSME-00399,2024-11-14,Equipment Finance,,capex_machinery,11060000,48,none_cgtmse,0,True,branch,,RM-001
+LA-00400,MSME-00400,2025-04-10,Cash Credit,,working_capital,145490000,12,residential_property,283460000,False,branch,AA-3dd459297367,RM-002
+LA-00401,MSME-00401,2025-03-25,PMMY Mudra,Tarun Plus,refinance,1710000,48,none_cgtmse,0,True,branch,AA-802eba80e6d2,RM-003
+LA-00402,MSME-00402,2025-09-07,Cash Credit,,working_capital,20130000,12,none_cgtmse,0,True,digital_aa,AA-37662be27907,RM-032
+LA-00403,MSME-00403,2024-08-23,Term Loan,,capex_expansion,43640000,84,none_cgtmse,0,True,branch,AA-be43fb4175c8,RM-006
+LA-00404,MSME-00404,2025-07-10,PMMY Mudra,Tarun,capex_machinery,630000,36,none_cgtmse,0,True,branch,AA-a984648d0814,RM-025
+LA-00405,MSME-00405,2026-02-20,Equipment Finance,,vehicle_purchase,20790000,36,hypothecation_machinery,31480000,False,branch,,RM-013
+LA-00406,MSME-00406,2026-08-24,PMMY Mudra,Tarun Plus,working_capital,1830000,36,none_cgtmse,0,True,dsa,AA-cc739f8b6964,RM-016
+LA-00407,MSME-00407,2024-12-01,Cash Credit,,working_capital,3370000,12,none_cgtmse,0,True,branch,,RM-037
+LA-00408,MSME-00408,2025-05-31,Term Loan,,capex_expansion,37880000,60,none_cgtmse,0,True,branch,AA-c6645d4220bf,RM-031
+LA-00409,MSME-00409,2025-09-14,Cash Credit,,working_capital,64280000,12,hypothecation_stock_debtors,113910000,False,dsa,,RM-014
+LA-00410,MSME-00410,2025-08-13,PMMY Mudra,Tarun,working_capital,540000,48,none_cgtmse,0,True,dsa,AA-701a98a666a2,RM-016
+LA-00411,MSME-00411,2026-06-28,Term Loan,,refinance,55590000,84,fd_lien,68230000,False,branch,AA-0e3657bc8d6d,RM-031
+LA-00412,MSME-00412,2025-11-22,Cash Credit,,working_capital,780000,12,residential_property,1320000,False,branch,,RM-020
+LA-00413,MSME-00413,2026-07-08,Cash Credit,,working_capital,4260000,12,hypothecation_machinery,5430000,False,digital_aa,AA-dba07c3ffe4a,RM-026
+LA-00414,MSME-00414,2025-05-02,Equipment Finance,,capex_machinery,3050000,36,none_cgtmse,0,True,digital_aa,AA-9c418e70daa5,RM-022
+LA-00415,MSME-00415,2024-07-21,Cash Credit,,working_capital,11980000,12,hypothecation_stock_debtors,18230000,False,ocen_marketplace,,RM-006
+LA-00416,MSME-00416,2026-05-17,Cash Credit,,working_capital,30010000,12,none_cgtmse,0,True,digital_aa,AA-a383c8d68e2c,RM-008
+LA-00417,MSME-00417,2024-08-29,Equipment Finance,,capex_machinery,17530000,60,residential_property,33760000,False,branch,,RM-040
+LA-00418,MSME-00418,2024-09-28,Cash Credit,,working_capital,429020000,12,hypothecation_machinery,759390000,False,dsa,,RM-009
+LA-00419,MSME-00419,2025-03-21,PMMY Mudra,Tarun,working_capital,510000,48,none_cgtmse,0,True,branch,AA-848a6096aafb,RM-028
+LA-00420,MSME-00420,2026-09-18,Cash Credit,,working_capital,29470000,12,hypothecation_stock_debtors,35370000,False,digital_aa,,RM-028
+LA-00421,MSME-00421,2025-05-16,Equipment Finance,,vehicle_purchase,55990000,48,commercial_property,74010000,False,branch,,RM-040
+LA-00422,MSME-00422,2025-06-07,Cash Credit,,working_capital,1700000,12,hypothecation_stock_debtors,1130000,False,branch,,RM-015
+LA-00423,MSME-00423,2026-06-02,Cash Credit,,working_capital,49410000,12,hypothecation_stock_debtors,84340000,False,branch,,RM-015
+LA-00424,MSME-00424,2026-01-25,Term Loan,,capex_expansion,313910000,60,none_cgtmse,0,False,branch,AA-01d9014f2acd,RM-023
+LA-00425,MSME-00425,2025-11-03,Cash Credit,,working_capital,143000000,12,fd_lien,107170000,False,branch,AA-b369abbaaf03,RM-025
+LA-00426,MSME-00426,2025-02-07,PMMY Mudra,Tarun,capex_machinery,540000,48,none_cgtmse,0,True,digital_aa,,RM-037
+LA-00427,MSME-00427,2024-09-23,Cash Credit,,working_capital,276270000,12,commercial_property,204240000,False,dsa,,RM-037
+LA-00428,MSME-00428,2024-09-13,PMMY Mudra,Kishore,capex_machinery,470000,48,none_cgtmse,0,True,digital_aa,AA-3b7c1824cdb4,RM-020
+LA-00429,MSME-00429,2025-04-15,Cash Credit,,working_capital,2050000,12,none_cgtmse,0,True,branch,,RM-012
+LA-00430,MSME-00430,2026-03-16,PMMY Mudra,Tarun,capex_expansion,910000,36,none_cgtmse,0,True,digital_aa,AA-bf473aef2437,RM-006
+LA-00431,MSME-00431,2024-12-06,PMMY Mudra,Kishore,capex_machinery,450000,36,none_cgtmse,0,True,branch,,RM-029
+LA-00432,MSME-00432,2025-11-07,Cash Credit,,working_capital,15330000,12,hypothecation_stock_debtors,16830000,False,digital_aa,AA-7ed43915b100,RM-013
+LA-00433,MSME-00433,2025-08-18,Equipment Finance,,capex_machinery,5870000,60,residential_property,8170000,False,branch,AA-411143086498,RM-014
+LA-00434,MSME-00434,2025-02-21,Cash Credit,,working_capital,3540000,12,none_cgtmse,0,True,dsa,,RM-016
+LA-00435,MSME-00435,2025-11-30,Cash Credit,,working_capital,14770000,12,fd_lien,13670000,False,branch,AA-2aa97f9485d9,RM-020
+LA-00436,MSME-00436,2026-01-24,Cash Credit,,working_capital,1810000,12,hypothecation_stock_debtors,3600000,False,branch,,RM-027
+LA-00437,MSME-00437,2026-03-07,Equipment Finance,,capex_machinery,110000,60,none_cgtmse,0,True,branch,AA-47685fa67ce4,RM-026
+LA-00438,MSME-00438,2024-11-26,PMMY Mudra,Tarun,working_capital,580000,48,none_cgtmse,0,True,branch,,RM-004
+LA-00439,MSME-00439,2026-08-12,Cash Credit,,working_capital,7400000,12,residential_property,7690000,False,branch,AA-143706f3f99c,RM-033
+LA-00440,MSME-00440,2025-03-22,Term Loan,,capex_expansion,9950000,60,commercial_property,9490000,False,branch,AA-5cb2aa8353b9,RM-005
+LA-00441,MSME-00441,2026-06-30,Cash Credit,,working_capital,139040000,12,none_cgtmse,0,False,digital_aa,AA-c9f8a7d50398,RM-027
+LA-00442,MSME-00442,2026-05-30,Cash Credit,,working_capital,25900000,12,commercial_property,20920000,False,dsa,AA-feb9b879df6d,RM-009
+LA-00443,MSME-00443,2025-03-28,PMMY Mudra,Tarun Plus,capex_machinery,1810000,36,none_cgtmse,0,True,dsa,,RM-040
+LA-00444,MSME-00444,2025-04-28,PMMY Mudra,Kishore,working_capital,430000,60,none_cgtmse,0,True,dsa,AA-7e8133483cd1,RM-016
+LA-00445,MSME-00445,2026-07-07,PMMY Mudra,Tarun,capex_machinery,940000,60,none_cgtmse,0,True,digital_aa,AA-9a013cacb839,RM-027
+LA-00446,MSME-00446,2026-08-15,PMMY Mudra,Tarun Plus,capex_expansion,1120000,48,none_cgtmse,0,True,branch,AA-c2bdd8eb2755,RM-008
+LA-00447,MSME-00447,2025-04-17,Term Loan,,capex_expansion,58080000,60,residential_property,68280000,False,ocen_marketplace,,RM-024
+LA-00448,MSME-00448,2025-03-17,Equipment Finance,,capex_machinery,773960000,60,fd_lien,982150000,False,dsa,AA-808a48e849f5,RM-010
+LA-00449,MSME-00449,2024-11-02,Equipment Finance,,capex_machinery,32630000,48,hypothecation_machinery,63440000,False,digital_aa,AA-644f5ae55dee,RM-027
+LA-00450,MSME-00450,2026-03-07,Equipment Finance,,capex_machinery,18800000,60,residential_property,16440000,False,branch,AA-5d6df2be41f9,RM-039
+LA-00451,MSME-00451,2025-06-22,Cash Credit,,working_capital,94160000,12,commercial_property,157130000,False,dsa,,RM-016
+LA-00452,MSME-00452,2025-07-26,Equipment Finance,,capex_machinery,460000,48,residential_property,580000,False,branch,AA-981e9beada4a,RM-005
+LA-00453,MSME-00453,2024-09-30,Equipment Finance,,capex_machinery,1140000,60,none_cgtmse,0,True,branch,,RM-002
+LA-00454,MSME-00454,2025-06-04,PMMY Mudra,Kishore,working_capital,450000,36,none_cgtmse,0,True,digital_aa,AA-36a10c9d996f,RM-034
+LA-00455,MSME-00455,2025-01-28,PMMY Mudra,Kishore,working_capital,360000,36,none_cgtmse,0,True,branch,,RM-017
+LA-00456,MSME-00456,2026-02-04,Term Loan,,capex_expansion,220120000,48,none_cgtmse,0,False,branch,AA-c5f03a1b9811,RM-011
+LA-00457,MSME-00457,2024-07-27,Equipment Finance,,capex_machinery,387240000,60,hypothecation_stock_debtors,686400000,False,dsa,,RM-040
+LA-00458,MSME-00458,2025-07-26,Equipment Finance,,capex_machinery,170000000,36,none_cgtmse,0,False,branch,,RM-025
+LA-00459,MSME-00459,2026-06-07,Equipment Finance,,capex_machinery,12930000,60,none_cgtmse,0,True,branch,,RM-009
+LA-00460,MSME-00460,2026-06-26,Equipment Finance,,capex_machinery,570000,60,none_cgtmse,0,True,branch,,RM-017
+LA-00461,MSME-00461,2024-08-29,Equipment Finance,,capex_machinery,110980000,48,none_cgtmse,0,False,dsa,AA-dc74d81460e4,RM-005
+LA-00462,MSME-00462,2026-01-07,PMMY Mudra,Tarun,working_capital,590000,36,none_cgtmse,0,True,branch,AA-77784dc95127,RM-032
+LA-00463,MSME-00463,2025-01-13,Equipment Finance,,capex_machinery,630000,48,residential_property,920000,False,dsa,,RM-021
+LA-00464,MSME-00464,2026-05-09,PMMY Mudra,Tarun Plus,working_capital,1430000,60,none_cgtmse,0,True,digital_aa,AA-6cc989c125d3,RM-010
+LA-00465,MSME-00465,2025-04-01,Cash Credit,,working_capital,2900000,12,none_cgtmse,0,True,digital_aa,AA-60b92e4a5c78,RM-034
+LA-00466,MSME-00466,2025-05-23,Term Loan,,capex_expansion,3970000,84,residential_property,3860000,False,dsa,,RM-030
+LA-00467,MSME-00467,2025-06-06,PMMY Mudra,Tarun,capex_expansion,650000,48,none_cgtmse,0,True,dsa,AA-517ce267f3af,RM-012
+LA-00468,MSME-00468,2025-02-25,Cash Credit,,working_capital,110990000,12,none_cgtmse,0,False,digital_aa,,RM-020
+LA-00469,MSME-00469,2026-08-17,Equipment Finance,,capex_machinery,690000,36,hypothecation_stock_debtors,630000,False,ocen_marketplace,,RM-006
+LA-00470,MSME-00470,2024-12-28,PMMY Mudra,Tarun,capex_machinery,800000,36,none_cgtmse,0,True,dsa,,RM-001
+LA-00471,MSME-00471,2026-07-28,Cash Credit,,working_capital,430000,12,hypothecation_stock_debtors,490000,False,branch,AA-370409a5458c,RM-021
+LA-00472,MSME-00472,2025-12-10,Cash Credit,,working_capital,134330000,12,fd_lien,191150000,False,branch,AA-d8402fac214d,RM-007
+LA-00473,MSME-00473,2025-05-09,Term Loan,,capex_expansion,4980000,84,hypothecation_stock_debtors,4360000,False,branch,AA-460ccc2d0b0b,RM-033
+LA-00474,MSME-00474,2025-05-10,Term Loan,,capex_expansion,8560000,84,residential_property,16190000,False,branch,AA-89350fdd10cd,RM-037
+LA-00475,MSME-00475,2026-08-19,Equipment Finance,,capex_machinery,147300000,60,commercial_property,264150000,False,dsa,AA-a8507fc0e948,RM-031
+LA-00476,MSME-00476,2024-10-28,PMMY Mudra,Tarun Plus,capex_machinery,1140000,36,none_cgtmse,0,True,branch,,RM-026
+LA-00477,MSME-00477,2026-07-30,Cash Credit,,working_capital,42860000,12,none_cgtmse,0,True,branch,,RM-037
+LA-00478,MSME-00478,2026-04-20,Cash Credit,,working_capital,8700000,12,none_cgtmse,0,True,branch,,RM-032
+LA-00479,MSME-00479,2025-11-28,PMMY Mudra,Kishore,capex_expansion,480000,60,none_cgtmse,0,True,branch,,RM-004
+LA-00480,MSME-00480,2025-02-22,Equipment Finance,,capex_machinery,339900000,48,none_cgtmse,0,False,dsa,AA-bbabe304fed8,RM-020
+LA-00481,MSME-00481,2026-08-19,Equipment Finance,,capex_machinery,38060000,60,hypothecation_stock_debtors,55330000,False,branch,AA-3bcfe307e0e7,RM-024
+LA-00482,MSME-00482,2025-09-02,Cash Credit,,working_capital,83790000,12,commercial_property,141190000,False,branch,,RM-003
+LA-00483,MSME-00483,2026-01-17,Equipment Finance,,capex_machinery,3960000,36,commercial_property,4450000,False,dsa,AA-0c6bcff4180e,RM-013
+LA-00484,MSME-00484,2025-09-23,PMMY Mudra,Kishore,capex_expansion,420000,48,none_cgtmse,0,True,digital_aa,AA-e792e1e7872d,RM-039
+LA-00485,MSME-00485,2024-07-10,Cash Credit,,working_capital,350000,12,none_cgtmse,0,True,branch,,RM-038
+LA-00486,MSME-00486,2025-01-23,Cash Credit,,working_capital,600960000,12,none_cgtmse,0,False,branch,,RM-001
+LA-00487,MSME-00487,2026-02-05,Cash Credit,,working_capital,2420000,12,none_cgtmse,0,True,branch,AA-2166169ec1ee,RM-010
+LA-00488,MSME-00488,2026-01-24,PMMY Mudra,Kishore,capex_machinery,220000,36,none_cgtmse,0,True,branch,AA-2d390acca7d8,RM-036
+LA-00489,MSME-00489,2024-09-08,Cash Credit,,working_capital,59420000,12,residential_property,118170000,False,digital_aa,AA-f57ffcba4118,RM-021
+LA-00490,MSME-00490,2024-08-07,PMMY Mudra,Kishore,capex_machinery,300000,36,none_cgtmse,0,True,digital_aa,AA-633870e70cbc,RM-006
+LA-00491,MSME-00491,2026-07-22,Equipment Finance,,capex_machinery,1040000,48,hypothecation_stock_debtors,1920000,False,ocen_marketplace,AA-93a957c05e0d,RM-020
+LA-00492,MSME-00492,2026-01-06,Cash Credit,,working_capital,2610000,12,commercial_property,1950000,False,dsa,AA-18b85c7152d3,RM-029
+LA-00493,MSME-00493,2025-02-02,Term Loan,,capex_expansion,70340000,60,residential_property,124800000,False,branch,AA-c3248d41befa,RM-015
+LA-00494,MSME-00494,2025-01-10,Term Loan,,capex_expansion,2470000,72,none_cgtmse,0,True,digital_aa,AA-829e6787d2e4,RM-007
+LA-00495,MSME-00495,2026-09-09,Cash Credit,,working_capital,35160000,12,residential_property,76170000,False,digital_aa,AA-e377311ebe9a,RM-011
+LA-00496,MSME-00496,2026-01-23,Equipment Finance,,capex_machinery,7770000,48,none_cgtmse,0,True,dsa,AA-8d76a5bc1b4c,RM-002
+LA-00497,MSME-00497,2026-06-27,PMMY Mudra,Kishore,capex_machinery,440000,48,none_cgtmse,0,True,branch,,RM-016
+LA-00498,MSME-00498,2024-08-16,Equipment Finance,,vehicle_purchase,2250000,60,none_cgtmse,0,True,branch,,RM-001
+LA-00499,MSME-00499,2026-03-09,Cash Credit,,working_capital,28410000,12,hypothecation_machinery,51630000,False,digital_aa,,RM-020
+LA-00500,MSME-00500,2024-12-20,Cash Credit,,working_capital,125350000,12,hypothecation_stock_debtors,197730000,False,digital_aa,AA-f03ae5e35ba5,RM-023

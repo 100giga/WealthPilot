@@ -1,0 +1,991 @@
+promoter_id,applicant_id,name,date_of_birth,role,gender,pan,shareholding_pct,bureau_score,new_to_credit
+MSME-00001-P1,MSME-00001,Pooja Nath Thomas,1963-03-02,Proprietor,female,IYNPT9509A,100.0,720,False
+MSME-00002-P1,MSME-00002,Amit Saxena,1960-07-31,Managing Partner,male,ZNYPS2146C,26.1,846,False
+MSME-00002-P2,MSME-00002,Pooja Joshi,1998-12-15,Partner,female,OPBPJ7354P,20.7,833,False
+MSME-00002-P3,MSME-00002,Imran Singh Patel,1973-01-17,Partner,male,CIWPP8930Q,53.2,815,False
+MSME-00003-P1,MSME-00003,Radhika Rani Saxena,1974-07-01,Proprietor,female,TSYPS8024I,100.0,855,False
+MSME-00004-P1,MSME-00004,Meena Raj Nair,1984-02-27,Managing Partner,female,KGIPN3629E,29.8,702,False
+MSME-00004-P2,MSME-00004,Venkatesh Kishore Saxena,2000-03-29,Partner,male,CGXPS5930D,70.2,666,False
+MSME-00005-P1,MSME-00005,Sunita Lal Gill,1961-03-04,Managing Partner,female,DADPG3393Z,22.9,803,False
+MSME-00005-P2,MSME-00005,Harpreet Kumar Joshi,1976-11-27,Partner,female,WGOPJ8381X,24.9,828,False
+MSME-00005-P3,MSME-00005,Naveen Das,1966-11-08,Partner,male,WTNPD1057A,52.2,855,False
+MSME-00006-P1,MSME-00006,Imran Kulkarni,1992-12-08,Managing Partner,male,CZQPK3388Q,61.6,,True
+MSME-00006-P2,MSME-00006,Nandini Gill,1986-10-15,Partner,female,ZPJPG4788C,38.4,,True
+MSME-00007-P1,MSME-00007,Ramesh Bai Pandey,2001-06-06,Proprietor,male,UJSPP1835L,100.0,701,False
+MSME-00008-P1,MSME-00008,Harish Sharma,1978-09-02,Managing Director,male,NLOPS6833C,34.2,767,False
+MSME-00008-P2,MSME-00008,Swati Agarwal,1990-07-16,Director,female,SCGPA9051D,30.3,738,False
+MSME-00008-P3,MSME-00008,Radhika Bhat,1967-09-17,Director,female,FBGPB2758Z,35.5,791,False
+MSME-00009-P1,MSME-00009,Swati Das,1968-04-19,Managing Partner,female,HHUPD6985S,43.2,814,False
+MSME-00009-P2,MSME-00009,Venkatesh Kant Agarwal,1987-10-21,Partner,male,REGPA7778N,56.8,767,False
+MSME-00010-P1,MSME-00010,Arjun Devi Bhat,1985-06-08,Managing Partner,male,OIHPB8557W,49.9,794,False
+MSME-00010-P2,MSME-00010,Suresh Gopal Nair,1999-04-21,Partner,male,NTQPN3734I,25.6,767,False
+MSME-00010-P3,MSME-00010,Naveen Mohan Patel,1979-05-21,Partner,male,CSEPP7782F,24.6,850,False
+MSME-00011-P1,MSME-00011,Imran Bai Chauhan,1981-10-13,Managing Director,male,HAZPC9029M,33.2,741,False
+MSME-00011-P2,MSME-00011,Karthik Ali Nair,1988-08-11,Director,male,IIMPN5477U,42.1,711,False
+MSME-00011-P3,MSME-00011,Joseph Kumar Sharma,1964-11-01,Director,male,MEAPS1551G,24.7,759,False
+MSME-00012-P1,MSME-00012,Ramesh Pillai,1977-09-30,Managing Director,male,VYPPP3743H,31.8,823,False
+MSME-00012-P2,MSME-00012,Rahul Kumar Joshi,1963-04-08,Director,male,FETPJ2765X,44.6,821,False
+MSME-00012-P3,MSME-00012,Meena Jain,1976-09-24,Director,female,CKJPJ7864Q,23.6,851,False
+MSME-00013-P1,MSME-00013,Rajesh Ram Patel,1993-01-19,Proprietor,male,MTXPP9949R,100.0,769,False
+MSME-00014-P1,MSME-00014,Gurpreet Kulkarni,1997-10-07,Proprietor,male,QBWPK9035G,100.0,,True
+MSME-00015-P1,MSME-00015,Karthik Menon,1994-06-12,Proprietor,male,OFDPM8487V,100.0,723,False
+MSME-00016-P1,MSME-00016,Imran Fernandes,1965-12-01,Managing Director,male,CUAPF6832H,31.9,,True
+MSME-00016-P2,MSME-00016,Pooja Rani Singh,1968-01-29,Director,female,SJIPS2746U,68.1,783,False
+MSME-00017-P1,MSME-00017,Prakash Kishore Desai,1985-06-17,Managing Director,female,QXKPD5098G,21.4,718,False
+MSME-00017-P2,MSME-00017,Arjun Venkataraman,1976-03-23,Director,male,LYRPV2282D,43.6,736,False
+MSME-00017-P3,MSME-00017,Mary Joshi,1978-10-18,Director,female,MYVPJ3105L,34.9,739,False
+MSME-00018-P1,MSME-00018,Vikram Kumar Rao,1981-08-11,Proprietor,male,KOPPR1955Y,100.0,731,False
+MSME-00019-P1,MSME-00019,Anil Narayan Fernandes,1964-05-12,Proprietor,male,NMNPF0370J,100.0,818,False
+MSME-00020-P1,MSME-00020,Naveen Kaur Gupta,1990-07-31,Proprietor,male,UPNPG1368W,100.0,828,False
+MSME-00021-P1,MSME-00021,Arjun Kishore Shaikh,1985-06-13,Proprietor,male,FTOPS9757L,100.0,711,False
+MSME-00022-P1,MSME-00022,Imran Naidu,1991-12-22,Managing Partner,male,GFPPN2927S,52.7,771,False
+MSME-00022-P2,MSME-00022,Nandini Mohan Singh,1995-01-04,Partner,female,DJCPS7613Z,29.5,802,False
+MSME-00022-P3,MSME-00022,Anil Ram Naidu,1989-01-10,Partner,male,MVKPN0683K,17.7,803,False
+MSME-00023-P1,MSME-00023,Asha Kumar Reddy,1986-04-23,Proprietor,female,PQHPR2802I,100.0,817,False
+MSME-00024-P1,MSME-00024,Rahul Naidu,1997-02-21,Managing Director,male,XKFPN1395T,51.1,729,False
+MSME-00024-P2,MSME-00024,Gulshan Kishore Jain,1979-04-07,Director,female,UJBPJ0676M,48.9,779,False
+MSME-00025-P1,MSME-00025,Vikram Shankar Shaikh,1999-10-20,Proprietor,male,XZPPS3940Z,100.0,851,False
+MSME-00026-P1,MSME-00026,Mohammed Prasad Gupta,2000-01-14,Managing Partner,male,LHOPG5285T,38.3,707,False
+MSME-00026-P2,MSME-00026,Imran Mehta,1981-06-11,Partner,male,OXWPM0580Z,61.7,762,False
+MSME-00027-P1,MSME-00027,Ishita Gopal Rao,1966-12-05,Managing Director,female,TEVPR9875K,56.6,682,False
+MSME-00027-P2,MSME-00027,Asha Mohan Thomas,1998-05-10,Director,female,CSCPT8686S,43.4,711,False
+MSME-00028-P1,MSME-00028,Venkatesh Gill,1991-10-07,Managing Director,male,XEXPG3346Z,27.9,681,False
+MSME-00028-P2,MSME-00028,Prakash Gopal Gupta,1996-04-26,Director,male,EOHPG0993R,35.4,748,False
+MSME-00028-P3,MSME-00028,Suresh Chandra Menon,1962-12-04,Director,male,PVQPM0894B,36.8,705,False
+MSME-00029-P1,MSME-00029,Sunita Agarwal,1965-08-26,Proprietor,female,ZLJPA2471T,100.0,732,False
+MSME-00030-P1,MSME-00030,Prakash Narayan Banerjee,1985-01-03,Managing Director,male,MWNPB5156F,66.8,764,False
+MSME-00030-P2,MSME-00030,Rahul Desai,1983-02-01,Director,male,HYCPD2292Q,33.2,711,False
+MSME-00031-P1,MSME-00031,Swati Thomas,1992-09-25,Managing Director,female,AIEPT8926R,42.3,779,False
+MSME-00031-P2,MSME-00031,Rahul Nath Desai,1971-06-08,Director,male,KCYPD3810H,26.6,819,False
+MSME-00031-P3,MSME-00031,Imran Joshi,1978-10-15,Director,male,PNYPJ3688P,31.2,839,False
+MSME-00032-P1,MSME-00032,Naveen Chandra Gupta,1971-05-23,Managing Director,male,AUEPG0462A,67.5,804,False
+MSME-00032-P2,MSME-00032,Anil Ram Mukherjee,1996-04-22,Director,male,NTPPM1928Y,32.5,852,False
+MSME-00033-P1,MSME-00033,Anil Fernandes,1994-10-21,Managing Director,male,EUEPF9977X,52.6,724,False
+MSME-00033-P2,MSME-00033,Ramesh Nair,1976-07-24,Director,male,ZDTPN3349Z,47.4,716,False
+MSME-00034-P1,MSME-00034,Mary Kaur Patel,1965-11-13,Managing Director,female,LUQPP1909O,31.7,799,False
+MSME-00034-P2,MSME-00034,Naveen Kishore Mehta,1969-09-24,Director,male,UVUPM5991H,40.2,,True
+MSME-00034-P3,MSME-00034,Joseph Gill,1965-02-16,Director,male,AVVPG2185D,28.1,753,False
+MSME-00035-P1,MSME-00035,Arjun Khan,1977-04-23,Proprietor,male,ZJUPK5896J,100.0,755,False
+MSME-00036-P1,MSME-00036,Radhika Patel,1974-02-19,Proprietor,female,NKKPP5258E,100.0,803,False
+MSME-00037-P1,MSME-00037,Priya Naidu,1981-09-08,Proprietor,female,MZAPN6204H,100.0,840,False
+MSME-00038-P1,MSME-00038,Ishita Kumar Jain,1991-04-19,Managing Director,female,MWDPJ2506O,68.0,720,False
+MSME-00038-P2,MSME-00038,Deepa Devi Saxena,1967-02-19,Director,female,NPVPS1350Z,32.0,739,False
+MSME-00039-P1,MSME-00039,Ramesh Kishore Gupta,1969-04-13,Managing Partner,male,ANXPG0150U,29.9,765,False
+MSME-00039-P2,MSME-00039,Mohammed Chandra Gupta,1967-02-10,Partner,male,LEZPG9680T,70.1,697,False
+MSME-00040-P1,MSME-00040,Gulshan Pillai,1963-08-15,Managing Director,female,DXQPP3907Q,41.9,717,False
+MSME-00040-P2,MSME-00040,Fatima Bai Patel,1965-11-27,Director,female,QRQPP4029S,35.7,768,False
+MSME-00040-P3,MSME-00040,Venkatesh Khan,1995-09-22,Director,male,MKZPK6666W,22.5,749,False
+MSME-00041-P1,MSME-00041,Joseph Desai,1999-10-20,Proprietor,male,ITPPD3262B,100.0,891,False
+MSME-00042-P1,MSME-00042,Arjun Narayan Mehta,1972-11-29,Managing Partner,male,KWKPM0353S,55.9,878,False
+MSME-00042-P2,MSME-00042,Sameer Mehta,1997-12-20,Partner,male,MCRPM8541D,44.1,800,False
+MSME-00043-P1,MSME-00043,Ishita Kishore Pandey,1968-05-27,Managing Partner,female,KKVPP5785O,63.6,707,False
+MSME-00043-P2,MSME-00043,Gulshan Raj Khan,1991-03-19,Partner,female,VKHPK7512K,36.4,,True
+MSME-00044-P1,MSME-00044,Rajesh Singh Khan,1978-02-23,Proprietor,female,CEBPK8746V,100.0,743,False
+MSME-00045-P1,MSME-00045,Mohammed Naidu,1997-03-20,Managing Director,male,OFVPN9254J,25.7,617,False
+MSME-00045-P2,MSME-00045,Amit Ram Khan,1963-11-10,Director,male,GCNPK5254I,51.9,626,False
+MSME-00045-P3,MSME-00045,Venkatesh Khan,1995-05-05,Director,male,HGKPK3690P,22.4,613,False
+MSME-00046-P1,MSME-00046,Vikram Lal Patel,1970-01-12,Proprietor,male,XVGPP4056N,100.0,874,False
+MSME-00047-P1,MSME-00047,Joseph Iyer,1979-10-11,Managing Partner,male,ZNTPI8153R,42.7,900,False
+MSME-00047-P2,MSME-00047,Anjali Thomas,1978-07-20,Partner,female,VEZPT8454O,57.3,894,False
+MSME-00048-P1,MSME-00048,Venkatesh Ali Patel,1977-12-10,Proprietor,male,AIUPP8250N,100.0,728,False
+MSME-00049-P1,MSME-00049,Fatima Mukherjee,1972-01-23,Managing Director,female,KBVPM6587I,50.2,788,False
+MSME-00049-P2,MSME-00049,Dinesh Kishore Kulkarni,1992-06-04,Director,male,MELPK0519N,49.8,807,False
+MSME-00050-P1,MSME-00050,Rajesh Prasad Jain,1963-03-29,Managing Partner,male,TUUPJ3797C,51.6,695,False
+MSME-00050-P2,MSME-00050,Anil Kant Banerjee,1984-06-03,Partner,male,YLJPB3584W,48.4,711,False
+MSME-00051-P1,MSME-00051,Imran Kishore Iyer,1985-06-24,Managing Director,male,HFNPI1972U,49.6,729,False
+MSME-00051-P2,MSME-00051,Radhika Bai Mehta,1998-12-18,Director,female,ZDYPM0536O,50.4,754,False
+MSME-00052-P1,MSME-00052,Rahul Chandra Naidu,1989-06-02,Managing Director,male,PJOPN8083K,40.1,769,False
+MSME-00052-P2,MSME-00052,Ramesh Ali Kulkarni,1994-11-20,Director,male,QWXPK0886E,59.9,763,False
+MSME-00053-P1,MSME-00053,Deepa Gopal Rao,1983-01-04,Proprietor,female,ZVOPR6640Q,100.0,,True
+MSME-00054-P1,MSME-00054,Karthik Shankar Desai,1985-01-15,Proprietor,male,FOFPD4362L,100.0,751,False
+MSME-00055-P1,MSME-00055,Naveen Chauhan,1989-08-28,Proprietor,male,LXNPC3263Y,100.0,,True
+MSME-00056-P1,MSME-00056,Imran Kaur Pandey,1993-02-02,Managing Director,male,KYTPP0554O,46.9,769,False
+MSME-00056-P2,MSME-00056,Amit Jyoti Jain,1986-06-07,Director,male,QNLPJ6382H,25.4,754,False
+MSME-00056-P3,MSME-00056,Anjali Banerjee,1989-08-23,Director,female,JLYPB4453W,27.7,668,False
+MSME-00057-P1,MSME-00057,Naveen Lal Mukherjee,1961-12-26,Managing Director,male,MUDPM6879S,41.6,792,False
+MSME-00057-P2,MSME-00057,Radhika Bai Das,1981-08-21,Director,female,YESPD7314S,32.3,802,False
+MSME-00057-P3,MSME-00057,Joseph Joshi,1969-05-09,Director,male,OIEPJ9376O,26.1,813,False
+MSME-00058-P1,MSME-00058,Harish Kishore Gupta,1983-02-06,Managing Director,male,QAXPG8049U,29.1,653,False
+MSME-00058-P2,MSME-00058,Radhika Das,1993-12-25,Director,female,AFQPD2588B,39.4,701,False
+MSME-00058-P3,MSME-00058,Anil Rani Gupta,1962-05-05,Director,male,AQGPG1790V,31.5,655,False
+MSME-00059-P1,MSME-00059,Sanjay Rani Saxena,1973-11-29,Managing Director,male,VRTPS0209L,26.5,680,False
+MSME-00059-P2,MSME-00059,Karthik Singh,1980-05-18,Director,male,CKSPS7619I,38.1,674,False
+MSME-00059-P3,MSME-00059,Sameer Sharma,1960-01-30,Director,male,DGUPS1802N,35.4,732,False
+MSME-00060-P1,MSME-00060,Anil Gupta,1962-02-07,Proprietor,male,DRNPG1386T,100.0,754,False
+MSME-00061-P1,MSME-00061,Amit Singh Shaikh,1979-11-18,Managing Partner,male,MESPS7610T,38.2,737,False
+MSME-00061-P2,MSME-00061,Revathi Gill,1975-08-27,Partner,female,GDSPG0321A,47.1,682,False
+MSME-00061-P3,MSME-00061,Sameer Chandra Chauhan,1982-01-03,Partner,male,YMMPC8626D,14.7,732,False
+MSME-00062-P1,MSME-00062,Sunita Kumar Saxena,1966-03-12,Managing Partner,female,NWWPS9328O,29.6,739,False
+MSME-00062-P2,MSME-00062,Arjun Reddy,1975-07-19,Partner,male,AXSPR0937H,70.4,734,False
+MSME-00063-P1,MSME-00063,Fatima Devi Jain,1969-04-11,Proprietor,female,PELPJ2642K,100.0,715,False
+MSME-00064-P1,MSME-00064,Ramesh Banerjee,1975-03-05,Managing Partner,male,IDUPB7707Z,31.4,706,False
+MSME-00064-P2,MSME-00064,Sanjay Kishore Saxena,1996-08-27,Partner,male,YDXPS0929E,68.6,752,False
+MSME-00065-P1,MSME-00065,Radhika Bai Das,1984-05-02,Proprietor,male,BBHPD4980A,100.0,712,False
+MSME-00066-P1,MSME-00066,Kavita Fernandes,1960-09-07,Managing Partner,female,YRWPF6511C,46.1,710,False
+MSME-00066-P2,MSME-00066,Venkatesh Shankar Thomas,1993-01-05,Partner,male,NGSPT5379Q,53.9,776,False
+MSME-00067-P1,MSME-00067,Karthi Singh Khan,1973-01-23,Proprietor,male,SFCPK4154J,100.0,758,False
+MSME-00068-P1,MSME-00068,Rajesh Mohan Chauhan,1959-09-01,Managing Director,male,RLOPC9847D,68.6,728,False
+MSME-00068-P2,MSME-00068,Harpreet Lal Joshi,1972-10-21,Director,female,BCIPJ6459P,31.4,760,False
+MSME-00069-P1,MSME-00069,Ramesh Devi Mehta,1989-06-04,Managing Partner,male,TYKPM7882H,38.7,,True
+MSME-00069-P2,MSME-00069,Rahul Narayan Mukherjee,1966-04-02,Partner,male,XVIPM7347H,33.5,735,False
+MSME-00069-P3,MSME-00069,Naveen Pillai,1974-03-09,Partner,male,CJUPP0927W,27.8,818,False
+MSME-00070-P1,MSME-00070,Rajesh Kumar Rao,1997-04-20,Managing Partner,male,PMQPR9421H,23.6,,True
+MSME-00070-P2,MSME-00070,Anil Kumar Mehta,2001-03-29,Partner,male,LOSPM1513W,76.4,,True
+MSME-00071-P1,MSME-00071,Dinesh Rani Singh,1985-12-24,Managing Partner,male,YRSPS7697J,31.4,624,False
+MSME-00071-P2,MSME-00071,Pooja Bai Pillai,1962-08-30,Partner,female,VKKPP6636F,36.2,653,False
+MSME-00071-P3,MSME-00071,Gulshan Das,1987-03-29,Partner,female,ABKPD5622M,32.4,624,False
+MSME-00072-P1,MSME-00072,Lakshmi Mohan Sharma,1974-11-20,Proprietor,female,WJFPS2722C,100.0,629,False
+MSME-00073-P1,MSME-00073,Imran Banerjee,1977-07-21,Managing Partner,male,YAAPB0978Z,59.6,695,False
+MSME-00073-P2,MSME-00073,Vikram Khan,1972-03-11,Partner,male,CTCPK2211U,40.4,740,False
+MSME-00074-P1,MSME-00074,Gurpreet Mukherjee,1964-10-22,Managing Partner,male,BZHPM5916Z,40.4,726,False
+MSME-00074-P2,MSME-00074,Radhika Devi Agarwal,1982-02-12,Partner,female,PGCPA1772J,33.6,785,False
+MSME-00074-P3,MSME-00074,Suresh Kishore Kulkarni,1989-04-11,Partner,male,LFLPK2710B,25.9,706,False
+MSME-00075-P1,MSME-00075,Suresh Narayan Sharma,1975-02-15,Managing Director,male,YKUPS2132Y,40.7,769,False
+MSME-00075-P2,MSME-00075,Suresh Singh Sharma,1981-01-31,Director,male,JQWPS8397K,19.2,,True
+MSME-00075-P3,MSME-00075,Arjun Devi Pandey,1975-03-04,Director,male,ALKPP7277U,40.0,780,False
+MSME-00076-P1,MSME-00076,Sanjay Shankar Iyer,1979-11-10,Managing Partner,male,UILPI1499B,58.2,,True
+MSME-00076-P2,MSME-00076,Mary Narayan Iyer,1999-04-27,Partner,female,GYWPI5746Q,41.8,699,False
+MSME-00077-P1,MSME-00077,Naveen Ali Pandey,1967-06-01,Managing Director,male,TZPPP8741E,59.7,815,False
+MSME-00077-P2,MSME-00077,Radhika Bhat,1972-06-20,Director,female,MKKPB4545I,40.3,,True
+MSME-00078-P1,MSME-00078,Joseph Singh,1971-12-19,Managing Director,male,OCZPS3602X,20.0,,True
+MSME-00078-P2,MSME-00078,Asha Narayan Rao,1992-09-06,Director,female,VLFPR0598C,58.0,762,False
+MSME-00078-P3,MSME-00078,Karthik Narayan Mehta,1984-04-03,Director,male,ZUAPM5644V,22.0,772,False
+MSME-00079-P1,MSME-00079,Karthik Singh Jain,1982-10-06,Proprietor,male,MLLPJ5487C,100.0,709,False
+MSME-00080-P1,MSME-00080,Gurpreet Patel,1991-09-07,Managing Director,male,CPIPP5403N,63.7,698,False
+MSME-00080-P2,MSME-00080,Gulshan Menon,1975-02-17,Director,female,BAAPM2826U,36.3,623,False
+MSME-00081-P1,MSME-00081,Radhika Gupta,1991-04-12,Managing Director,female,KODPG2184C,54.6,,True
+MSME-00081-P2,MSME-00081,Priya Kaur Reddy,1986-07-19,Director,female,QRYPR4365L,24.7,701,False
+MSME-00081-P3,MSME-00081,Sanjay Lal Rao,1963-05-08,Director,male,UFDPR8915N,20.7,718,False
+MSME-00082-P1,MSME-00082,Mohammed Gupta,1989-09-29,Proprietor,male,JIXPG0616A,100.0,731,False
+MSME-00083-P1,MSME-00083,Vikram Gopal Rao,1983-01-21,Managing Partner,male,LTIPR1582E,57.5,,True
+MSME-00083-P2,MSME-00083,Anil Singh Bhat,1963-12-15,Partner,male,CPZPB7242U,42.5,723,False
+MSME-00084-P1,MSME-00084,Gurpreet Menon,1984-07-31,Proprietor,male,COLPM9340T,100.0,816,False
+MSME-00085-P1,MSME-00085,Priya Rani Patel,1967-03-31,Managing Partner,female,DPPPP7895Q,72.3,810,False
+MSME-00085-P2,MSME-00085,Dinesh Gopal Shaikh,1960-07-22,Partner,male,PYMPS1391E,27.7,840,False
+MSME-00086-P1,MSME-00086,Karthik Shaikh,1994-01-11,Proprietor,male,SLDPS4862X,100.0,791,False
+MSME-00087-P1,MSME-00087,Gurpreet Ram Saxena,1969-04-30,Managing Partner,male,LIOPS0434F,72.9,796,False
+MSME-00087-P2,MSME-00087,Imran Kaur Iyer,1974-08-18,Partner,male,KYDPI0740D,27.1,800,False
+MSME-00088-P1,MSME-00088,Ramesh Kishore Gill,1988-03-27,Managing Director,male,XQHPG5312K,33.6,789,False
+MSME-00088-P2,MSME-00088,Amit Rani Patel,2000-02-04,Director,male,HCUPP1422B,33.4,825,False
+MSME-00088-P3,MSME-00088,Sanjay Prasad Saxena,1998-03-01,Director,male,UJIPS2159L,33.0,,True
+MSME-00089-P1,MSME-00089,Gurpreet Das,1963-05-22,Managing Director,male,SNGPD7232K,26.1,794,False
+MSME-00089-P2,MSME-00089,Rahul Ali Saxena,1984-06-01,Director,male,TAPPS2430E,25.1,808,False
+MSME-00089-P3,MSME-00089,Naveen Naidu,1968-02-01,Director,male,CWWPN8347K,48.7,791,False
+MSME-00090-P1,MSME-00090,Mohammed Kumar Khan,1975-02-06,Managing Director,male,LBDPK7057S,28.8,649,False
+MSME-00090-P2,MSME-00090,Deepa Mohan Sharma,1992-03-31,Director,female,BXFPS8283H,33.4,568,False
+MSME-00090-P3,MSME-00090,Neha Kaur Bhat,1982-05-29,Director,female,KKJPB7803M,37.8,657,False
+MSME-00091-P1,MSME-00091,Amit Ram Pillai,1975-08-05,Managing Director,male,XWWPP3509N,19.7,786,False
+MSME-00091-P2,MSME-00091,Venkatesh Prasad Nair,1979-01-01,Director,male,JNUPN6335U,54.9,725,False
+MSME-00091-P3,MSME-00091,Rajesh Gopal Shaikh,1984-05-24,Director,male,WFWPS7647W,25.4,755,False
+MSME-00092-P1,MSME-00092,Harish Nath Patel,1967-12-27,Managing Partner,male,XHFPP1551V,20.6,748,False
+MSME-00092-P2,MSME-00092,Sunita Rao,1980-07-24,Partner,female,TKPPR9666U,46.3,763,False
+MSME-00092-P3,MSME-00092,Sameer Sharma,1997-03-20,Partner,male,MDSPS9192B,33.2,781,False
+MSME-00093-P1,MSME-00093,Prakash Nath Menon,1973-02-10,Proprietor,male,VZMPM6556N,100.0,700,False
+MSME-00094-P1,MSME-00094,Harish Nair,1988-02-27,Managing Director,male,EPVPN8849S,44.8,750,False
+MSME-00094-P2,MSME-00094,Gulshan Kaur Chauhan,1990-10-30,Director,female,NIYPC2502U,55.2,788,False
+MSME-00095-P1,MSME-00095,Mohammed Nair,1967-07-15,Managing Partner,male,QCZPN3538K,30.1,767,False
+MSME-00095-P2,MSME-00095,Venkatesh Jyoti Sharma,1983-08-22,Partner,male,XADPS9575Z,44.1,725,False
+MSME-00095-P3,MSME-00095,Rajesh Ali Singh,1974-07-26,Partner,male,VITPS2380M,25.7,772,False
+MSME-00096-P1,MSME-00096,Asha Joshi,1988-10-01,Managing Director,female,HKZPJ7875H,51.5,674,False
+MSME-00096-P2,MSME-00096,Naveen Kishore Chauhan,1990-08-26,Director,male,IMCPC9171J,48.5,,True
+MSME-00097-P1,MSME-00097,Anil Gupta,1961-10-23,Proprietor,male,AMBPG5606Z,100.0,861,False
+MSME-00098-P1,MSME-00098,Prakash Banerjee,1992-10-25,Managing Partner,male,YPPPB6722D,48.6,618,False
+MSME-00098-P2,MSME-00098,Joseph Nair,1961-11-03,Partner,male,WVGPN9684P,51.4,614,False
+MSME-00099-P1,MSME-00099,Sanjay Singh Pillai,1976-01-07,Managing Director,male,UKWPP8022S,31.7,690,False
+MSME-00099-P2,MSME-00099,Prakash Singh Thomas,1986-02-13,Director,male,PGXPT6287R,32.6,,True
+MSME-00099-P3,MSME-00099,Sanjay Narayan Nair,1979-03-02,Director,male,VUIPN6580G,35.7,710,False
+MSME-00100-P1,MSME-00100,Mohammed Nair,1978-07-07,Managing Partner,male,YRXPN8105O,49.6,681,False
+MSME-00100-P2,MSME-00100,Joseph Gill,1988-07-26,Partner,male,ULCPG5611D,50.4,648,False
+MSME-00101-P1,MSME-00101,Venkatesh Thomas,1977-02-10,Proprietor,male,GNPPT5692Z,100.0,628,False
+MSME-00102-P1,MSME-00102,Vikram Jyoti Shaikh,1986-08-01,Managing Director,male,UEGPS2620Y,34.0,697,False
+MSME-00102-P2,MSME-00102,Amit Gill,1959-04-11,Director,male,LCLPG9053Q,41.5,725,False
+MSME-00102-P3,MSME-00102,Shabana Kaur Pandey,1984-11-04,Director,female,GTCPP1623Z,24.5,705,False
+MSME-00103-P1,MSME-00103,Prakash Shaikh,1966-09-16,Proprietor,male,GGBPS0670R,100.0,781,False
+MSME-00104-P1,MSME-00104,Sanjay Saxena,2001-05-13,Managing Partner,male,PVBPS8365D,49.4,758,False
+MSME-00104-P2,MSME-00104,Vikram Gopal Jain,1995-11-24,Partner,male,LUMPJ0806D,50.6,735,False
+MSME-00105-P1,MSME-00105,Anil Mukherjee,1984-03-18,Managing Partner,male,UCJPM2779S,30.6,796,False
+MSME-00105-P2,MSME-00105,Deepa Chandra Desai,1989-03-18,Partner,female,LTXPD6240T,69.4,781,False
+MSME-00106-P1,MSME-00106,Vikram Mehta,1976-06-15,Proprietor,male,NBKPM3397G,100.0,718,False
+MSME-00107-P1,MSME-00107,Revathi Ali Saxena,1970-12-22,Managing Partner,female,PGEPS4218L,22.4,745,False
+MSME-00107-P2,MSME-00107,Karthik Narayan Khan,1978-06-26,Partner,male,ILNPK4050K,45.8,773,False
+MSME-00107-P3,MSME-00107,Lakshmi Ram Gupta,1970-03-20,Partner,female,UFTPG9325N,31.8,733,False
+MSME-00108-P1,MSME-00108,Rajesh Narayan Saxena,1969-06-18,Managing Partner,male,FTWPS1602C,38.1,715,False
+MSME-00108-P2,MSME-00108,Lakshmi Narayan Khan,1976-10-19,Partner,female,KVSPK9631H,36.9,667,False
+MSME-00108-P3,MSME-00108,Karthik Iyer,1982-11-15,Partner,male,TVMPI8202C,25.0,679,False
+MSME-00109-P1,MSME-00109,Vikram Nair,2001-01-28,Managing Partner,male,SKDPN3882Z,25.5,852,False
+MSME-00109-P2,MSME-00109,Suresh Kishore Mukherjee,1999-11-20,Partner,male,QDVPM1065G,22.1,744,False
+MSME-00109-P3,MSME-00109,Ishita Nath Mukherjee,1992-10-02,Partner,female,XUFPM6529K,52.4,768,False
+MSME-00110-P1,MSME-00110,Prakash Das,2000-12-18,Managing Partner,male,OOMPD5838I,59.7,774,False
+MSME-00110-P2,MSME-00110,Imran Narayan Naidu,1963-08-15,Partner,male,OVUPN7483Y,40.3,771,False
+MSME-00111-P1,MSME-00111,Arjun Jyoti Venkataraman,1985-09-13,Proprietor,male,ITQPV1585I,100.0,803,False
+MSME-00112-P1,MSME-00112,Ramesh Mohan Sharma,1963-03-20,Proprietor,male,ZYBPS6770O,100.0,735,False
+MSME-00113-P1,MSME-00113,Ramesh Shankar Banerjee,1991-03-11,Proprietor,male,EGCPB4252C,100.0,644,False
+MSME-00114-P1,MSME-00114,Rahul Mehta,1996-03-02,Managing Director,male,VDYPM1825Z,31.6,661,False
+MSME-00114-P2,MSME-00114,Anil Jyoti Banerjee,1966-02-06,Director,male,LRSPB7399F,68.4,688,False
+MSME-00115-P1,MSME-00115,Revathi Chauhan,1978-11-22,Managing Partner,female,JBEPC6250B,41.3,699,False
+MSME-00115-P2,MSME-00115,Karthik Patel,1970-01-15,Partner,male,JKDPP1999G,33.4,632,False
+MSME-00115-P3,MSME-00115,Vikram Bhat,1993-08-29,Partner,male,UPXPB7412U,25.2,760,False
+MSME-00116-P1,MSME-00116,Sanjay Singh Menon,1980-07-17,Proprietor,male,SJKPM7389I,100.0,779,False
+MSME-00117-P1,MSME-00117,Mohammed Kumar Desai,1996-07-23,Proprietor,male,EFUPD8170K,100.0,,True
+MSME-00118-P1,MSME-00118,Samir Kishore Pandey,1960-12-31,Managing Partner,female,OBCPP0778T,42.2,,True
+MSME-00118-P2,MSME-00118,Imran Rani Joshi,1995-01-27,Partner,male,TFDPJ2469K,57.8,676,False
+MSME-00119-P1,MSME-00119,Dinesh Chandra Desai,1965-08-03,Proprietor,male,MZZPD7150J,100.0,664,False
+MSME-00120-P1,MSME-00120,Priya Shaikh,1965-08-31,Managing Director,female,PNPPS5924U,21.7,,True
+MSME-00120-P2,MSME-00120,Anil Kumar Bhat,1993-03-26,Director,male,FOTPB2326D,36.7,708,False
+MSME-00120-P3,MSME-00120,Arjun Kumar Menon,1973-07-10,Director,male,WDLPM8632Q,41.6,732,False
+MSME-00121-P1,MSME-00121,Ishita Jyoti Bhat,1989-12-04,Managing Partner,female,RAZPB3797I,37.2,680,False
+MSME-00121-P2,MSME-00121,Naveen Singh,1983-05-09,Partner,male,NCJPS8744B,62.8,746,False
+MSME-00122-P1,MSME-00122,Meena Ram Chauhan,1981-04-24,Managing Director,male,CKIPC6733P,66.8,697,False
+MSME-00122-P2,MSME-00122,Gurpreet Shankar Rao,1987-01-19,Director,male,ZGCPR9914W,33.2,710,False
+MSME-00123-P1,MSME-00123,Karthik Mehta,1969-03-08,Managing Director,male,UBKPM9817E,59.6,874,False
+MSME-00123-P2,MSME-00123,Sanjay Fernandes,1969-05-29,Director,male,VICPF9892D,40.4,,True
+MSME-00124-P1,MSME-00124,Nandini Pandey,1994-08-17,Managing Director,female,MLCPP5303U,57.8,742,False
+MSME-00124-P2,MSME-00124,Prakash Prasad Das,1971-01-21,Director,male,JIRPD7004W,42.2,686,False
+MSME-00125-P1,MSME-00125,Priya Chandra Saxena,1989-08-07,Managing Director,female,JSVPS9435Z,45.2,770,False
+MSME-00125-P2,MSME-00125,Arjun Jyoti Saxena,1982-06-06,Director,male,YINPS0816J,54.8,727,False
+MSME-00126-P1,MSME-00126,Priya Singh Mukherjee,1993-08-24,Managing Director,female,QSPPM6895V,36.1,790,False
+MSME-00126-P2,MSME-00126,Venkatesh Devi Sharma,1977-01-22,Director,male,SSYPS3360W,63.9,,True
+MSME-00127-P1,MSME-00127,Naveen Desai,1963-05-06,Proprietor,male,AFNPD2587M,100.0,,True
+MSME-00128-P1,MSME-00128,Karthik Devi Nair,1983-04-12,Managing Director,male,ECWPN8111I,44.5,659,False
+MSME-00128-P2,MSME-00128,Dinesh Lal Gill,1971-07-28,Director,male,WFTPG8227Z,55.5,701,False
+MSME-00129-P1,MSME-00129,Shabana Saxena,1983-07-19,Proprietor,female,BMXPS1592Q,100.0,831,False
+MSME-00130-P1,MSME-00130,Karthik Ali Fernandes,1967-10-07,Managing Director,male,JAUPF4092Q,37.5,684,False
+MSME-00130-P2,MSME-00130,Mary Bhat,1971-04-09,Director,female,RAUPB9274V,22.1,721,False
+MSME-00130-P3,MSME-00130,Meena Khan,1969-04-03,Director,female,RAKPK7831Z,40.4,708,False
+MSME-00131-P1,MSME-00131,Sanjay Lal Jain,1968-07-06,Managing Partner,male,TOCPJ6508H,50.8,830,False
+MSME-00131-P2,MSME-00131,Gurpreet Chauhan,1997-03-04,Partner,male,NHUPC3882U,49.2,839,False
+MSME-00132-P1,MSME-00132,Ramesh Devi Mukherjee,1962-11-13,Managing Partner,male,HTGPM1835E,42.6,700,False
+MSME-00132-P2,MSME-00132,Ramesh Jyoti Joshi,1960-12-25,Partner,male,ONCPJ7644O,40.6,727,False
+MSME-00132-P3,MSME-00132,Imran Gill,1968-02-26,Partner,male,GZJPG1827N,16.7,744,False
+MSME-00133-P1,MSME-00133,Gurpreet Kant Pandey,1980-07-07,Managing Partner,male,ECUPP5658E,51.0,731,False
+MSME-00133-P2,MSME-00133,Mohammed Singh Shaikh,1963-05-26,Partner,male,HOCPS5314L,31.4,754,False
+MSME-00133-P3,MSME-00133,Arjun Gopal Singh,1977-05-24,Partner,male,PNWPS6990Q,17.6,738,False
+MSME-00134-P1,MSME-00134,Revathi Shaikh,1979-02-09,Proprietor,female,JTLPS6079O,100.0,690,False
+MSME-00135-P1,MSME-00135,Arjun Mukherjee,1967-12-15,Managing Director,male,TKQPM9116F,65.6,708,False
+MSME-00135-P2,MSME-00135,Anil Bai Bhat,1992-07-09,Director,male,RNZPB3782A,34.4,708,False
+MSME-00136-P1,MSME-00136,Harpreet Devi Gill,1972-02-05,Managing Partner,female,OUUPG0438P,36.4,738,False
+MSME-00136-P2,MSME-00136,Vikram Banerjee,1960-01-31,Partner,male,FGEPB8044N,63.6,775,False
+MSME-00137-P1,MSME-00137,Swati Venkataraman,1987-12-13,Managing Partner,female,GMKPV8838G,58.0,711,False
+MSME-00137-P2,MSME-00137,Joseph Kumar Venkataraman,1960-06-20,Partner,male,MWRPV6384X,42.0,710,False
+MSME-00138-P1,MSME-00138,Shabana Narayan Shaikh,1974-10-23,Managing Director,female,ZGZPS7989B,29.3,666,False
+MSME-00138-P2,MSME-00138,Anil Das,1987-11-28,Director,male,SABPD2943C,44.5,711,False
+MSME-00138-P3,MSME-00138,Neha Raj Thomas,1963-05-09,Director,female,JKIPT4896X,26.3,,True
+MSME-00139-P1,MSME-00139,Suresh Chandra Kulkarni,1986-10-11,Managing Director,male,CHLPK5409N,44.8,768,False
+MSME-00139-P2,MSME-00139,Prakash Reddy,1979-01-30,Director,male,DWMPR3173B,22.5,730,False
+MSME-00139-P3,MSME-00139,Sanjay Ram Nair,1966-01-12,Director,male,EVDPN2074H,32.7,785,False
+MSME-00140-P1,MSME-00140,Mohammed Nath Singh,1963-06-11,Managing Partner,male,PQRPS3512N,28.6,737,False
+MSME-00140-P2,MSME-00140,Rajesh Bai Kulkarni,1976-09-04,Partner,male,AJNPK5678K,71.4,,True
+MSME-00141-P1,MSME-00141,Sameer Mohan Iyer,1998-03-29,Proprietor,male,JFIPI7287Y,100.0,745,False
+MSME-00142-P1,MSME-00142,Venkatesh Chandra Menon,1998-08-22,Proprietor,male,QWJPM0611B,100.0,797,False
+MSME-00143-P1,MSME-00143,Harpreet Shankar Agarwal,1991-07-02,Managing Director,female,JPPPA2279T,50.3,740,False
+MSME-00143-P2,MSME-00143,Pooja Gopal Reddy,1970-09-25,Director,female,KEWPR0203Q,49.7,756,False
+MSME-00144-P1,MSME-00144,Fatima Mohan Mukherjee,1974-08-06,Proprietor,female,ZRXPM7933D,100.0,817,False
+MSME-00145-P1,MSME-00145,Mohammed Iyer,1988-10-14,Managing Partner,male,GUUPI4846M,39.8,895,False
+MSME-00145-P2,MSME-00145,Ramesh Reddy,1998-03-12,Partner,male,BLAPR8160U,60.2,879,False
+MSME-00146-P1,MSME-00146,Imran Pillai,1962-02-02,Managing Director,male,WXIPP3146F,57.7,771,False
+MSME-00146-P2,MSME-00146,Mohammed Lal Agarwal,1982-05-12,Director,male,FVIPA6165T,42.3,765,False
+MSME-00147-P1,MSME-00147,Asha Kulkarni,1998-12-31,Managing Director,female,UMIPK1704C,19.4,721,False
+MSME-00147-P2,MSME-00147,Rajesh Singh,1977-07-17,Director,male,RBTPS6707C,58.3,693,False
+MSME-00147-P3,MSME-00147,Vikram Nath Bhat,1984-02-05,Director,male,IBWPB1753Q,22.4,790,False
+MSME-00148-P1,MSME-00148,Gurpreet Ali Menon,1994-05-29,Managing Director,male,QAFPM7315R,39.9,744,False
+MSME-00148-P2,MSME-00148,Sameer Shaikh,2001-06-12,Director,male,NZFPS5030E,60.1,750,False
+MSME-00149-P1,MSME-00149,Dinesh Kant Reddy,1974-02-13,Managing Partner,male,WTDPR1320P,36.9,769,False
+MSME-00149-P2,MSME-00149,Suresh Venkataraman,1962-08-07,Partner,male,LLBPV9548S,39.1,776,False
+MSME-00149-P3,MSME-00149,Mohammed Devi Pillai,1981-11-14,Partner,male,BFMPP0037O,24.0,739,False
+MSME-00150-P1,MSME-00150,Mohammed Gopal Rao,1969-09-27,Managing Director,male,ZJEPR7489M,49.2,819,False
+MSME-00150-P2,MSME-00150,Sameer Narayan Jain,1980-12-30,Director,male,NKGPJ4412Y,50.8,757,False
+MSME-00151-P1,MSME-00151,Anil Naidu,1984-07-25,Managing Director,male,QDGPN9554C,26.7,828,False
+MSME-00151-P2,MSME-00151,Suresh Mohan Iyer,1968-04-04,Director,male,NMUPI9692P,37.9,,True
+MSME-00151-P3,MSME-00151,Joseph Ali Fernandes,1973-08-31,Director,male,RQIPF9283P,35.3,780,False
+MSME-00152-P1,MSME-00152,Nandini Rani Pandey,1970-04-25,Managing Director,female,QZOPP3598J,52.1,789,False
+MSME-00152-P2,MSME-00152,Priya Pillai,1983-11-19,Director,female,MINPP6128O,47.9,840,False
+MSME-00153-P1,MSME-00153,Suresh Naidu,1958-12-09,Managing Partner,male,PTIPN1382X,45.0,722,False
+MSME-00153-P2,MSME-00153,Asha Pillai,1974-03-15,Partner,female,XQTPP9356O,55.0,763,False
+MSME-00154-P1,MSME-00154,Joseph Venkataraman,1975-11-20,Managing Director,male,NVCPV9059R,61.6,768,False
+MSME-00154-P2,MSME-00154,Karthik Saxena,1984-05-06,Director,male,FLOPS9344S,38.4,657,False
+MSME-00155-P1,MSME-00155,Venkatesh Kulkarni,1994-10-06,Proprietor,male,YHHPK4701A,100.0,745,False
+MSME-00156-P1,MSME-00156,Prakash Gill,1983-03-20,Proprietor,male,IXEPG9690L,100.0,741,False
+MSME-00157-P1,MSME-00157,Mohammed Jain,1973-03-01,Proprietor,male,XAPPJ7780B,100.0,714,False
+MSME-00158-P1,MSME-00158,Priya Gopal Naidu,1973-02-16,Proprietor,female,WKUPN2146Y,100.0,,True
+MSME-00159-P1,MSME-00159,Shabana Ram Singh,1988-09-09,Managing Partner,female,ZRKPS4874X,40.9,716,False
+MSME-00159-P2,MSME-00159,Amit Gopal Pandey,1991-06-27,Partner,male,VAIPP9412E,22.6,739,False
+MSME-00159-P3,MSME-00159,Rahul Kumar Rao,1967-11-14,Partner,male,ZJIPR8695T,36.5,,True
+MSME-00160-P1,MSME-00160,Rajesh Kumar Naidu,1960-10-18,Proprietor,male,HGHPN3958C,100.0,798,False
+MSME-00161-P1,MSME-00161,Kavita Jyoti Agarwal,1981-02-08,Proprietor,female,ELZPA1776J,100.0,863,False
+MSME-00162-P1,MSME-00162,Prakash Pandey,1969-03-12,Managing Partner,male,CFTPP4426W,34.6,682,False
+MSME-00162-P2,MSME-00162,Radhika Menon,1988-04-20,Partner,female,ATLPM3960V,42.0,685,False
+MSME-00162-P3,MSME-00162,Prakash Bai Fernandes,1969-01-02,Partner,male,WKDPF8012N,23.3,712,False
+MSME-00163-P1,MSME-00163,Imran Nath Khan,1976-09-16,Managing Partner,male,SZTPK2516C,48.5,655,False
+MSME-00163-P2,MSME-00163,Dinesh Rani Thomas,1971-03-31,Partner,male,ZLFPT1090K,24.8,672,False
+MSME-00163-P3,MSME-00163,Suresh Rani Saxena,1959-09-01,Partner,male,GDPPS1598U,26.7,672,False
+MSME-00164-P1,MSME-00164,Pooj Singh,1979-11-05,Managing Director,female,OAXPS2645R,27.7,744,False
+MSME-00164-P2,MSME-00164,Meena Gupta,1961-09-13,Director,female,PGXPG7288Y,47.2,787,False
+MSME-00164-P3,MSME-00164,Neha Gopal Khan,1962-08-01,Director,female,AATPK4861A,25.1,801,False
+MSME-00165-P1,MSME-00165,Ishita Patel,1960-11-13,Managing Partner,female,GBWPP7938U,36.5,683,False
+MSME-00165-P2,MSME-00165,Anil Narayan Das,1966-10-22,Partner,male,BMIPD5007W,36.6,650,False
+MSME-00165-P3,MSME-00165,Deepa Gopal Jain,1968-08-03,Partner,female,DGXPJ4089W,26.9,667,False
+MSME-00166-P1,MSME-00166,Karthik Narayan Banerjee,1985-08-04,Managing Partner,male,QQIPB0339Y,28.8,752,False
+MSME-00166-P2,MSME-00166,Vikram Ram Shaikh,1991-08-28,Partner,male,JKIPS9780M,71.2,821,False
+MSME-00167-P1,MSME-00167,Naveen Kant Iyer,1970-02-22,Managing Partner,male,QTTPI3562T,54.1,738,False
+MSME-00167-P2,MSME-00167,Kavita Bhat,1988-10-02,Partner,female,LJNPB1964N,45.9,758,False
+MSME-00168-P1,MSME-00168,Ramesh Gopal Menon,1982-09-16,Proprietor,male,EYSPM3287O,100.0,724,False
+MSME-00169-P1,MSME-00169,Naveen Kant Saxena,1959-11-02,Managing Partner,male,UQNPS1889J,36.7,829,False
+MSME-00169-P2,MSME-00169,Mohammed Narayan Shaikh,1972-01-23,Partner,male,MNNPS0803P,43.6,,True
+MSME-00169-P3,MSME-00169,Radhika Agarwal,1981-05-13,Partner,female,VFMPA4777N,19.7,844,False
+MSME-00170-P1,MSME-00170,Naveen Ali Kulkarni,1961-04-21,Managing Director,male,BAXPK1832R,49.2,746,False
+MSME-00170-P2,MSME-00170,Vikram Patel,1960-11-15,Director,male,UPCPP1957A,50.8,723,False
+MSME-00171-P1,MSME-00171,Sanjay Mehta,1988-04-27,Managing Director,male,OVPPM8506J,60.4,720,False
+MSME-00171-P2,MSME-00171,Sunita Ali Pillai,1992-05-12,Director,female,BRWPP0033N,39.6,703,False
+MSME-00172-P1,MSME-00172,Anjali Kumar Khan,1975-10-25,Managing Partner,female,EFEPK2021B,35.6,878,False
+MSME-00172-P2,MSME-00172,Prakash Devi Singh,2000-08-09,Partner,male,RLWPS7481R,37.8,883,False
+MSME-00172-P3,MSME-00172,Fatima Singh,2001-03-14,Partner,female,GPLPS5337W,26.6,827,False
+MSME-00173-P1,MSME-00173,Navin Singh,1990-11-05,Proprietor,female,FDMPS5234X,100.0,761,False
+MSME-00174-P1,MSME-00174,Harish Kulkarni,1985-04-13,Proprietor,male,FAGPK1135D,100.0,714,False
+MSME-00175-P1,MSME-00175,Gulshan Kishore Reddy,1997-02-13,Managing Director,female,BKIPR4813A,50.9,656,False
+MSME-00175-P2,MSME-00175,Lakshmi Banerjee,1981-04-20,Director,female,XYCPB2531A,49.1,685,False
+MSME-00176-P1,MSME-00176,Vikram Prasad Sharma,1986-08-25,Managing Director,male,SKJPS3879C,25.9,738,False
+MSME-00176-P2,MSME-00176,Meena Kishore Reddy,1997-05-29,Director,female,DNPPR2541V,50.1,,True
+MSME-00176-P3,MSME-00176,Gulshan Singh Bhat,1971-09-23,Director,female,GUHPB1703J,24.0,685,False
+MSME-00177-P1,MSME-00177,Mohammed Pillai,1982-04-05,Managing Partner,male,TJHPP2317L,25.7,777,False
+MSME-00177-P2,MSME-00177,Revathi Devi Jain,1976-05-17,Partner,female,TOBPJ4960Y,32.8,653,False
+MSME-00177-P3,MSME-00177,Nandini Singh Reddy,1962-11-12,Partner,female,RMYPR6543O,41.4,716,False
+MSME-00178-P1,MSME-00178,Naveen Prasad Naidu,1987-12-30,Proprietor,male,QMUPN1705F,100.0,796,False
+MSME-00179-P1,MSME-00179,Sanjay Lal Naidu,1960-05-24,Managing Partner,male,BFCPN8008P,45.0,900,False
+MSME-00179-P2,MSME-00179,Vikram Lal Naidu,1980-02-14,Partner,male,ADJPN2423G,29.3,802,False
+MSME-00179-P3,MSME-00179,Suresh Raj Naidu,2000-09-03,Partner,male,UTLPN7223B,25.8,856,False
+MSME-00180-P1,MSME-00180,Meena Joshi,1969-08-18,Managing Partner,female,WORPJ9087L,28.8,793,False
+MSME-00180-P2,MSME-00180,Gulshan Menon,1960-11-25,Partner,female,TEKPM0610Y,28.9,847,False
+MSME-00180-P3,MSME-00180,Harpreet Joshi,1981-02-09,Partner,female,IJDPJ5556B,42.3,800,False
+MSME-00181-P1,MSME-00181,Harish Agarwal,1982-06-14,Managing Director,male,HNYPA3666Z,29.2,727,False
+MSME-00181-P2,MSME-00181,Prakash Kaur Agarwal,1995-09-26,Director,male,XWJPA2985S,40.7,,True
+MSME-00181-P3,MSME-00181,Anil Kaur Thomas,1998-10-01,Director,male,XYYPT3081X,30.1,741,False
+MSME-00182-P1,MSME-00182,Meena Ali Fernandes,2001-09-21,Managing Partner,female,PMNPF6161I,55.3,712,False
+MSME-00182-P2,MSME-00182,Nandini Kaur Agarwal,1990-05-26,Partner,female,ASDPA5530H,44.7,642,False
+MSME-00183-P1,MSME-00183,Neha Kant Patel,1963-10-01,Managing Partner,female,QXQPP6869R,43.4,756,False
+MSME-00183-P2,MSME-00183,Anjali Thomas,1970-09-13,Partner,female,IZQPT5554Q,20.3,753,False
+MSME-00183-P3,MSME-00183,Naveen Prasad Agarwal,1998-01-05,Partner,male,LUIPA3226X,36.3,805,False
+MSME-00184-P1,MSME-00184,Sameer Mukherjee,1998-10-25,Managing Partner,male,XSMPM9517P,52.6,753,False
+MSME-00184-P2,MSME-00184,Harish Narayan Menon,1990-11-21,Partner,male,ROMPM5357U,47.4,825,False
+MSME-00185-P1,MSME-00185,Sameer Bhat,1983-07-02,Managing Director,male,KTIPB9715A,28.5,683,False
+MSME-00185-P2,MSME-00185,Shabana Lal Mehta,1970-05-19,Director,female,OHBPM6681O,71.5,756,False
+MSME-00186-P1,MSME-00186,Joseph Rani Patel,1988-11-06,Managing Director,male,PMIPP7667N,42.7,705,False
+MSME-00186-P2,MSME-00186,Joseph Shaikh,1986-04-29,Director,male,IIWPS3650M,57.3,732,False
+MSME-00187-P1,MSME-00187,Vikram Kishore Iyer,1973-10-15,Managing Director,male,UWUPI3473B,49.6,737,False
+MSME-00187-P2,MSME-00187,Venkatesh Gupta,1993-02-02,Director,male,YOKPG2788J,50.4,808,False
+MSME-00188-P1,MSME-00188,Suresh Singh Menon,1958-12-12,Managing Partner,male,UDVPM1489R,45.3,853,False
+MSME-00188-P2,MSME-00188,Pooja Mukherjee,1985-01-05,Partner,female,EYSPM5628A,25.0,,True
+MSME-00188-P3,MSME-00188,Vikram Bai Mehta,1965-02-21,Partner,male,EMWPM4054X,29.7,797,False
+MSME-00189-P1,MSME-00189,Joseph Naidu,1992-09-14,Managing Director,male,OCOPN1836G,35.6,843,False
+MSME-00189-P2,MSME-00189,Revathi Bai Jain,1971-03-02,Director,female,KVWPJ6241O,33.8,857,False
+MSME-00189-P3,MSME-00189,Suresh Nath Shaikh,1970-03-23,Director,male,OTCPS0084R,30.6,879,False
+MSME-00190-P1,MSME-00190,Fatima Chandra Singh,1989-02-25,Managing Director,female,ZVHPS3726B,41.3,752,False
+MSME-00190-P2,MSME-00190,Gurpreet Jyoti Khan,1997-10-01,Director,male,MQAPK9833E,58.7,704,False
+MSME-00191-P1,MSME-00191,Priya Thomas,1993-11-28,Managing Director,female,QHPPT0709S,33.8,701,False
+MSME-00191-P2,MSME-00191,Sanjay Mehta,1990-01-22,Director,male,WQGPM1968P,22.6,749,False
+MSME-00191-P3,MSME-00191,Anil Ram Menon,1990-12-29,Director,male,QZJPM7753L,43.6,702,False
+MSME-00192-P1,MSME-00192,Ramesh Banerjee,1972-11-23,Managing Partner,male,PVZPB7073U,69.7,730,False
+MSME-00192-P2,MSME-00192,Vikram Nair,1995-08-16,Partner,male,PHVPN8024F,30.3,712,False
+MSME-00193-P1,MSME-00193,Vikram Kaur Naidu,1986-12-08,Managing Director,male,GQOPN5145Z,51.1,767,False
+MSME-00193-P2,MSME-00193,Harish Khan,1985-02-03,Director,male,IQMPK4173B,48.9,833,False
+MSME-00194-P1,MSME-00194,Venkatesh Jyoti Iyer,1996-06-04,Managing Partner,male,GTDPI9600H,50.4,828,False
+MSME-00194-P2,MSME-00194,Anil Kulkarni,1976-02-24,Partner,male,VFUPK8493D,32.2,778,False
+MSME-00194-P3,MSME-00194,Suresh Kishore Das,1968-10-18,Partner,male,OMVPD7486H,17.4,747,False
+MSME-00195-P1,MSME-00195,Arjun Banerjee,1983-05-15,Managing Partner,male,GAQPB1669Q,56.3,896,False
+MSME-00195-P2,MSME-00195,Sameer Jain,1976-11-08,Partner,male,RYNPJ7592S,43.7,893,False
+MSME-00196-P1,MSME-00196,Karthik Narayan Mukherjee,1971-02-22,Managing Partner,male,TTGPM5101H,33.4,645,False
+MSME-00196-P2,MSME-00196,Arjun Kumar Desai,1964-06-26,Partner,male,XDWPD6837D,66.6,668,False
+MSME-00197-P1,MSME-00197,Suresh Thomas,1977-07-04,Managing Director,male,CGGPT5747H,24.2,759,False
+MSME-00197-P2,MSME-00197,Venkatesh Narayan Venkataraman,1971-03-04,Director,male,OPNPV3907F,42.9,727,False
+MSME-00197-P3,MSME-00197,Vikram Pandey,1965-08-21,Director,male,JTOPP9568P,32.9,704,False
+MSME-00198-P1,MSME-00198,Karthik Kulkarni,1983-11-26,Managing Partner,male,IIOPK8190W,45.1,756,False
+MSME-00198-P2,MSME-00198,Dinesh Mukherjee,1992-08-21,Partner,male,EHOPM0647W,34.2,760,False
+MSME-00198-P3,MSME-00198,Prakash Kishore Kulkarni,1965-03-03,Partner,male,SFMPK0490Z,20.8,781,False
+MSME-00199-P1,MSME-00199,Deepa Rani Bhat,2000-02-03,Managing Director,female,JZOPB6041J,36.0,612,False
+MSME-00199-P2,MSME-00199,Anil Gill,1963-02-04,Director,male,DNUPG5025Y,32.4,694,False
+MSME-00199-P3,MSME-00199,Mohammed Raj Das,1959-06-26,Director,male,UDYPD6912A,31.7,750,False
+MSME-00200-P1,MSME-00200,Amit Kulkarni,1998-07-12,Proprietor,male,KHUPK7411W,100.0,719,False
+MSME-00201-P1,MSME-00201,Naveen Naidu,1979-06-15,Managing Director,male,BLRPN7272N,57.7,714,False
+MSME-00201-P2,MSME-00201,Neha Rani Thomas,1994-06-04,Director,female,WDVPT5472L,42.3,700,False
+MSME-00202-P1,MSME-00202,Rajesh Bai Banerji,1965-06-25,Managing Director,male,RKNPB2155Y,49.5,773,False
+MSME-00202-P2,MSME-00202,Dinesh Lal Singh,1999-09-16,Director,male,FKSPS9134G,50.5,743,False
+MSME-00203-P1,MSME-00203,Ramesh Mukherjee,1984-11-04,Proprietor,male,GGTPM8603I,100.0,732,False
+MSME-00204-P1,MSME-00204,Venkatesh Saxena,1974-05-19,Managing Partner,male,NZJPS0724C,72.6,763,False
+MSME-00204-P2,MSME-00204,Rajesh Ram Desai,1998-08-08,Partner,male,UNHPD7371W,27.4,776,False
+MSME-00205-P1,MSME-00205,Rahul Desai,1960-11-03,Managing Partner,male,HLKPD2562X,30.3,734,False
+MSME-00205-P2,MSME-00205,Venkatesh Mohan Agarwal,1961-03-27,Partner,male,XSWPA5720I,33.2,806,False
+MSME-00205-P3,MSME-00205,Fatima Singh Thomas,1974-12-24,Partner,female,VNVPT8103N,36.5,789,False
+MSME-00206-P1,MSME-00206,Revathi Raj Jain,1973-05-11,Proprietor,female,VIFPJ3793S,100.0,680,False
+MSME-00207-P1,MSME-00207,Vikram Singh Singh,1971-06-18,Managing Partner,male,OWMPS4694K,56.3,,True
+MSME-00207-P2,MSME-00207,Anil Desai,1965-01-04,Partner,male,FLDPD4527L,43.7,677,False
+MSME-00208-P1,MSME-00208,Deepa Prasad Pandey,1986-07-24,Managing Director,female,NVZPP8158W,58.2,648,False
+MSME-00208-P2,MSME-00208,Kavita Ali Sharma,1990-09-17,Director,female,BIRPS8028V,41.8,697,False
+MSME-00209-P1,MSME-00209,Rahul Mukherjee,1975-12-29,Managing Partner,male,CYQPM0108R,20.6,,True
+MSME-00209-P2,MSME-00209,Anjali Rani Shaikh,1966-11-09,Partner,female,WMIPS4661K,24.6,702,False
+MSME-00209-P3,MSME-00209,Imran Kumar Fernandes,1972-08-31,Partner,male,ICSPF1856U,54.8,699,False
+MSME-00210-P1,MSME-00210,Shaban Devi Mehta,1979-07-09,Managing Director,male,BHGPM4268A,37.2,705,False
+MSME-00210-P2,MSME-00210,Revathi Joshi,2000-10-29,Director,female,CMDPJ8021O,37.6,658,False
+MSME-00210-P3,MSME-00210,Sameer Shankar Desai,1984-06-05,Director,male,UWVPD3421H,25.2,662,False
+MSME-00211-P1,MSME-00211,Nandini Kaur Desai,1974-07-23,Proprietor,female,YVQPD7529I,100.0,732,False
+MSME-00212-P1,MSME-00212,Radhika Mohan Nair,1983-12-04,Managing Partner,female,SKPPN6351O,23.7,864,False
+MSME-00212-P2,MSME-00212,Anjali Ali Khan,2001-10-01,Partner,female,DMAPK4123L,36.5,854,False
+MSME-00212-P3,MSME-00212,Joseph Rani Naidu,1979-01-23,Partner,male,NXUPN0915C,39.8,874,False
+MSME-00213-P1,MSME-00213,Fatima Chandra Gupta,1992-09-01,Managing Director,female,MNAPG4726E,26.5,730,False
+MSME-00213-P2,MSME-00213,Venkatesh Gopal Rao,1961-06-05,Director,male,MGFPR9504I,53.5,763,False
+MSME-00213-P3,MSME-00213,Mary Reddy,1972-06-02,Director,female,TNCPR1956I,19.9,756,False
+MSME-00214-P1,MSME-00214,Imran Desai,1997-07-03,Managing Partner,male,DMMPD9625Q,39.9,664,False
+MSME-00214-P2,MSME-00214,Swati Ali Pillai,1975-10-16,Partner,female,VZZPP0956U,39.1,,True
+MSME-00214-P3,MSME-00214,Naveen Agarwal,1961-11-23,Partner,male,VSEPA2669M,21.0,720,False
+MSME-00215-P1,MSME-00215,Pooja Bhat,1982-10-25,Proprietor,female,PAPPB7212I,100.0,762,False
+MSME-00216-P1,MSME-00216,Gulshan Jyoti Pillai,2001-09-05,Managing Director,female,SLAPP1643S,27.1,845,False
+MSME-00216-P2,MSME-00216,Sameer Patel,1976-05-21,Director,male,TERPP1459V,46.3,868,False
+MSME-00216-P3,MSME-00216,Harish Das,2000-10-20,Director,male,NVKPD8948T,26.6,835,False
+MSME-00217-P1,MSME-00217,Ramesh Jain,1965-03-03,Proprietor,male,KMUPJ3269H,100.0,774,False
+MSME-00218-P1,MSME-00218,Arjun Singh Desai,1992-03-20,Managing Director,male,TEKPD0311J,47.0,671,False
+MSME-00218-P2,MSME-00218,Sunita Kishore Rao,1984-04-16,Director,female,ZBYPR5308G,53.0,566,False
+MSME-00219-P1,MSME-00219,Pooja Menon,1969-12-26,Proprietor,female,COMPM4192W,100.0,694,False
+MSME-00220-P1,MSME-00220,Dipa Saxena,1980-11-10,Proprietor,male,QOKPS5800L,100.0,800,False
+MSME-00221-P1,MSME-00221,Prakash Mehta,1988-04-24,Managing Partner,male,MDFPM9602S,27.2,859,False
+MSME-00221-P2,MSME-00221,Fatima Kishore Banerjee,1970-09-11,Partner,female,PQIPB8857X,45.7,822,False
+MSME-00221-P3,MSME-00221,Harish Nair,1997-02-05,Partner,male,SMDPN5590J,27.0,869,False
+MSME-00222-P1,MSME-00222,Rahul Mehta,1988-06-27,Managing Partner,male,BZIPM6375K,37.1,822,False
+MSME-00222-P2,MSME-00222,Joseph Das,1968-09-06,Partner,male,HFNPD6744S,22.6,848,False
+MSME-00222-P3,MSME-00222,Naveen Rani Rao,1989-06-24,Partner,male,GLBPR0656X,40.4,799,False
+MSME-00223-P1,MSME-00223,Anil Bhat,1980-09-22,Managing Director,male,OYHPB5775P,54.1,775,False
+MSME-00223-P2,MSME-00223,Sunita Kishore Sharma,1980-11-15,Director,female,SEKPS1155S,45.9,713,False
+MSME-00224-P1,MSME-00224,Suresh Kulkarni,1971-09-13,Managing Partner,male,AUPPK9200F,31.6,643,False
+MSME-00224-P2,MSME-00224,Sameer Kishore Singh,1986-03-11,Partner,male,GITPS6876E,68.4,636,False
+MSME-00225-P1,MSME-00225,Amit Patel,1963-11-04,Managing Partner,male,HTFPP4599L,52.2,788,False
+MSME-00225-P2,MSME-00225,Anil Prasad Menon,1987-11-07,Partner,male,YGHPM7700I,47.8,770,False
+MSME-00226-P1,MSME-00226,Rahul Singh Das,1998-10-20,Managing Partner,male,TAHPD4390T,42.2,760,False
+MSME-00226-P2,MSME-00226,Rajesh Shankar Joshi,1979-04-23,Partner,male,UZYPJ1259Y,57.8,763,False
+MSME-00227-P1,MSME-00227,Meena Bai Rao,1981-12-27,Managing Partner,female,QVTPR1084A,34.2,734,False
+MSME-00227-P2,MSME-00227,Imran Ali Khan,1969-03-18,Partner,male,RUCPK5452R,65.8,774,False
+MSME-00228-P1,MSME-00228,Amit Mukherjee,1978-05-22,Proprietor,male,CZIPM1983S,100.0,674,False
+MSME-00229-P1,MSME-00229,Suresh Singh,1993-07-14,Managing Director,male,YKSPS4806U,51.9,679,False
+MSME-00229-P2,MSME-00229,Naveen Ali Venkataraman,1986-08-08,Director,male,SEOPV0751T,48.1,679,False
+MSME-00230-P1,MSME-00230,Vikram Kant Iyer,1958-10-21,Managing Director,male,XUZPI1439R,28.7,738,False
+MSME-00230-P2,MSME-00230,Ramesh Pandey,2001-05-09,Director,male,MJQPP8930U,40.9,804,False
+MSME-00230-P3,MSME-00230,Ishita Singh Mukherjee,1990-01-07,Director,female,XAJPM2966B,30.3,877,False
+MSME-00231-P1,MSME-00231,Ramesh Kant Fernandes,1975-12-08,Proprietor,male,DVXPF4069H,100.0,711,False
+MSME-00232-P1,MSME-00232,Revathi Lal Desai,1973-02-24,Managing Director,female,DNPPD2737I,53.8,,True
+MSME-00232-P2,MSME-00232,Imran Naidu,1998-12-07,Director,male,LQXPN7519V,46.2,,True
+MSME-00233-P1,MSME-00233,Sanjay Rao,1960-04-07,Proprietor,male,ITYPR2902Q,100.0,754,False
+MSME-00234-P1,MSME-00234,Venkatesh Bai Joshi,1981-12-07,Managing Partner,male,WQLPJ2163A,52.6,827,False
+MSME-00234-P2,MSME-00234,Karthik Raj Bhat,1997-02-22,Partner,male,YJWPB8674J,24.7,822,False
+MSME-00234-P3,MSME-00234,Suresh Kulkarni,1984-03-04,Partner,male,QAAPK2725G,22.6,800,False
+MSME-00235-P1,MSME-00235,Anil Narayan Bhat,1980-07-31,Managing Director,male,MQPPB3172C,29.1,663,False
+MSME-00235-P2,MSME-00235,Ramesh Kant Gupta,1978-11-08,Director,male,NLUPG5697P,43.8,675,False
+MSME-00235-P3,MSME-00235,Naveen Shaikh,1977-11-12,Director,male,JMNPS8269U,27.1,716,False
+MSME-00236-P1,MSME-00236,Amit Khan,1969-10-21,Managing Partner,male,MSAPK9804Y,32.0,624,False
+MSME-00236-P2,MSME-00236,Fatima Rao,1994-08-06,Partner,female,ETFPR8372D,40.4,681,False
+MSME-00236-P3,MSME-00236,Prakash Singh Reddy,1972-01-26,Partner,male,VSGPR5690Q,27.6,653,False
+MSME-00237-P1,MSME-00237,Sunita Joshi,1962-04-02,Managing Partner,female,EGRPJ0900C,26.0,708,False
+MSME-00237-P2,MSME-00237,Anil Ram Chauhan,1962-06-17,Partner,male,XEXPC6308S,74.0,707,False
+MSME-00238-P1,MSME-00238,Sanjay Bhat,1965-01-21,Managing Partner,male,ENXPB0164B,49.4,749,False
+MSME-00238-P2,MSME-00238,Fatima Lal Fernandes,1972-06-23,Partner,female,ZQZPF4903Z,50.6,844,False
+MSME-00239-P1,MSME-00239,Mohammed Gill,1974-03-18,Managing Partner,male,BKAPG2035I,48.2,633,False
+MSME-00239-P2,MSME-00239,Harpreet Saxena,1975-12-06,Partner,female,ZWJPS4958M,51.8,663,False
+MSME-00240-P1,MSME-00240,Suresh Ram Desai,1971-07-26,Proprietor,male,HECPD0447I,100.0,671,False
+MSME-00241-P1,MSME-00241,Joseph Jyoti Joshi,2001-04-16,Proprietor,male,YHYPJ3067O,100.0,714,False
+MSME-00242-P1,MSME-00242,Anjali Nath Jain,1964-06-26,Proprietor,female,PARPJ1381I,100.0,717,False
+MSME-00243-P1,MSME-00243,Venkatesh Ram Thomas,1970-12-02,Proprietor,male,WQZPT7569K,100.0,746,False
+MSME-00244-P1,MSME-00244,Joseph Shankar Mehta,1990-01-31,Proprietor,male,QRTPM6670T,100.0,717,False
+MSME-00245-P1,MSME-00245,Dinesh Saxena,1973-02-19,Managing Director,male,KQPPS5256J,59.8,767,False
+MSME-00245-P2,MSME-00245,Sameer Agarwal,1973-08-16,Director,male,LHVPA3455I,40.2,736,False
+MSME-00246-P1,MSME-00246,Joseph Das,1969-10-10,Managing Partner,male,AMIPD7146S,36.5,,True
+MSME-00246-P2,MSME-00246,Radhika Kant Fernandes,1986-04-03,Partner,female,KAGPF5390T,31.1,710,False
+MSME-00246-P3,MSME-00246,Anil Nath Kulkarni,1981-12-23,Partner,male,MDGPK6507C,32.4,776,False
+MSME-00247-P1,MSME-00247,Gurpreet Chandra Singh,1967-06-28,Managing Partner,male,RSGPS2494B,62.3,760,False
+MSME-00247-P2,MSME-00247,Karthik Jyoti Desai,1960-05-26,Partner,male,THOPD9966L,37.7,770,False
+MSME-00248-P1,MSME-00248,Imran Ali Nair,1991-02-17,Proprietor,male,EHZPN8300U,100.0,781,False
+MSME-00249-P1,MSME-00249,Imran Lal Das,1966-09-06,Proprietor,male,BZDPD3236A,100.0,877,False
+MSME-00250-P1,MSME-00250,Gurpreet Venkataraman,1975-10-11,Managing Partner,male,STSPV7967R,34.8,728,False
+MSME-00250-P2,MSME-00250,Priya Shaikh,1991-05-02,Partner,female,UYKPS4920Y,41.0,793,False
+MSME-00250-P3,MSME-00250,Imran Gupta,1996-03-04,Partner,male,DMXPG7636C,24.2,753,False
+MSME-00251-P1,MSME-00251,Imran Kant Agarwal,1994-01-19,Proprietor,male,POEPA4074T,100.0,750,False
+MSME-00252-P1,MSME-00252,Mary Pillai,1983-01-11,Proprietor,female,TOWPP1767F,100.0,879,False
+MSME-00253-P1,MSME-00253,Karthik Ram Patel,1981-06-20,Proprietor,male,GNDPP6913H,100.0,766,False
+MSME-00254-P1,MSME-00254,Rajesh Kulkarni,1964-09-09,Proprietor,male,CJHPK4724M,100.0,,True
+MSME-00255-P1,MSME-00255,Gulshan Joshi,1974-11-26,Proprietor,female,QWOPJ7531Z,100.0,888,False
+MSME-00256-P1,MSME-00256,Lakshmi Bai Thomas,1983-09-09,Proprietor,male,FIHPT5104O,100.0,788,False
+MSME-00257-P1,MSME-00257,Joseph Jyoti Khan,1992-05-16,Proprietor,male,TRQPK3083J,100.0,689,False
+MSME-00258-P1,MSME-00258,Gulshan Chandra Shaikh,1967-01-09,Managing Director,female,OWGPS2546M,44.2,660,False
+MSME-00258-P2,MSME-00258,Gulshan Chandra Bhat,1964-08-11,Director,female,TAIPB5032Q,41.1,716,False
+MSME-00258-P3,MSME-00258,Lakshmi Kulkarni,1959-06-30,Director,female,WDDPK5581C,14.7,,True
+MSME-00259-P1,MSME-00259,Amit Iyer,1977-02-06,Proprietor,male,MIQPI8545E,100.0,,True
+MSME-00260-P1,MSME-00260,Imran Jain,1965-09-15,Proprietor,male,WFWPJ2891Z,100.0,829,False
+MSME-00261-P1,MSME-00261,Dines Bai Mehta,1992-09-03,Managing Director,male,IEFPM3521E,41.6,784,False
+MSME-00261-P2,MSME-00261,Karthik Gupta,1993-02-08,Director,male,YZKPG5137D,21.1,780,False
+MSME-00261-P3,MSME-00261,Harish Venkataraman,1985-07-17,Director,male,WUGPV5897M,37.3,806,False
+MSME-00262-P1,MSME-00262,Harpreet Kant Gill,1971-08-04,Managing Partner,female,CFJPG2400S,32.2,794,False
+MSME-00262-P2,MSME-00262,Vikram Chandra Patel,1972-07-08,Partner,male,ZWLPP0472L,41.6,814,False
+MSME-00262-P3,MSME-00262,Radhika Gopal Naidu,1965-04-14,Partner,female,CDHPN5353O,26.2,775,False
+MSME-00263-P1,MSME-00263,Anil Bai Pillai,1984-12-19,Proprietor,male,KJMPP6979L,100.0,579,False
+MSME-00264-P1,MSME-00264,Venkatesh Khan,1973-07-15,Managing Director,male,VJVPK4362H,34.2,620,False
+MSME-00264-P2,MSME-00264,Joseph Mohan Banerjee,1984-08-22,Director,male,OGDPB5143K,34.5,688,False
+MSME-00264-P3,MSME-00264,Ishita Ram Pillai,1969-04-25,Director,female,UEVPP5127L,31.2,688,False
+MSME-00265-P1,MSME-00265,Vikram Mehta,2001-08-15,Proprietor,male,NVEPM9642E,100.0,667,False
+MSME-00266-P1,MSME-00266,Anil Jyoti Fernandes,2000-07-29,Managing Director,male,LXWPF1195G,49.4,768,False
+MSME-00266-P2,MSME-00266,Prakash Jyoti Fernandes,1985-12-14,Director,male,KHUPF6357K,50.6,719,False
+MSME-00267-P1,MSME-00267,Mary Shankar Patel,1989-03-06,Managing Director,female,NMVPP4009I,36.1,733,False
+MSME-00267-P2,MSME-00267,Meena Nair,1993-02-05,Director,female,FGWPN6371B,45.7,753,False
+MSME-00267-P3,MSME-00267,Sunita Rani Rao,1973-09-25,Director,female,GFHPR9534F,18.2,751,False
+MSME-00268-P1,MSME-00268,Naveen Ram Sharma,1979-04-18,Proprietor,male,MAHPS9167O,100.0,779,False
+MSME-00269-P1,MSME-00269,Shaban Devi Mehta,2001-01-09,Proprietor,male,ETVPM5353L,100.0,824,False
+MSME-00270-P1,MSME-00270,Rajesh Sharma,1966-01-29,Managing Partner,male,AQRPS4485G,42.5,712,False
+MSME-00270-P2,MSME-00270,Radhika Naidu,1985-07-16,Partner,female,TTZPN2553U,24.7,797,False
+MSME-00270-P3,MSME-00270,Mohammed Thomas,1969-09-04,Partner,male,PCUPT6176N,32.9,750,False
+MSME-00271-P1,MSME-00271,Joseph Shankar Agarwal,1983-04-29,Proprietor,male,NAVPA7218A,100.0,730,False
+MSME-00272-P1,MSME-00272,Arjun Singh,1969-09-20,Managing Director,male,RCLPS2266O,30.0,812,False
+MSME-00272-P2,MSME-00272,Mary Narayan Venkataraman,1980-03-15,Director,female,JIPPV5126N,24.4,825,False
+MSME-00272-P3,MSME-00272,Ishita Rani Reddy,1965-02-26,Director,female,DUTPR2600T,45.6,803,False
+MSME-00273-P1,MSME-00273,Sanjay Mehta,1980-01-31,Proprietor,male,XXUPM1085K,100.0,744,False
+MSME-00274-P1,MSME-00274,Nandini Rani Menon,1997-12-04,Managing Director,female,BQXPM8222F,53.7,753,False
+MSME-00274-P2,MSME-00274,Anil Chandra Pandey,1990-07-20,Director,male,WCQPP8600W,46.3,737,False
+MSME-00275-P1,MSME-00275,Sanjay Singh Kulkarni,1988-12-22,Managing Director,male,LGYPK5916X,27.6,730,False
+MSME-00275-P2,MSME-00275,Sanjay Mukherjee,1983-03-05,Director,male,VEAPM3350N,34.4,739,False
+MSME-00275-P3,MSME-00275,Shabana Thomas,1983-12-27,Director,female,JVGPT1869K,38.0,753,False
+MSME-00276-P1,MSME-00276,Prakash Nath Shaikh,1998-04-08,Proprietor,male,KYXPS5503C,100.0,801,False
+MSME-00277-P1,MSME-00277,Harish Chandra Chauhan,1976-10-23,Managing Partner,male,DAXPC3290K,55.5,697,False
+MSME-00277-P2,MSME-00277,Priya Lal Venkataraman,1964-05-11,Partner,female,JGYPV9090C,44.5,791,False
+MSME-00278-P1,MSME-00278,Karthik Kishore Das,1997-04-30,Managing Partner,male,WZBPD0327X,25.4,830,False
+MSME-00278-P2,MSME-00278,Nandini Prasad Reddy,1985-10-22,Partner,female,SRGPR3158W,30.0,872,False
+MSME-00278-P3,MSME-00278,Gurpreet Jyoti Das,1963-02-15,Partner,male,BGRPD1993C,44.6,860,False
+MSME-00279-P1,MSME-00279,Anil Kumar Iyer,1990-03-03,Managing Director,male,LADPI2293I,34.7,641,False
+MSME-00279-P2,MSME-00279,Deepa Kant Fernandes,1992-12-30,Director,female,MPEPF5706L,22.0,768,False
+MSME-00279-P3,MSME-00279,Meena Kulkarni,1963-04-04,Director,female,XQOPK8097R,43.3,654,False
+MSME-00280-P1,MSME-00280,Sameer Rani Mukherjee,1985-05-07,Managing Director,male,GSBPM5132M,27.3,597,False
+MSME-00280-P2,MSME-00280,Anjali Agarwal,1981-03-13,Director,female,MTBPA0190N,48.6,642,False
+MSME-00280-P3,MSME-00280,Venkatesh Jain,1981-02-25,Director,male,VAGPJ8629E,24.1,646,False
+MSME-00281-P1,MSME-00281,Lakshmi Kant Nair,1962-03-23,Proprietor,female,IZGPN8779M,100.0,688,False
+MSME-00282-P1,MSME-00282,Prakash Gupta,1976-10-05,Managing Partner,male,UXDPG4311X,60.9,803,False
+MSME-00282-P2,MSME-00282,Lakshmi Mukherjee,1966-07-13,Partner,female,TVUPM6577M,39.1,797,False
+MSME-00283-P1,MSME-00283,Dinesh Ali Mukherjee,1986-07-14,Proprietor,male,XZXPM5985E,100.0,753,False
+MSME-00284-P1,MSME-00284,Priya Nair,1976-04-29,Proprietor,female,FHWPN6299J,100.0,820,False
+MSME-00285-P1,MSME-00285,Deepa Gupta,1977-04-03,Managing Partner,female,LJOPG1783D,37.7,739,False
+MSME-00285-P2,MSME-00285,Nandini Gill,1989-12-19,Partner,female,IEQPG9880C,62.3,706,False
+MSME-00286-P1,MSME-00286,Sameer Lal Chauhan,1966-04-04,Proprietor,male,ZEMPC7415A,100.0,781,False
+MSME-00287-P1,MSME-00287,Suresh Chauhan,1966-07-25,Managing Director,male,ZQYPC5766P,52.9,630,False
+MSME-00287-P2,MSME-00287,Naveen Thomas,1982-08-01,Director,male,XJTPT4537R,17.2,661,False
+MSME-00287-P3,MSME-00287,Gulshan Kulkarni,1990-09-15,Director,female,TYKPK4264H,29.9,663,False
+MSME-00288-P1,MSME-00288,Mohammed Ali Singh,1995-03-28,Managing Partner,male,BHJPS8792N,33.5,753,False
+MSME-00288-P2,MSME-00288,Rajesh Sharma,2000-07-21,Partner,male,DGTPS1909V,35.2,734,False
+MSME-00288-P3,MSME-00288,Pooja Kulkarni,1991-12-29,Partner,female,LVNPK2699Q,31.3,707,False
+MSME-00289-P1,MSME-00289,Rajesh Kaur Venkataraman,1974-03-05,Managing Director,male,KTPPV4063R,51.3,660,False
+MSME-00289-P2,MSME-00289,Fatima Bai Gill,1998-11-11,Director,female,ZUVPG5116H,48.7,662,False
+MSME-00290-P1,MSME-00290,Rajesh Bai Mukherjee,1993-03-19,Proprietor,male,NOAPM1616G,100.0,694,False
+MSME-00291-P1,MSME-00291,Revathi Naidu,1973-07-17,Proprietor,female,ZPIPN1315L,100.0,743,False
+MSME-00292-P1,MSME-00292,Rajesh Desai,1959-02-09,Proprietor,male,PDNPD7837Z,100.0,732,False
+MSME-00293-P1,MSME-00293,Gurpreet Devi Pandey,1987-08-28,Proprietor,male,EQJPP4428L,100.0,751,False
+MSME-00294-P1,MSME-00294,Karthik Jyoti Agarwal,1981-04-12,Managing Partner,male,QMBPA2876I,50.2,711,False
+MSME-00294-P2,MSME-00294,Suresh Agarwal,1981-09-24,Partner,male,SELPA5796Z,49.8,687,False
+MSME-00295-P1,MSME-00295,Ramesh Saxena,1964-11-24,Managing Partner,male,DSQPS5579O,35.7,742,False
+MSME-00295-P2,MSME-00295,Harpreet Ram Pillai,1971-10-10,Partner,female,JNCPP9991I,35.8,744,False
+MSME-00295-P3,MSME-00295,Ishita Ali Mukherjee,1985-10-05,Partner,female,XDLPM6487T,28.5,766,False
+MSME-00296-P1,MSME-00296,Venkatesh Naidu,1975-06-24,Managing Director,male,WWZPN0471W,40.9,842,False
+MSME-00296-P2,MSME-00296,Anjali Gopal Jain,1964-02-21,Director,female,TZUPJ7457Z,15.9,800,False
+MSME-00296-P3,MSME-00296,Asha Bai Naidu,1997-06-13,Director,female,DOOPN1172Y,43.2,796,False
+MSME-00297-P1,MSME-00297,Joseph Rao,1964-04-25,Managing Partner,male,DLWPR6299Y,51.5,,True
+MSME-00297-P2,MSME-00297,Vikram Kant Das,1984-12-19,Partner,male,EJBPD2003G,48.5,706,False
+MSME-00298-P1,MSME-00298,Harish Ram Saxena,1973-08-06,Managing Partner,male,DLDPS6907M,29.1,852,False
+MSME-00298-P2,MSME-00298,Suresh Jyoti Singh,1982-04-25,Partner,male,MQPPS1190V,70.9,839,False
+MSME-00299-P1,MSME-00299,Radhika Bai Das,1984-05-02,Managing Partner,female,VHWPD3219E,47.8,693,False
+MSME-00299-P2,MSME-00299,Sunita Bai Chauhan,1973-10-18,Partner,female,BZOPC6611H,52.2,721,False
+MSME-00300-P1,MSME-00300,Anil Ali Saxena,1991-05-07,Proprietor,male,DPEPS2781Y,100.0,734,False
+MSME-00301-P1,MSME-00301,Sameer Agarwal,1972-10-20,Proprietor,male,ZWOPA6672B,100.0,762,False
+MSME-00302-P1,MSME-00302,Sameer Ram Mukherjee,1999-01-03,Managing Director,male,CPGPM3263V,53.4,782,False
+MSME-00302-P2,MSME-00302,Rahul Ram Das,1980-04-22,Director,male,MLDPD9574M,22.8,769,False
+MSME-00302-P3,MSME-00302,Priya Kulkarni,1987-01-22,Director,female,BSOPK6775W,23.8,,True
+MSME-00303-P1,MSME-00303,Swati Naidu,1965-09-13,Managing Partner,female,JURPN5398V,43.8,668,False
+MSME-00303-P2,MSME-00303,Naveen Mehta,1986-02-23,Partner,male,TMBPM5330F,56.2,668,False
+MSME-00304-P1,MSME-00304,Karthik Naidu,1969-01-29,Managing Director,female,WQXPN6422Y,32.4,712,False
+MSME-00304-P2,MSME-00304,Rahul Gopal Agarwal,1959-01-30,Director,male,RUTPA3714R,67.6,,True
+MSME-00305-P1,MSME-00305,Imran Sharma,1972-03-30,Managing Director,male,QTIPS5722V,43.7,779,False
+MSME-00305-P2,MSME-00305,Harpreet Jain,1972-01-29,Director,female,XDLPJ1546D,56.3,805,False
+MSME-00306-P1,MSME-00306,Nandini Fernandes,1982-03-16,Managing Director,female,GIQPF2836Y,30.8,726,False
+MSME-00306-P2,MSME-00306,Mohammed Prasad Gupta,1977-02-21,Director,male,QFOPG7637N,42.1,711,False
+MSME-00306-P3,MSME-00306,Sameer Naidu,1970-03-06,Director,male,YIQPN5833Y,27.1,723,False
+MSME-00307-P1,MSME-00307,Sanjay Mohan Joshi,1982-11-29,Proprietor,male,UTKPJ7923A,100.0,792,False
+MSME-00308-P1,MSME-00308,Karthik Nair,1977-07-08,Managing Partner,male,AVOPN3740D,24.1,729,False
+MSME-00308-P2,MSME-00308,Arjun Singh Bhat,1970-06-25,Partner,male,DAQPB4199T,22.8,735,False
+MSME-00308-P3,MSME-00308,Karthik Shaikh,1972-01-21,Partner,male,TZXPS3430G,53.1,735,False
+MSME-00309-P1,MSME-00309,Naveen Joshi,1963-07-31,Managing Director,male,KLJPJ6173I,36.4,782,False
+MSME-00309-P2,MSME-00309,Gurpreet Devi Venkataraman,1965-06-30,Director,male,PKGPV8104H,63.6,782,False
+MSME-00310-P1,MSME-00310,Sameer Ram Bhat,1978-01-08,Managing Director,male,PEFPB6375J,40.2,812,False
+MSME-00310-P2,MSME-00310,Vikram Patel,1980-02-09,Director,male,OVUPP1900I,30.3,824,False
+MSME-00310-P3,MSME-00310,Dinesh Lal Jain,1970-11-08,Director,male,WJRPJ7299W,29.5,750,False
+MSME-00311-P1,MSME-00311,Rajesh Mohan Pillai,1986-12-26,Managing Partner,male,HPEPP8202T,39.2,731,False
+MSME-00311-P2,MSME-00311,Dinesh Singh Venkataraman,1961-10-28,Partner,male,SZMPV4418P,60.8,779,False
+MSME-00312-P1,MSME-00312,Mohammed Kaur Singh,1983-12-29,Managing Partner,male,ZFSPS4003A,40.3,757,False
+MSME-00312-P2,MSME-00312,Naveen Banerjee,1998-02-21,Partner,male,XSBPB4476A,59.7,,True
+MSME-00313-P1,MSME-00313,Rahul Rao,2000-09-20,Managing Partner,male,ZGSPR8467I,47.9,676,False
+MSME-00313-P2,MSME-00313,Deepa Kant Rao,1981-05-26,Partner,female,XHHPR4781M,52.1,666,False
+MSME-00314-P1,MSME-00314,Rajesh Agarwal,1988-06-20,Managing Partner,male,SARPA1905N,34.5,,True
+MSME-00314-P2,MSME-00314,Rahul Nair,1995-10-04,Partner,male,QJFPN5423A,65.5,756,False
+MSME-00315-P1,MSME-00315,Anil Pandey,1960-04-18,Managing Director,male,OKEPP1970K,56.7,,True
+MSME-00315-P2,MSME-00315,Mary Kant Agarwal,1987-03-06,Director,female,SBGPA6003K,43.3,761,False
+MSME-00316-P1,MSME-00316,Sameer Reddy,1962-01-20,Proprietor,male,SPTPR5179C,100.0,750,False
+MSME-00317-P1,MSME-00317,Anil Devi Gupta,1967-12-26,Proprietor,male,PZKPG3957I,100.0,789,False
+MSME-00318-P1,MSME-00318,Dinesh Banerji,1996-02-11,Proprietor,male,GIXPB4416P,100.0,795,False
+MSME-00319-P1,MSME-00319,Sameer Mohan Gill,1975-03-12,Proprietor,male,QEWPG5664W,100.0,732,False
+MSME-00320-P1,MSME-00320,Rajesh Ali Menon,1972-01-10,Proprietor,male,BQLPM2782F,100.0,694,False
+MSME-00321-P1,MSME-00321,Fatima Jain,1993-10-18,Managing Partner,female,PFEPJ3228P,29.3,705,False
+MSME-00321-P2,MSME-00321,Venkatesh Kant Desai,1996-06-25,Partner,male,DRJPD8725U,19.1,,True
+MSME-00321-P3,MSME-00321,Revathi Bai Desai,1968-11-29,Partner,female,MWQPD6390T,51.7,732,False
+MSME-00322-P1,MSME-00322,Pooja Jyoti Gill,1971-07-15,Proprietor,female,WVZPG6483P,100.0,858,False
+MSME-00323-P1,MSME-00323,Gulshan Banerjee,1962-02-09,Managing Director,female,BACPB4136T,18.4,791,False
+MSME-00323-P2,MSME-00323,Harish Kant Bhat,1992-07-14,Director,male,YTEPB2664V,47.3,,True
+MSME-00323-P3,MSME-00323,Harish Patel,1966-11-20,Director,male,LCUPP2120P,34.3,841,False
+MSME-00324-P1,MSME-00324,Gurpreet Mehta,1986-06-17,Managing Partner,male,UCUPM1953W,28.9,736,False
+MSME-00324-P2,MSME-00324,Dinesh Banerjee,1980-03-04,Partner,male,LKFPB9716I,71.1,684,False
+MSME-00325-P1,MSME-00325,Dinesh Khan,1969-12-12,Managing Partner,male,RVCPK7181D,51.4,697,False
+MSME-00325-P2,MSME-00325,Shabana Kishore Das,1992-10-25,Partner,female,WMEPD1100T,48.6,651,False
+MSME-00326-P1,MSME-00326,Ishita Bai Reddy,1990-10-30,Managing Director,female,LKAPR0418F,31.0,770,False
+MSME-00326-P2,MSME-00326,Gulshan Ram Agarwal,1995-03-24,Director,female,QHVPA7201F,69.0,792,False
+MSME-00327-P1,MSME-00327,Naveen Banerjee,1999-09-07,Managing Director,male,RFBPB9251H,25.9,741,False
+MSME-00327-P2,MSME-00327,Suresh Jyoti Pandey,1989-01-31,Director,male,YICPP3578Z,74.1,714,False
+MSME-00328-P1,MSME-00328,Venkatesh Bai Nair,1976-09-11,Managing Partner,male,SKCPN8751S,36.3,726,False
+MSME-00328-P2,MSME-00328,Gulshan Agarwal,1961-01-12,Partner,female,YSIPA0950D,63.7,714,False
+MSME-00329-P1,MSME-00329,Rahul Ali Mehta,1961-06-26,Proprietor,male,IDGPM3204Q,100.0,752,False
+MSME-00330-P1,MSME-00330,Nandini Raj Desai,1985-09-10,Managing Director,female,AAAPD5433F,23.8,756,False
+MSME-00330-P2,MSME-00330,Mary Kumar Khan,1988-05-06,Director,female,RVJPK4277Y,76.2,785,False
+MSME-00331-P1,MSME-00331,Ramesh Lal Thomas,1994-01-10,Proprietor,male,KLRPT9766U,100.0,787,False
+MSME-00332-P1,MSME-00332,Ramesh Kumar Iyer,1966-11-12,Managing Partner,male,OWYPI8912N,21.6,844,False
+MSME-00332-P2,MSME-00332,Nandini Desai,1993-03-12,Partner,female,MROPD1631D,43.1,823,False
+MSME-00332-P3,MSME-00332,Swati Singh Naidu,1976-09-16,Partner,female,QNIPN0383I,35.3,815,False
+MSME-00333-P1,MSME-00333,Karthik Desai,1967-02-26,Managing Director,male,GDWPD5292M,35.0,,True
+MSME-00333-P2,MSME-00333,Rajesh Nath Gupta,1972-12-26,Director,male,BOHPG3825V,41.6,712,False
+MSME-00333-P3,MSME-00333,Prakash Kaur Khan,1975-11-05,Director,male,KMLPK9562W,23.4,787,False
+MSME-00334-P1,MSME-00334,Meena Pillai,1995-11-02,Managing Director,female,XKNPP5693I,56.9,734,False
+MSME-00334-P2,MSME-00334,Fatima Devi Singh,1992-08-03,Director,female,JFCPS2019E,43.1,720,False
+MSME-00335-P1,MSME-00335,Arjun Lal Naidu,1984-12-20,Managing Director,male,CEMPN9115X,34.9,854,False
+MSME-00335-P2,MSME-00335,Rajesh Shankar Kulkarni,1962-09-14,Director,male,LUOPK8930X,29.8,794,False
+MSME-00335-P3,MSME-00335,Sanjay Desai,1999-10-01,Director,male,PWZPD2276D,35.3,753,False
+MSME-00336-P1,MSME-00336,Rajesh Desai,1959-02-09,Proprietor,male,UIXPD0697I,100.0,774,False
+MSME-00337-P1,MSME-00337,Mohammed Khan,1963-04-20,Managing Partner,male,JTMPK9559L,58.1,712,False
+MSME-00337-P2,MSME-00337,Asha Jyoti Saxena,1977-06-10,Partner,female,XBWPS0551N,41.9,777,False
+MSME-00338-P1,MSME-00338,Dinesh Gupta,1986-01-16,Proprietor,male,KJZPG9139U,100.0,753,False
+MSME-00339-P1,MSME-00339,Navin Singh Desai,1999-03-27,Managing Partner,female,EKCPD8340C,67.3,,True
+MSME-00339-P2,MSME-00339,Priya Saxena,1977-04-06,Partner,female,LLLPS8547N,32.7,728,False
+MSME-00340-P1,MSME-00340,Anil Narayan Banerjee,1976-07-09,Managing Partner,male,SBTPB5012J,20.4,,True
+MSME-00340-P2,MSME-00340,Amit Chandra Singh,1970-07-10,Partner,male,QQTPS1635Z,56.4,729,False
+MSME-00340-P3,MSME-00340,Radhika Raj Fernandes,1978-03-03,Partner,female,PUIPF5458M,23.3,721,False
+MSME-00341-P1,MSME-00341,Deepa Iyer,1980-12-24,Proprietor,female,FRXPI1050C,100.0,874,False
+MSME-00342-P1,MSME-00342,Mohammed Jyoti Thomas,1992-02-02,Managing Partner,male,GYXPT8241F,45.7,682,False
+MSME-00342-P2,MSME-00342,Ramesh Reddy,1983-12-05,Partner,male,GHOPR4789I,54.3,663,False
+MSME-00343-P1,MSME-00343,Sanjay Mohan Rao,1997-05-04,Managing Partner,male,TTRPR5845Y,37.8,730,False
+MSME-00343-P2,MSME-00343,Imran Ram Das,1964-05-03,Partner,male,UYZPD4961G,62.2,725,False
+MSME-00344-P1,MSME-00344,Joseph Kulkarni,2000-09-09,Managing Partner,male,BIIPK7536W,23.0,682,False
+MSME-00344-P2,MSME-00344,Amit Singh Mukherjee,1962-09-06,Partner,male,WBVPM3901G,34.9,726,False
+MSME-00344-P3,MSME-00344,Radhika Shaikh,1971-06-29,Partner,female,ZEAPS2553Y,42.0,,True
+MSME-00345-P1,MSME-00345,Ramesh Kumar Pillai,1985-08-23,Managing Director,male,IBJPP5472Q,20.7,800,False
+MSME-00345-P2,MSME-00345,Ramesh Nair,1977-09-30,Director,male,HLMPN5884V,43.4,785,False
+MSME-00345-P3,MSME-00345,Gurpreet Rao,1985-09-01,Director,male,IOCPR6417D,35.9,829,False
+MSME-00346-P1,MSME-00346,Ramesh Joshi,1970-09-29,Managing Director,male,RSNPJ9846T,34.8,684,False
+MSME-00346-P2,MSME-00346,Gurpreet Bai Sharma,1959-02-26,Director,male,BMYPS6510I,34.6,675,False
+MSME-00346-P3,MSME-00346,Sanjay Thomas,1965-03-23,Director,male,GPLPT2819Q,30.6,682,False
+MSME-00347-P1,MSME-00347,Amit Chauhan,1966-05-22,Managing Director,male,FRWPC0683L,48.1,763,False
+MSME-00347-P2,MSME-00347,Mohammed Chandra Joshi,1966-11-08,Director,male,ABRPJ1652H,21.7,747,False
+MSME-00347-P3,MSME-00347,Imran Bai Venkataraman,1981-03-24,Director,male,ZGPPV6102Q,30.2,,True
+MSME-00348-P1,MSME-00348,Imran Gupta,1983-10-06,Proprietor,male,GSQPG6357E,100.0,835,False
+MSME-00349-P1,MSME-00349,Dinesh Banerji,1965-06-15,Proprietor,male,LUZPB0093T,100.0,696,False
+MSME-00350-P1,MSME-00350,Venkatesh Pandey,1964-11-23,Managing Partner,male,QICPP1134H,29.3,726,False
+MSME-00350-P2,MSME-00350,Anil Ram Kulkarni,1969-06-14,Partner,male,SIVPK9241E,45.3,688,False
+MSME-00350-P3,MSME-00350,Gurpreet Shankar Banerjee,1987-02-05,Partner,male,CAIPB3445W,25.3,763,False
+MSME-00351-P1,MSME-00351,Sanjay Prasad Das,1998-07-07,Managing Director,male,LKUPD1072I,34.3,765,False
+MSME-00351-P2,MSME-00351,Joseph Rani Rao,1995-11-24,Director,male,QFLPR1160M,65.7,758,False
+MSME-00352-P1,MSME-00352,Sameer Gupta,1992-07-06,Managing Partner,male,MEDPG2630D,68.8,748,False
+MSME-00352-P2,MSME-00352,Sanjay Mohan Reddy,1991-04-06,Partner,male,GDEPR0021O,31.2,728,False
+MSME-00353-P1,MSME-00353,Karthik Kaur Mehta,1991-02-22,Proprietor,male,XYMPM8148Q,100.0,728,False
+MSME-00354-P1,MSME-00354,Ramesh Kumar Pandey,1967-12-21,Managing Director,male,RJLPP9594I,34.0,735,False
+MSME-00354-P2,MSME-00354,Mohammed Gopal Joshi,1987-02-24,Director,male,LKCPJ6764M,37.1,711,False
+MSME-00354-P3,MSME-00354,Sanjay Singh Venkataraman,1960-06-24,Director,male,FKBPV4387T,28.9,739,False
+MSME-00355-P1,MSME-00355,Vikram Gupta,1998-04-21,Proprietor,male,BTHPG0587S,100.0,724,False
+MSME-00356-P1,MSME-00356,Karthik Jyoti Sharma,1993-07-16,Proprietor,male,VLSPS6426V,100.0,733,False
+MSME-00357-P1,MSME-00357,Joseph Kaur Gupta,1974-12-27,Proprietor,male,NXSPG3905L,100.0,669,False
+MSME-00358-P1,MSME-00358,Priya Joshi,1975-09-21,Managing Partner,female,GOLPJ4860D,46.2,789,False
+MSME-00358-P2,MSME-00358,Venkatesh Banerjee,1987-08-03,Partner,male,PVSPB4598C,32.1,761,False
+MSME-00358-P3,MSME-00358,Ramesh Banerjee,1999-08-20,Partner,male,XRMPB9667H,21.8,729,False
+MSME-00359-P1,MSME-00359,Naveen Mukherjee,1962-07-23,Managing Partner,male,DOFPM5850D,43.0,853,False
+MSME-00359-P2,MSME-00359,Shabana Khan,1986-10-06,Partner,female,EFEPK6700X,57.0,851,False
+MSME-00360-P1,MSME-00360,Mohammed Shankar Bhat,1994-07-20,Managing Partner,male,CJTPB4404U,42.7,744,False
+MSME-00360-P2,MSME-00360,Imran Khan,1974-07-23,Partner,male,UUJPK6675I,18.5,,True
+MSME-00360-P3,MSME-00360,Nandini Devi Jain,1983-09-18,Partner,female,ABWPJ2767S,38.8,,True
+MSME-00361-P1,MSME-00361,Anil Prasad Jain,1971-10-30,Managing Director,male,BTEPJ1892K,29.4,797,False
+MSME-00361-P2,MSME-00361,Vikram Kishore Reddy,1968-06-02,Director,male,JOUPR4470P,36.6,794,False
+MSME-00361-P3,MSME-00361,Swati Nath Naidu,1972-10-04,Director,female,ZVXPN0184G,34.0,754,False
+MSME-00362-P1,MSME-00362,Suresh Jain,1980-03-12,Proprietor,male,TAUPJ2769Q,100.0,777,False
+MSME-00363-P1,MSME-00363,Arjun Jyoti Banerjee,1988-01-10,Proprietor,male,ERLPB8971L,100.0,,True
+MSME-00364-P1,MSME-00364,Venkatesh Lal Thomas,1980-08-31,Managing Partner,male,MTQPT7702R,40.7,820,False
+MSME-00364-P2,MSME-00364,Deepa Kaur Bhat,1963-10-30,Partner,female,GOGPB6889X,38.8,795,False
+MSME-00364-P3,MSME-00364,Rajesh Kumar Chauhan,1960-04-14,Partner,male,GLUPC5718X,20.5,802,False
+MSME-00365-P1,MSME-00365,Nandini Narayan Jain,1983-11-29,Proprietor,female,DRLPJ1716Q,100.0,773,False
+MSME-00366-P1,MSME-00366,Gurpreet Narayan Joshi,1977-04-01,Managing Director,male,BVTPJ2076G,56.2,845,False
+MSME-00366-P2,MSME-00366,Neha Rani Reddy,1981-10-10,Director,female,EFJPR7206W,43.8,793,False
+MSME-00367-P1,MSME-00367,Pooja Kishore Khan,1994-06-15,Managing Director,female,TRUPK4758K,49.0,717,False
+MSME-00367-P2,MSME-00367,Arjun Das,1979-08-18,Director,male,IWSPD7736W,51.0,652,False
+MSME-00368-P1,MSME-00368,Gurpreet Chandra Iyer,1999-01-01,Proprietor,male,PVYPI8062G,100.0,763,False
+MSME-00369-P1,MSME-00369,Ramesh Devi Sharma,1999-05-30,Managing Director,male,ZYNPS9817N,41.5,736,False
+MSME-00369-P2,MSME-00369,Arjun Jyoti Gupta,1999-10-13,Director,male,CSGPG7969C,58.5,725,False
+MSME-00370-P1,MSME-00370,Joseph Prasad Kulkarni,1989-07-31,Proprietor,male,LGGPK4086Y,100.0,728,False
+MSME-00371-P1,MSME-00371,Sameer Bhat,1987-12-07,Managing Partner,male,LLSPB5996J,44.0,627,False
+MSME-00371-P2,MSME-00371,Sanjay Bai Gill,1998-01-24,Partner,male,CRSPG9419O,56.0,,True
+MSME-00372-P1,MSME-00372,Neha Kumar Nair,1986-01-03,Managing Director,female,PRNPN0104T,47.4,765,False
+MSME-00372-P2,MSME-00372,Neha Kant Fernandes,1982-06-16,Director,female,LSCPF3591J,52.6,739,False
+MSME-00373-P1,MSME-00373,Asha Ram Venkatraman,1976-03-01,Managing Partner,female,OSEPV3666G,49.6,,True
+MSME-00373-P2,MSME-00373,Venkatesh Saxena,1971-05-29,Partner,male,MNYPS4070A,19.0,864,False
+MSME-00373-P3,MSME-00373,Mohammed Ali Saxena,1969-12-18,Partner,male,NSQPS0416Z,31.4,805,False
+MSME-00374-P1,MSME-00374,Suresh Khan,1991-02-27,Managing Partner,male,RRDPK9111Y,58.2,738,False
+MSME-00374-P2,MSME-00374,Swati Ram Nair,1994-02-23,Partner,female,PDOPN0292V,41.8,765,False
+MSME-00375-P1,MSME-00375,Rahul Kant Khan,1968-04-18,Managing Partner,male,WBTPK8372V,59.1,714,False
+MSME-00375-P2,MSME-00375,Shabana Jain,1991-11-18,Partner,female,GHUPJ9598P,40.9,699,False
+MSME-00376-P1,MSME-00376,Venkatesh Nair,1983-02-19,Managing Director,male,IBDPN8266O,44.6,720,False
+MSME-00376-P2,MSME-00376,Venkatesh Shankar Reddy,1994-05-24,Director,male,FCFPR3595M,55.4,737,False
+MSME-00377-P1,MSME-00377,Harpreet Mohan Reddy,1988-11-15,Managing Director,female,FKCPR3928M,36.7,769,False
+MSME-00377-P2,MSME-00377,Anil Ram Mehta,1999-07-08,Director,male,TOAPM0970F,39.1,734,False
+MSME-00377-P3,MSME-00377,Shabana Devi Gupta,1994-09-16,Director,female,JLQPG1402I,24.2,770,False
+MSME-00378-P1,MSME-00378,Harish Kant Naidu,1963-04-10,Managing Partner,male,MGKPN1766S,54.6,,True
+MSME-00378-P2,MSME-00378,Radhika Mohan Naidu,1966-12-24,Partner,female,LXYPN0048T,45.4,834,False
+MSME-00379-P1,MSME-00379,Naveen Jain,1991-08-12,Managing Partner,male,WWGPJ8817Q,66.2,767,False
+MSME-00379-P2,MSME-00379,Vikram Raj Patel,1990-02-07,Partner,male,TUKPP5685J,33.8,745,False
+MSME-00380-P1,MSME-00380,Harish Venkataraman,2000-10-30,Managing Partner,male,TLNPV1402H,53.3,807,False
+MSME-00380-P2,MSME-00380,Deepa Bai Gupta,1996-12-29,Partner,female,RQDPG0885H,46.7,791,False
+MSME-00381-P1,MSME-00381,Vikram Rani Das,1982-02-12,Managing Partner,male,TTNPD0367E,53.7,849,False
+MSME-00381-P2,MSME-00381,Harish Shankar Banerjee,1997-02-07,Partner,male,UOUPB1924Q,46.3,,True
+MSME-00382-P1,MSME-00382,Joseph Patel,1995-08-09,Managing Partner,male,EZZPP0828H,28.7,758,False
+MSME-00382-P2,MSME-00382,Joseph Ali Saxena,1959-09-01,Partner,male,JXBPS0533J,48.1,768,False
+MSME-00382-P3,MSME-00382,Naveen Singh,1959-07-04,Partner,male,ACIPS5789F,23.3,723,False
+MSME-00383-P1,MSME-00383,Rahul Singh Kulkarni,1964-12-27,Proprietor,male,VSNPK8650Y,100.0,743,False
+MSME-00384-P1,MSME-00384,Karthik Kaur Menon,1974-01-16,Managing Director,male,NNIPM8980J,36.2,670,False
+MSME-00384-P2,MSME-00384,Karthik Kishore Reddy,1969-07-01,Director,male,EXRPR2216J,26.9,683,False
+MSME-00384-P3,MSME-00384,Harish Gupta,1964-07-21,Director,male,MHMPG3520G,37.0,708,False
+MSME-00385-P1,MSME-00385,Swati Kishore Gupta,1990-08-01,Proprietor,female,XSFPG4629X,100.0,748,False
+MSME-00386-P1,MSME-00386,Anjali Nath Desai,1976-01-05,Proprietor,female,ZXFPD5481B,100.0,856,False
+MSME-00387-P1,MSME-00387,Vikram Gopal Shaikh,1992-08-17,Managing Director,male,PTVPS3453Q,57.2,697,False
+MSME-00387-P2,MSME-00387,Venkatesh Ram Bhat,1959-07-24,Director,male,YPFPB1388B,42.8,733,False
+MSME-00388-P1,MSME-00388,Vikram Kaur Naidu,1993-06-09,Managing Director,male,OBVPN8940W,36.7,748,False
+MSME-00388-P2,MSME-00388,Imran Sharma,1975-02-05,Director,male,RZWPS3745V,39.7,748,False
+MSME-00388-P3,MSME-00388,Suresh Gill,1979-03-26,Director,male,SZSPG6266D,23.6,767,False
+MSME-00389-P1,MSME-00389,Gurpreet Jyoti Joshi,1988-11-14,Proprietor,male,MRAPJ7572B,100.0,727,False
+MSME-00390-P1,MSME-00390,Gurpreet Das,1959-11-08,Managing Director,male,RQAPD5929U,20.5,766,False
+MSME-00390-P2,MSME-00390,Sameer Jain,1959-12-28,Director,male,WYGPJ4311X,28.3,796,False
+MSME-00390-P3,MSME-00390,Kavita Kulkarni,1981-10-31,Director,female,PPJPK7455F,51.2,,True
+MSME-00391-P1,MSME-00391,Priya Shaikh,1972-05-08,Managing Partner,female,KKPPS1928A,39.4,741,False
+MSME-00391-P2,MSME-00391,Revathi Joshi,1970-12-03,Partner,female,FDTPJ2238N,60.6,730,False
+MSME-00392-P1,MSME-00392,Imran Devi Shaikh,1984-11-25,Managing Director,male,SASPS0690T,35.7,718,False
+MSME-00392-P2,MSME-00392,Shabana Shankar Mukherjee,1999-02-15,Director,female,JZNPM1957Q,30.1,696,False
+MSME-00392-P3,MSME-00392,Radhika Chandra Agarwal,1987-11-03,Director,female,BKRPA4363X,34.2,592,False
+MSME-00393-P1,MSME-00393,Mohammed Reddy,1989-02-27,Proprietor,male,HJQPR7161P,100.0,773,False
+MSME-00394-P1,MSME-00394,Dinesh Prasad Jain,1988-02-27,Proprietor,male,UGDPJ6081L,100.0,734,False
+MSME-00395-P1,MSME-00395,Rahul Jyoti Pandey,1964-05-23,Managing Director,male,ZZEPP1495N,54.9,900,False
+MSME-00395-P2,MSME-00395,Kavita Gopal Sharma,1986-11-22,Director,female,EIEPS5368I,23.3,863,False
+MSME-00395-P3,MSME-00395,Lakshmi Desai,1995-01-16,Director,female,OHOPD5802W,21.8,888,False
+MSME-00396-P1,MSME-00396,Rajesh Kishore Naidu,1979-10-09,Managing Director,male,TWNPN5463S,51.8,722,False
+MSME-00396-P2,MSME-00396,Prakash Gopal Mehta,1963-04-18,Director,male,ZXTPM5249X,48.2,732,False
+MSME-00397-P1,MSME-00397,Naveen Nath Banerjee,1972-03-29,Managing Director,male,EJYPB2299C,48.0,878,False
+MSME-00397-P2,MSME-00397,Sanjay Kaur Mukherjee,1994-02-22,Director,male,GQKPM1962H,23.9,804,False
+MSME-00397-P3,MSME-00397,Arjun Iyer,2001-06-19,Director,male,BCEPI0888S,28.2,871,False
+MSME-00398-P1,MSME-00398,Harpreet Ali Rao,1993-11-24,Managing Partner,female,LSDPR4295C,40.6,739,False
+MSME-00398-P2,MSME-00398,Venkatesh Gill,1974-10-21,Partner,male,QHVPG7868R,59.4,712,False
+MSME-00399-P1,MSME-00399,Venkatesh Agarwal,1976-10-08,Managing Partner,male,YZAPA6891O,26.8,667,False
+MSME-00399-P2,MSME-00399,Gurpreet Iyer,1976-10-09,Partner,male,VDUPI8896C,40.0,697,False
+MSME-00399-P3,MSME-00399,Gurpreet Pillai,1976-07-13,Partner,male,NSMPP5606B,33.3,729,False
+MSME-00400-P1,MSME-00400,Rajesh Iyer,1969-02-09,Managing Director,male,BLAPI8980R,49.8,725,False
+MSME-00400-P2,MSME-00400,Imran Thomas,1959-03-10,Director,male,RONPT6792X,22.9,738,False
+MSME-00400-P3,MSME-00400,Lakshmi Pandey,1998-04-28,Director,female,EEGPP4203K,27.4,739,False
+MSME-00401-P1,MSME-00401,Ramesh Naidu,1982-02-28,Proprietor,male,VFBPN0709A,100.0,690,False
+MSME-00402-P1,MSME-00402,Mohammed Lal Pillai,1967-01-07,Managing Director,male,CPJPP6676G,38.1,891,False
+MSME-00402-P2,MSME-00402,Gurpreet Banerjee,1972-10-04,Director,male,UNQPB6966Z,42.3,845,False
+MSME-00402-P3,MSME-00402,Kavita Kaur Mehta,1970-09-06,Director,female,OJZPM7573F,19.6,837,False
+MSME-00403-P1,MSME-00403,Suresh Singh Agarwal,1983-07-19,Managing Director,male,TZGPA9053G,27.1,778,False
+MSME-00403-P2,MSME-00403,Harpreet Pandey,1960-02-25,Director,female,NCBPP3950W,72.9,784,False
+MSME-00404-P1,MSME-00404,Naveen Mukherjee,1965-07-19,Proprietor,male,CQIPM8880H,100.0,,True
+MSME-00405-P1,MSME-00405,Rajesh Chandra Pillai,1995-06-06,Managing Director,male,MQTPP4230T,35.6,759,False
+MSME-00405-P2,MSME-00405,Sanjay Lal Iyer,1999-12-17,Director,male,WVPPI0720A,23.8,766,False
+MSME-00405-P3,MSME-00405,Sameer Reddy,1990-06-22,Director,male,DNSPR0596Y,40.6,794,False
+MSME-00406-P1,MSME-00406,Dinesh Kaur Menon,1963-07-04,Managing Partner,male,WAYPM8658M,37.5,696,False
+MSME-00406-P2,MSME-00406,Prakash Bhat,1999-04-29,Partner,male,POQPB7993G,62.5,725,False
+MSME-00407-P1,MSME-00407,Rajesh Reddy,1964-09-03,Proprietor,male,TGBPR0644F,100.0,642,False
+MSME-00408-P1,MSME-00408,Vikram Jyoti Reddy,1993-11-14,Managing Partner,male,CUFPR5058F,56.2,785,False
+MSME-00408-P2,MSME-00408,Vikram Fernandes,1973-03-13,Partner,male,EDSPF2749E,43.8,752,False
+MSME-00409-P1,MSME-00409,Imran Ram Mehta,1964-03-03,Managing Director,male,XSBPM8855C,48.0,705,False
+MSME-00409-P2,MSME-00409,Gurpreet Bai Nair,1995-01-19,Director,male,XDFPN6691G,52.0,772,False
+MSME-00410-P1,MSME-00410,Harish Joshi,1962-01-21,Managing Partner,male,LWFPJ7296L,36.8,683,False
+MSME-00410-P2,MSME-00410,Joseph Shaikh,1972-04-12,Partner,male,DNGPS2994Q,63.2,713,False
+MSME-00411-P1,MSME-00411,Anjali Gopal Saxena,1975-08-10,Managing Director,female,FNQPS2698Q,20.6,696,False
+MSME-00411-P2,MSME-00411,Karthik Singh Mehta,1986-11-04,Director,male,PIHPM2409J,36.2,743,False
+MSME-00411-P3,MSME-00411,Rajesh Venkataraman,1968-03-21,Director,male,RYHPV8195V,43.2,760,False
+MSME-00412-P1,MSME-00412,Sanjay Bhat,1983-12-09,Managing Director,male,PRMPB7695U,74.2,606,False
+MSME-00412-P2,MSME-00412,Amit Agarwal,1958-10-18,Director,male,VYIPA6694X,25.8,,True
+MSME-00413-P1,MSME-00413,Gurpreet Saxena,1959-03-05,Managing Partner,male,BMYPS4490T,23.5,689,False
+MSME-00413-P2,MSME-00413,Rajesh Ram Nair,1974-04-11,Partner,male,ZOCPN7928X,23.5,661,False
+MSME-00413-P3,MSME-00413,Anil Pillai,1978-12-18,Partner,male,QPZPP9331W,53.0,667,False
+MSME-00414-P1,MSME-00414,Anil Rao,1980-04-15,Proprietor,male,BPFPR6256Z,100.0,802,False
+MSME-00415-P1,MSME-00415,Dinesh Kumar Agarwal,1965-02-27,Proprietor,male,ILRPA2827E,100.0,740,False
+MSME-00416-P1,MSME-00416,Dinesh Bhat,1998-11-22,Managing Director,male,BWTPB8702U,43.4,666,False
+MSME-00416-P2,MSME-00416,Joseph Raj Agarwal,1985-07-22,Director,male,CHVPA8175K,56.6,774,False
+MSME-00417-P1,MSME-00417,Swati Mukherjee,1995-10-10,Managing Director,female,MUJPM6533L,56.7,754,False
+MSME-00417-P2,MSME-00417,Swati Ram Kulkarni,1982-11-04,Director,female,LMXPK8326M,43.3,728,False
+MSME-00418-P1,MSME-00418,Suresh Reddy,1986-05-25,Managing Director,male,QFEPR8881O,21.0,685,False
+MSME-00418-P2,MSME-00418,Shabana Bhat,1990-04-22,Director,female,BXXPB3455N,42.5,635,False
+MSME-00418-P3,MSME-00418,Asha Kaur Venkataraman,1988-03-28,Director,female,QOOPV3532T,36.6,673,False
+MSME-00419-P1,MSME-00419,Rajesh Menon,1986-11-25,Managing Partner,male,KXXPM5036R,36.9,,True
+MSME-00419-P2,MSME-00419,Anil Raj Nair,1997-09-20,Partner,male,JYVPN0036F,33.4,801,False
+MSME-00419-P3,MSME-00419,Karthik Singh Mehta,1984-01-24,Partner,male,QGOPM9476A,29.6,876,False
+MSME-00420-P1,MSME-00420,Vikram Nair,1997-01-05,Managing Director,male,CVVPN8409Y,45.1,658,False
+MSME-00420-P2,MSME-00420,Nandini Chandra Naidu,1959-03-26,Director,female,DSTPN7988R,54.9,701,False
+MSME-00421-P1,MSME-00421,Rahul Agarwal,1980-06-07,Managing Partner,male,XRYPA8578M,32.3,794,False
+MSME-00421-P2,MSME-00421,Harpreet Bai Iyer,2000-11-04,Partner,female,DPWPI5192N,32.2,800,False
+MSME-00421-P3,MSME-00421,Revathi Menon,1965-10-11,Partner,female,BPMPM1482T,35.6,815,False
+MSME-00422-P1,MSME-00422,Sanjay Gopal Bhat,1981-02-10,Proprietor,male,LZSPB5892F,100.0,812,False
+MSME-00423-P1,MSME-00423,Venkatesh Ali Naidu,1972-03-06,Managing Director,male,CJPPN8299C,34.9,744,False
+MSME-00423-P2,MSME-00423,Joseph Rani Banerjee,1996-03-07,Director,male,ALNPB5272J,31.4,724,False
+MSME-00423-P3,MSME-00423,Imran Venkataraman,1977-03-27,Director,male,VRWPV5721E,33.6,775,False
+MSME-00424-P1,MSME-00424,Harpreet Raj Desai,1966-03-12,Managing Director,female,VRMPD0330C,49.7,780,False
+MSME-00424-P2,MSME-00424,Dinesh Devi Gill,1969-03-18,Director,male,MZTPG4502P,50.3,800,False
+MSME-00425-P1,MSME-00425,Rajesh Jyoti Khan,1970-10-29,Managing Director,male,MFMPK9583H,71.5,717,False
+MSME-00425-P2,MSME-00425,Suresh Naidu,1969-09-21,Director,male,HVFPN8251M,28.5,731,False
+MSME-00426-P1,MSME-00426,Karthik Ali Singh,1963-12-28,Managing Director,male,XSFPS4872V,28.3,715,False
+MSME-00426-P2,MSME-00426,Arjun Ram Iyer,1965-03-11,Director,male,KSOPI8717R,71.7,754,False
+MSME-00427-P1,MSME-00427,Suresh Menon,1999-09-03,Managing Partner,male,LTNPM3131D,63.5,741,False
+MSME-00427-P2,MSME-00427,Gulshan Mohan Thomas,1961-04-17,Partner,female,UYMPT8307B,36.5,705,False
+MSME-00428-P1,MSME-00428,Dinesh Nair,1989-09-08,Managing Director,male,IRMPN7888F,42.4,720,False
+MSME-00428-P2,MSME-00428,Anil Sharma,1993-11-05,Director,male,YTOPS9798V,57.6,766,False
+MSME-00429-P1,MSME-00429,Harish Rani Pillai,1968-09-04,Proprietor,male,QIQPP1651K,100.0,769,False
+MSME-00430-P1,MSME-00430,Nandini Bai Desai,1992-01-18,Managing Partner,female,XUEPD7496Z,72.5,736,False
+MSME-00430-P2,MSME-00430,Harpreet Saxena,1996-02-07,Partner,female,GUCPS2322A,27.5,815,False
+MSME-00431-P1,MSME-00431,Neha Jyoti Iyer,1967-11-29,Proprietor,female,BLIPI9102M,100.0,727,False
+MSME-00432-P1,MSME-00432,Suresh Raj Banerjee,1960-02-03,Managing Partner,male,OKDPB8814L,43.5,796,False
+MSME-00432-P2,MSME-00432,Radhika Jyoti Pandey,2000-01-10,Partner,female,AELPP7272C,56.5,777,False
+MSME-00433-P1,MSME-00433,Amit Rani Desai,1979-10-16,Managing Partner,male,WWHPD7134X,31.9,759,False
+MSME-00433-P2,MSME-00433,Gurpreet Jyoti Gupta,1979-05-12,Partner,male,AROPG1986Q,47.0,766,False
+MSME-00433-P3,MSME-00433,Ishita Jain,1991-06-30,Partner,female,NHPPJ1347G,21.1,735,False
+MSME-00434-P1,MSME-00434,Venkatesh Jyoti Banerjee,1982-05-10,Managing Partner,male,NTBPB7410D,48.8,869,False
+MSME-00434-P2,MSME-00434,Anil Mohan Reddy,1973-09-16,Partner,male,FLJPR9374B,51.2,,True
+MSME-00435-P1,MSME-00435,Anil Narayan Das,1961-01-26,Proprietor,male,DEUPD5415G,100.0,788,False
+MSME-00436-P1,MSME-00436,Harish Mohan Kulkarni,1981-05-30,Proprietor,male,MRHPK3116F,100.0,720,False
+MSME-00437-P1,MSME-00437,Prakash Kishore Gupta,1961-02-16,Managing Partner,male,FTCPG1016S,39.5,725,False
+MSME-00437-P2,MSME-00437,Shabana Kumar Mukherjee,1983-12-23,Partner,female,HTBPM4639L,18.8,715,False
+MSME-00437-P3,MSME-00437,Meena Sharma,1987-07-23,Partner,female,XZUPS6285P,41.7,673,False
+MSME-00438-P1,MSME-00438,Radhika Kaur Fernandes,1979-03-28,Proprietor,female,XWQPF2300X,100.0,754,False
+MSME-00439-P1,MSME-00439,Suresh Sharma,1988-11-30,Managing Director,male,YFIPS8564V,52.1,772,False
+MSME-00439-P2,MSME-00439,Kavita Joshi,2001-02-10,Director,female,JRLPJ1618X,47.9,718,False
+MSME-00440-P1,MSME-00440,Joseph Singh Desai,2000-06-07,Managing Director,male,EWRPD7032Y,38.0,839,False
+MSME-00440-P2,MSME-00440,Amit Chauhan,1967-11-19,Director,male,DWXPC4360Z,62.0,808,False
+MSME-00441-P1,MSME-00441,Anjali Venkataraman,1994-07-12,Managing Director,female,MGMPV1241K,58.3,856,False
+MSME-00441-P2,MSME-00441,Revathi Menon,1994-03-17,Director,female,EDHPM8124W,41.7,784,False
+MSME-00442-P1,MSME-00442,Vikra Iyer,1967-07-13,Proprietor,male,ODFPI1351I,100.0,750,False
+MSME-00443-P1,MSME-00443,Gulshan Kant Joshi,1960-08-13,Proprietor,female,OBXPJ7843M,100.0,831,False
+MSME-00444-P1,MSME-00444,Rahul Thomas,1988-03-17,Proprietor,male,RLQPT5091G,100.0,829,False
+MSME-00445-P1,MSME-00445,Priya Mohan Reddy,1989-01-02,Managing Partner,female,ZSYPR0394T,43.3,,True
+MSME-00445-P2,MSME-00445,Harish Iyer,2000-07-30,Partner,male,SNGPI7782C,56.7,695,False
+MSME-00446-P1,MSME-00446,Gulshan Agarwal,1997-08-22,Managing Partner,female,MSTPA3820K,24.3,790,False
+MSME-00446-P2,MSME-00446,Radhika Kant Chauhan,1986-02-04,Partner,female,EHAPC5811K,43.4,790,False
+MSME-00446-P3,MSME-00446,Arjun Narayan Pandey,1983-10-02,Partner,male,OHKPP9110M,32.3,778,False
+MSME-00447-P1,MSME-00447,Vikram Gill,1989-04-13,Managing Partner,male,AXTPG0318J,66.5,642,False
+MSME-00447-P2,MSME-00447,Harish Singh Khan,1999-06-22,Partner,male,KIRPK6900E,33.5,733,False
+MSME-00448-P1,MSME-00448,Sanjay Lal Gupta,1998-09-16,Managing Director,male,YZKPG6000M,38.9,721,False
+MSME-00448-P2,MSME-00448,Mohammed Patel,1983-12-09,Director,male,MDIPP9028Y,36.0,739,False
+MSME-00448-P3,MSME-00448,Sameer Pillai,1960-09-03,Director,male,ZRVPP7496V,25.1,743,False
+MSME-00449-P1,MSME-00449,Naveen Patel,1963-02-18,Proprietor,male,ETQPP8403F,100.0,714,False
+MSME-00450-P1,MSME-00450,Joseph Kaur Gill,1980-06-27,Managing Partner,male,FVOPG4789D,67.5,688,False
+MSME-00450-P2,MSME-00450,Venkatesh Kishore Nair,1982-12-28,Partner,male,VROPN0614Y,32.5,634,False
+MSME-00451-P1,MSME-00451,Gurpreet Shankar Pillai,1984-06-26,Managing Director,male,JRBPP9798O,26.4,672,False
+MSME-00451-P2,MSME-00451,Sanjay Kulkarni,1987-08-17,Director,male,TIOPK3448D,30.6,658,False
+MSME-00451-P3,MSME-00451,Amit Lal Nair,1988-03-28,Director,male,OBCPN5083Y,43.0,673,False
+MSME-00452-P1,MSME-00452,Joseph Nath Khan,1976-03-20,Proprietor,male,TXMPK9096U,100.0,750,False
+MSME-00453-P1,MSME-00453,Pooja Singh Shaikh,1967-01-20,Proprietor,female,MHMPS2088E,100.0,795,False
+MSME-00454-P1,MSME-00454,Sameer Narayan Agarwal,1995-03-16,Proprietor,male,PBNPA3707W,100.0,777,False
+MSME-00455-P1,MSME-00455,Imran Chauhan,1966-07-31,Managing Director,male,RSYPC7673B,50.0,684,False
+MSME-00455-P2,MSME-00455,Rahul Gopal Pandey,1995-11-12,Director,male,WPAPP9359J,50.0,646,False
+MSME-00456-P1,MSME-00456,Sunita Kumar Menon,1979-03-17,Managing Director,female,DGUPM4799L,38.1,793,False
+MSME-00456-P2,MSME-00456,Radhika Banerjee,1993-07-01,Director,female,VBCPB9936F,21.2,776,False
+MSME-00456-P3,MSME-00456,Ishita Kant Fernandes,1985-05-30,Director,female,UWKPF1176X,40.7,730,False
+MSME-00457-P1,MSME-00457,Anil Bai Venkataraman,1976-01-17,Managing Partner,male,FBKPV0709Q,32.7,781,False
+MSME-00457-P2,MSME-00457,Amit Kaur Chauhan,1977-05-16,Partner,male,OFQPC7223W,23.9,726,False
+MSME-00457-P3,MSME-00457,Fatima Desai,1990-06-28,Partner,female,AFUPD4167Q,43.4,702,False
+MSME-00458-P1,MSME-00458,Priya Gopal Banerjee,1982-08-24,Managing Director,female,EQSPB3991M,33.1,900,False
+MSME-00458-P2,MSME-00458,Imran Chandra Nair,1991-11-08,Director,male,TUEPN1231D,25.9,884,False
+MSME-00458-P3,MSME-00458,Rajesh Singh Sharma,1984-03-10,Director,male,TQUPS8303A,40.9,812,False
+MSME-00459-P1,MSME-00459,Anjali Ali Desai,1964-10-01,Proprietor,female,FWKPD1809Z,100.0,,True
+MSME-00460-P1,MSME-00460,Karthik Kaur Rao,1967-09-30,Proprietor,male,IDMPR2013A,100.0,844,False
+MSME-00461-P1,MSME-00461,Mohammed Rani Shaikh,1984-01-16,Managing Director,male,FAWPS2813K,66.0,781,False
+MSME-00461-P2,MSME-00461,Rajesh Jain,1999-05-26,Director,male,UHNPJ2545O,34.0,831,False
+MSME-00462-P1,MSME-00462,Sanjay Gill,2000-03-06,Managing Partner,male,DCHPG3771Z,37.8,704,False
+MSME-00462-P2,MSME-00462,Priya Mohan Venkataraman,1996-04-27,Partner,female,YSRPV2794O,41.7,792,False
+MSME-00462-P3,MSME-00462,Harish Lal Agarwal,1967-02-02,Partner,male,RCQPA5150Y,20.5,705,False
+MSME-00463-P1,MSME-00463,Rajesh Agarwal,1970-04-06,Managing Partner,male,MNRPA8559R,44.2,787,False
+MSME-00463-P2,MSME-00463,Arjun Menon,1988-01-26,Partner,male,KHEPM4255M,55.8,714,False
+MSME-00464-P1,MSME-00464,Gulshan Rani Chauhan,1984-12-07,Proprietor,female,HLUPC0283D,100.0,737,False
+MSME-00465-P1,MSME-00465,Vikram Kant Thomas,2000-04-25,Proprietor,male,KZHPT4044Y,100.0,827,False
+MSME-00466-P1,MSME-00466,Amit Iyer,1971-07-27,Managing Director,male,ZUYPI2709H,36.9,713,False
+MSME-00466-P2,MSME-00466,Gurpreet Bai Gupta,1987-07-21,Director,male,AIKPG2726M,22.8,636,False
+MSME-00466-P3,MSME-00466,Sameer Devi Saxena,1971-08-31,Director,male,TTUPS5474C,40.3,678,False
+MSME-00467-P1,MSME-00467,Rajesh Lal Iyer,1985-04-16,Proprietor,male,NYVPI8030R,100.0,834,False
+MSME-00468-P1,MSME-00468,Harish Sharma,1969-05-25,Managing Partner,male,JOIPS5042I,36.9,686,False
+MSME-00468-P2,MSME-00468,Prakash Gopal Agarwal,1995-10-05,Partner,male,OMLPA1106R,63.1,,True
+MSME-00469-P1,MSME-00469,Anjali Prasad Jain,1982-03-31,Managing Partner,female,JDUPJ2877C,22.4,735,False
+MSME-00469-P2,MSME-00469,Gurpreet Fernandes,1964-03-03,Partner,male,OWCPF6197L,33.4,777,False
+MSME-00469-P3,MSME-00469,Sunita Kaur Das,1978-01-13,Partner,female,BOAPD6796K,44.2,,True
+MSME-00470-P1,MSME-00470,Amit Singh Agarwal,1967-02-27,Managing Director,male,XVBPA8241E,48.9,768,False
+MSME-00470-P2,MSME-00470,Anil Mohan Saxena,2000-03-13,Director,male,IWHPS3140N,51.1,741,False
+MSME-00471-P1,MSME-00471,Neha Narayan Naidu,1964-05-16,Proprietor,female,DPIPN7202H,100.0,703,False
+MSME-00472-P1,MSME-00472,Dinesh Banerjee,1998-09-17,Managing Director,male,TGGPB4963O,53.4,676,False
+MSME-00472-P2,MSME-00472,Amit Kaur Thomas,1970-10-08,Director,male,WBAPT5263D,46.6,665,False
+MSME-00473-P1,MSME-00473,Pooja Singh,1967-09-24,Managing Director,male,THYPS8916E,42.1,702,False
+MSME-00473-P2,MSME-00473,Naveen Singh Venkataraman,1995-07-03,Director,male,DLUPV8876V,30.3,711,False
+MSME-00473-P3,MSME-00473,Naveen Nath Venkataraman,1997-01-21,Director,male,UQYPV4754N,27.5,695,False
+MSME-00474-P1,MSME-00474,Ramesh Devi Naidu,1980-12-17,Proprietor,male,RKCPN5340S,100.0,691,False
+MSME-00475-P1,MSME-00475,Vikram Thomas,1989-06-06,Managing Partner,male,ZWNPT7550U,42.8,663,False
+MSME-00475-P2,MSME-00475,Sanjay Ali Fernandes,1968-01-21,Partner,male,WCKPF9381B,35.2,636,False
+MSME-00475-P3,MSME-00475,Gurpreet Patel,1970-06-12,Partner,male,NWRPP2092X,22.0,679,False
+MSME-00476-P1,MSME-00476,Mohammed Gill,1971-12-03,Proprietor,male,DPPPG2737K,100.0,,True
+MSME-00477-P1,MSME-00477,Harish Nath Reddy,1960-02-05,Managing Director,male,CPIPR9729Z,45.3,,True
+MSME-00477-P2,MSME-00477,Sanjay Devi Joshi,1959-07-07,Director,male,DMAPJ1689V,32.9,757,False
+MSME-00477-P3,MSME-00477,Amit Bai Kulkarni,1992-01-02,Director,male,QKKPK2895G,21.9,718,False
+MSME-00478-P1,MSME-00478,Radhika Shaikh,1960-07-17,Managing Partner,female,HSMPS8398H,39.1,782,False
+MSME-00478-P2,MSME-00478,Vikram Ali Rao,1976-03-24,Partner,male,PFEPR3717C,32.3,761,False
+MSME-00478-P3,MSME-00478,Nandini Singh Chauhan,1977-02-02,Partner,female,WJKPC0893I,28.7,812,False
+MSME-00479-P1,MSME-00479,Amit Shankar Reddy,1979-06-08,Managing Partner,male,CMMPR7852T,44.1,785,False
+MSME-00479-P2,MSME-00479,Venkatesh Rani Kulkarni,1966-01-13,Partner,male,NQYPK8555E,55.9,756,False
+MSME-00480-P1,MSME-00480,Arjun Devi Pandey,1966-04-28,Managing Director,male,EDTPP9932X,46.5,693,False
+MSME-00480-P2,MSME-00480,Revathi Jyoti Banerjee,1964-12-13,Director,female,ESWPB8692A,53.5,642,False
+MSME-00481-P1,MSME-00481,Arjun Iyer,1994-12-31,Managing Partner,male,SKFPI3662Z,32.6,716,False
+MSME-00481-P2,MSME-00481,Rahul Kant Pandey,1996-10-16,Partner,male,ZNKPP1604S,32.0,791,False
+MSME-00481-P3,MSME-00481,Radhika Mukherjee,1997-09-18,Partner,female,ZMNPM4406N,35.4,741,False
+MSME-00482-P1,MSME-00482,Anil Jain,1978-09-12,Managing Partner,male,WAEPJ8217H,28.0,751,False
+MSME-00482-P2,MSME-00482,Suresh Pandey,1959-11-13,Partner,male,YZBPP1051N,39.5,755,False
+MSME-00482-P3,MSME-00482,Rahul Shankar Iyer,1961-08-11,Partner,male,WQTPI5066F,32.5,743,False
+MSME-00483-P1,MSME-00483,Suresh Lal Fernandes,1979-08-23,Managing Partner,male,FLMPF1661R,65.4,763,False
+MSME-00483-P2,MSME-00483,Vikram Singh Rao,1977-03-05,Partner,male,VGSPR9556E,34.6,786,False
+MSME-00484-P1,MSME-00484,Naveen Sharma,1980-08-29,Proprietor,male,UZTPS2177A,100.0,764,False
+MSME-00485-P1,MSME-00485,Sameer Kulkarni,1964-09-28,Managing Partner,male,QPQPK1720O,38.8,745,False
+MSME-00485-P2,MSME-00485,Venkatesh Singh Kulkarni,1987-08-19,Partner,male,TUDPK7232T,61.2,749,False
+MSME-00486-P1,MSME-00486,Gurpreet Rani Nair,1987-03-15,Managing Director,male,XYEPN0182S,66.9,702,False
+MSME-00486-P2,MSME-00486,Nandini Rani Mehta,1997-12-26,Director,female,FCKPM2164S,33.1,690,False
+MSME-00487-P1,MSME-00487,Gurpreet Devi Jain,1973-03-08,Managing Director,male,FLOPJ7495W,48.0,761,False
+MSME-00487-P2,MSME-00487,Amit Kishore Jain,1979-11-06,Director,male,POUPJ7624U,52.0,731,False
+MSME-00488-P1,MSME-00488,Sanjay Chandra Nair,1997-05-03,Proprietor,male,NJZPN1382X,100.0,781,False
+MSME-00489-P1,MSME-00489,Naveen Ali Rao,1993-05-28,Managing Director,male,VHNPR8369F,54.1,832,False
+MSME-00489-P2,MSME-00489,Naveen Gupta,1964-06-16,Director,male,RIHPG8503N,45.9,786,False
+MSME-00490-P1,MSME-00490,Radhika Patel,1975-01-20,Proprietor,female,NYUPP0584B,100.0,,True
+MSME-00491-P1,MSME-00491,Prakash Jyoti Rao,1983-10-28,Proprietor,male,KNRPR6631K,100.0,740,False
+MSME-00492-P1,MSME-00492,Sunita Saxena,1980-10-07,Proprietor,female,QDNPS5806J,100.0,707,False
+MSME-00493-P1,MSME-00493,Dinesh Rao,1984-02-16,Proprietor,male,DDWPR7116I,100.0,685,False
+MSME-00494-P1,MSME-00494,Sameer Chauhan,2001-02-15,Proprietor,male,FZTPC0044G,100.0,765,False
+MSME-00495-P1,MSME-00495,Revathi Khan,1973-10-18,Managing Partner,female,BECPK5685A,31.8,785,False
+MSME-00495-P2,MSME-00495,Shabana Mohan Gill,1978-05-15,Partner,female,LHMPG4831Z,37.6,770,False
+MSME-00495-P3,MSME-00495,Dinesh Chandra Desai,1976-10-14,Partner,male,LEOPD0143B,30.6,789,False
+MSME-00496-P1,MSME-00496,Venkatesh Kumar Desai,1990-01-01,Proprietor,male,KJVPD7253F,100.0,754,False
+MSME-00497-P1,MSME-00497,Gulshan Jyoti Chauhan,1960-09-12,Managing Partner,female,VMIPC4162R,37.0,714,False
+MSME-00497-P2,MSME-00497,Rajesh Gopal Agarwal,1977-10-21,Partner,male,WRXPA9895Q,31.8,744,False
+MSME-00497-P3,MSME-00497,Amit Raj Venkataraman,1959-01-09,Partner,male,LQKPV5843A,31.2,733,False
+MSME-00498-P1,MSME-00498,Prakash Narayan Das,1996-01-06,Managing Partner,male,KJCPD9485Z,34.8,823,False
+MSME-00498-P2,MSME-00498,Pooja Raj Khan,1971-01-06,Partner,female,UVNPK1420A,31.3,846,False
+MSME-00498-P3,MSME-00498,Gurpreet Mohan Naidu,1987-12-14,Partner,male,XXIPN9493E,33.9,866,False
+MSME-00499-P1,MSME-00499,Anil Devi Iyer,1975-04-02,Managing Director,male,TVAPI7040Y,38.9,827,False
+MSME-00499-P2,MSME-00499,Joseph Kaur Iyer,1970-08-05,Director,male,PHGPI5029W,35.7,837,False
+MSME-00499-P3,MSME-00499,Karthik Iyer,1990-12-23,Director,male,ZEHPI5725M,25.4,830,False
+MSME-00500-P1,MSME-00500,Karthik Agarwal,1995-12-05,Managing Director,male,ILTPA4019L,32.4,704,False
+MSME-00500-P2,MSME-00500,Sameer Rani Patel,1971-09-21,Director,male,BFFPP4669N,29.4,700,False
+MSME-00500-P3,MSME-00500,Joseph Sharma,1966-05-14,Director,male,HXAPS9019H,38.2,702,False

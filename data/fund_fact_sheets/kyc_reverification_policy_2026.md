@@ -5,7 +5,8 @@ Applies to all retail advisory clients whose Know Your Customer (KYC) record
 is more than 24 months old, or whose risk category is "high".
 
 ## Current Rule
-Clients in the "moderate" or "low" risk category must re-verify KYC every
+Clients 
+ the "moderate" or "low" risk category must re-verify KYC every
 24 months. Clients in the "high" risk category must re-verify every 12
 months. Re-verification may be completed fully online via video KYC; an
 in-person visit is no longer required as of this policy version.

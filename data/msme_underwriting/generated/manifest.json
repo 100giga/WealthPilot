@@ -1,0 +1,47 @@
+{
+  "seed": 2026,
+  "applicants": 500,
+  "as_of": "2026-10-01",
+  "files": {
+    "applicants.csv": 500,
+    "promoters.csv": 990,
+    "loan_applications.csv": 500,
+    "financial_statements.csv": 1360,
+    "bank_statement_monthly.csv": 6000,
+    "gst_returns_monthly.csv": 5484,
+    "bureau_reports.csv": 1490,
+    "kyc_records.csv": 500,
+    "watchlist.csv": 65,
+    "related_parties.csv": 25,
+    "underwriting_decisions.csv": 500,
+    "loan_performance.csv": 195,
+    "ground_truth.csv": 500,
+    "rm_interactions.jsonl": 1622,
+    "agent_eval_cases.json": 48,
+    "compliance_eval_cases.json": 104
+  },
+  "recommendations": {
+    "REJECT": 253,
+    "APPROVE": 114,
+    "REFER": 62,
+    "APPROVE_WITH_CONDITIONS": 71
+  },
+  "final_decisions": {
+    "DECLINED": 291,
+    "APPROVED": 106,
+    "APPROVED_WITH_CONDITIONS": 93,
+    "WITHDRAWN_BY_APPLICANT": 4,
+    "PENDING_HUMAN_REVIEW": 6
+  },
+  "policies": [
+    {
+      "policy_id": "CP-MSME-2024-01",
+      "effective_from": "2024-04-01"
+    },
+    {
+      "policy_id": "CP-MSME-2026-03",
+      "effective_from": "2026-04-01"
+    }
+  ],
+  "note": "Synthetic data. Identifiers are random and format-valid only; no real persons or businesses."
+}

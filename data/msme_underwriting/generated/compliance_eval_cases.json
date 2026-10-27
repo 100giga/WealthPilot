@@ -1,0 +1,809 @@
+[
+  {
+    "application_id": "LA-00006",
+    "expected_flags": [
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00008",
+    "expected_flags": [
+      "KO_WILFUL_DEFAULTER"
+    ],
+    "ground_truth_case": "wilful_defaulter",
+    "expected_action": "reject"
+  },
+  {
+    "application_id": "LA-00017",
+    "expected_flags": [
+      "CMP_SANCTIONS_MATCH",
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "sanctions_true_match",
+    "expected_action": "reject_and_report"
+  },
+  {
+    "application_id": "LA-00023",
+    "expected_flags": [
+      "FRD_GST_BANK_MISMATCH"
+    ],
+    "ground_truth_case": "gst_invoice_inflation",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00029",
+    "expected_flags": [
+      "CMP_SANCTIONS_MATCH",
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "sanctions_true_match",
+    "expected_action": "reject_and_report"
+  },
+  {
+    "application_id": "LA-00032",
+    "expected_flags": [],
+    "ground_truth_case": "financials_inflated",
+    "expected_action": "not_detected_by_rules"
+  },
+  {
+    "application_id": "LA-00033",
+    "expected_flags": [
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00037",
+    "expected_flags": [
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00044",
+    "expected_flags": [
+      "KO_WILFUL_DEFAULTER"
+    ],
+    "ground_truth_case": "wilful_defaulter",
+    "expected_action": "reject"
+  },
+  {
+    "application_id": "LA-00052",
+    "expected_flags": [],
+    "ground_truth_case": "circular_trading",
+    "expected_action": "not_detected_by_rules"
+  },
+  {
+    "application_id": "LA-00056",
+    "expected_flags": [
+      "CMP_BENEFICIAL_OWNER_UNDISCLOSED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00059",
+    "expected_flags": [
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00064",
+    "expected_flags": [
+      "CMP_BENEFICIAL_OWNER_UNDISCLOSED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00065",
+    "expected_flags": [
+      "CMP_PEP_ENHANCED_DUE_DILIGENCE"
+    ],
+    "ground_truth_case": "pep_true_match",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00066",
+    "expected_flags": [],
+    "ground_truth_case": "financials_inflated",
+    "expected_action": "not_detected_by_rules"
+  },
+  {
+    "application_id": "LA-00067",
+    "expected_flags": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH"
+    ],
+    "ground_truth_case": "watchlist_false_positive",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00077",
+    "expected_flags": [
+      "CMP_SANCTIONS_MATCH"
+    ],
+    "ground_truth_case": "sanctions_true_match",
+    "expected_action": "reject_and_report"
+  },
+  {
+    "application_id": "LA-00079",
+    "expected_flags": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00100",
+    "expected_flags": [
+      "FRD_GST_BANK_MISMATCH"
+    ],
+    "ground_truth_case": "gst_invoice_inflation",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00103",
+    "expected_flags": [
+      "FRD_GST_BANK_MISMATCH"
+    ],
+    "ground_truth_case": "circular_trading",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00105",
+    "expected_flags": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00106",
+    "expected_flags": [
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00109",
+    "expected_flags": [
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00112",
+    "expected_flags": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00118",
+    "expected_flags": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH"
+    ],
+    "ground_truth_case": "watchlist_false_positive",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00122",
+    "expected_flags": [
+      "CMP_RELATED_PARTY_LENDING"
+    ],
+    "ground_truth_case": "related_party",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00131",
+    "expected_flags": [
+      "FRD_GST_BANK_MISMATCH"
+    ],
+    "ground_truth_case": "gst_invoice_inflation",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00135",
+    "expected_flags": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00153",
+    "expected_flags": [
+      "CMP_BENEFICIAL_OWNER_UNDISCLOSED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00154",
+    "expected_flags": [
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00162",
+    "expected_flags": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH",
+      "CMP_POTENTIAL_WATCHLIST_MATCH"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00164",
+    "expected_flags": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH"
+    ],
+    "ground_truth_case": "watchlist_false_positive",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00166",
+    "expected_flags": [
+      "CMP_BENEFICIAL_OWNER_UNDISCLOSED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00167",
+    "expected_flags": [
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00173",
+    "expected_flags": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH"
+    ],
+    "ground_truth_case": "watchlist_false_positive",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00181",
+    "expected_flags": [
+      "CMP_BENEFICIAL_OWNER_UNDISCLOSED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00198",
+    "expected_flags": [
+      "CMP_RELATED_PARTY_LENDING"
+    ],
+    "ground_truth_case": "related_party",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00202",
+    "expected_flags": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH"
+    ],
+    "ground_truth_case": "watchlist_false_positive",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00205",
+    "expected_flags": [
+      "CMP_RELATED_PARTY_LENDING"
+    ],
+    "ground_truth_case": "related_party",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00210",
+    "expected_flags": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH"
+    ],
+    "ground_truth_case": "watchlist_false_positive",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00212",
+    "expected_flags": [
+      "FRD_GST_BANK_MISMATCH"
+    ],
+    "ground_truth_case": "gst_invoice_inflation",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00213",
+    "expected_flags": [
+      "FRD_FINANCIALS_GST_MISMATCH"
+    ],
+    "ground_truth_case": "financials_inflated",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00216",
+    "expected_flags": [],
+    "ground_truth_case": "circular_trading",
+    "expected_action": "not_detected_by_rules"
+  },
+  {
+    "application_id": "LA-00218",
+    "expected_flags": [
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00220",
+    "expected_flags": [],
+    "ground_truth_case": "watchlist_false_positive",
+    "expected_action": "not_detected_by_rules"
+  },
+  {
+    "application_id": "LA-00223",
+    "expected_flags": [
+      "FRD_GST_BANK_MISMATCH"
+    ],
+    "ground_truth_case": "gst_invoice_inflation",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00225",
+    "expected_flags": [
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00228",
+    "expected_flags": [
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00256",
+    "expected_flags": [
+      "CMP_PEP_ENHANCED_DUE_DILIGENCE",
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "pep_true_match",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00261",
+    "expected_flags": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH"
+    ],
+    "ground_truth_case": "watchlist_false_positive",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00267",
+    "expected_flags": [
+      "FRD_GST_BANK_MISMATCH",
+      "FRD_RELATED_PARTY_CIRCULAR_CREDITS"
+    ],
+    "ground_truth_case": "circular_trading",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00269",
+    "expected_flags": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH",
+      "FRD_GST_BANK_MISMATCH",
+      "FRD_RELATED_PARTY_CIRCULAR_CREDITS"
+    ],
+    "ground_truth_case": "watchlist_false_positive",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00274",
+    "expected_flags": [
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00281",
+    "expected_flags": [
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00292",
+    "expected_flags": [
+      "CMP_PEP_ENHANCED_DUE_DILIGENCE",
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "pep_true_match",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00298",
+    "expected_flags": [
+      "CMP_PEP_ENHANCED_DUE_DILIGENCE",
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "pep_true_match",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00299",
+    "expected_flags": [
+      "CMP_PEP_ENHANCED_DUE_DILIGENCE",
+      "CMP_KYC_EXPIRED",
+      "CMP_BENEFICIAL_OWNER_UNDISCLOSED"
+    ],
+    "ground_truth_case": "pep_true_match",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00304",
+    "expected_flags": [
+      "KO_WILFUL_DEFAULTER"
+    ],
+    "ground_truth_case": "wilful_defaulter",
+    "expected_action": "reject"
+  },
+  {
+    "application_id": "LA-00308",
+    "expected_flags": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00309",
+    "expected_flags": [
+      "KO_WILFUL_DEFAULTER"
+    ],
+    "ground_truth_case": "wilful_defaulter",
+    "expected_action": "reject"
+  },
+  {
+    "application_id": "LA-00311",
+    "expected_flags": [
+      "FRD_GST_BANK_MISMATCH",
+      "FRD_FINANCIALS_GST_MISMATCH"
+    ],
+    "ground_truth_case": "gst_invoice_inflation",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00314",
+    "expected_flags": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00317",
+    "expected_flags": [],
+    "ground_truth_case": "financials_inflated",
+    "expected_action": "not_detected_by_rules"
+  },
+  {
+    "application_id": "LA-00318",
+    "expected_flags": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH"
+    ],
+    "ground_truth_case": "watchlist_false_positive",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00323",
+    "expected_flags": [
+      "CMP_SANCTIONS_MATCH"
+    ],
+    "ground_truth_case": "sanctions_true_match",
+    "expected_action": "reject_and_report"
+  },
+  {
+    "application_id": "LA-00330",
+    "expected_flags": [
+      "FRD_GST_BANK_MISMATCH",
+      "FRD_FINANCIALS_GST_MISMATCH"
+    ],
+    "ground_truth_case": "gst_invoice_inflation",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00336",
+    "expected_flags": [
+      "CMP_PEP_ENHANCED_DUE_DILIGENCE",
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "pep_true_match",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00339",
+    "expected_flags": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH"
+    ],
+    "ground_truth_case": "watchlist_false_positive",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00349",
+    "expected_flags": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH"
+    ],
+    "ground_truth_case": "watchlist_false_positive",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00358",
+    "expected_flags": [
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00364",
+    "expected_flags": [
+      "CMP_BENEFICIAL_OWNER_UNDISCLOSED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00373",
+    "expected_flags": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH",
+      "CMP_BENEFICIAL_OWNER_UNDISCLOSED"
+    ],
+    "ground_truth_case": "watchlist_false_positive",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00374",
+    "expected_flags": [
+      "FRD_GST_BANK_MISMATCH"
+    ],
+    "ground_truth_case": "gst_invoice_inflation",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00414",
+    "expected_flags": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00418",
+    "expected_flags": [
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00436",
+    "expected_flags": [
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00442",
+    "expected_flags": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH"
+    ],
+    "ground_truth_case": "watchlist_false_positive",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00446",
+    "expected_flags": [
+      "CMP_RELATED_PARTY_LENDING"
+    ],
+    "ground_truth_case": "related_party",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00448",
+    "expected_flags": [
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00449",
+    "expected_flags": [
+      "CMP_SANCTIONS_MATCH"
+    ],
+    "ground_truth_case": "sanctions_true_match",
+    "expected_action": "reject_and_report"
+  },
+  {
+    "application_id": "LA-00456",
+    "expected_flags": [
+      "CMP_BENEFICIAL_OWNER_UNDISCLOSED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00463",
+    "expected_flags": [
+      "CMP_PEP_ENHANCED_DUE_DILIGENCE"
+    ],
+    "ground_truth_case": "pep_true_match",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00468",
+    "expected_flags": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00470",
+    "expected_flags": [
+      "CMP_BENEFICIAL_OWNER_UNDISCLOSED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00472",
+    "expected_flags": [
+      "CMP_POTENTIAL_WATCHLIST_MATCH",
+      "CMP_POTENTIAL_WATCHLIST_MATCH"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00473",
+    "expected_flags": [
+      "CMP_PEP_ENHANCED_DUE_DILIGENCE",
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "pep_true_match",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00479",
+    "expected_flags": [
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00483",
+    "expected_flags": [
+      "CMP_KYC_EXPIRED"
+    ],
+    "ground_truth_case": "",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00498",
+    "expected_flags": [
+      "FRD_GST_BANK_MISMATCH"
+    ],
+    "ground_truth_case": "circular_trading",
+    "expected_action": "refer_to_human"
+  },
+  {
+    "application_id": "LA-00031",
+    "expected_flags": [],
+    "ground_truth_case": "clean",
+    "expected_action": "pass"
+  },
+  {
+    "application_id": "LA-00039",
+    "expected_flags": [],
+    "ground_truth_case": "clean",
+    "expected_action": "pass"
+  },
+  {
+    "application_id": "LA-00295",
+    "expected_flags": [],
+    "ground_truth_case": "clean",
+    "expected_action": "pass"
+  },
+  {
+    "application_id": "LA-00395",
+    "expected_flags": [],
+    "ground_truth_case": "clean",
+    "expected_action": "pass"
+  },
+  {
+    "application_id": "LA-00433",
+    "expected_flags": [],
+    "ground_truth_case": "clean",
+    "expected_action": "pass"
+  },
+  {
+    "application_id": "LA-00342",
+    "expected_flags": [],
+    "ground_truth_case": "clean",
+    "expected_action": "pass"
+  },
+  {
+    "application_id": "LA-00272",
+    "expected_flags": [],
+    "ground_truth_case": "clean",
+    "expected_action": "pass"
+  },
+  {
+    "application_id": "LA-00088",
+    "expected_flags": [],
+    "ground_truth_case": "clean",
+    "expected_action": "pass"
+  },
+  {
+    "application_id": "LA-00178",
+    "expected_flags": [],
+    "ground_truth_case": "clean",
+    "expected_action": "pass"
+  },
+  {
+    "application_id": "LA-00043",
+    "expected_flags": [],
+    "ground_truth_case": "clean",
+    "expected_action": "pass"
+  },
+  {
+    "application_id": "LA-00426",
+    "expected_flags": [],
+    "ground_truth_case": "clean",
+    "expected_action": "pass"
+  },
+  {
+    "application_id": "LA-00152",
+    "expected_flags": [],
+    "ground_truth_case": "clean",
+    "expected_action": "pass"
+  },
+  {
+    "application_id": "LA-00062",
+    "expected_flags": [],
+    "ground_truth_case": "clean",
+    "expected_action": "pass"
+  },
+  {
+    "application_id": "LA-00424",
+    "expected_flags": [],
+    "ground_truth_case": "clean",
+    "expected_action": "pass"
+  },
+  {
+    "application_id": "LA-00277",
+    "expected_flags": [],
+    "ground_truth_case": "clean",
+    "expected_action": "pass"
+  }
+]
